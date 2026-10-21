@@ -1,0 +1,7 @@
+# Penta AI website
+
+Public static website for https://pentaai.site, including the Chrome extension privacy policy at /privacy/.
+
+Hosting: GitHub Pages, main branch, repository root. The .nojekyll file preserves Next.js static assets. CNAME assigns pentaai.site.
+
+These files are a production Next.js static export. Make changes in the Penta AI source project, run npm run build, then copy the contents of out/ into this repository while preserving .git, CNAME, .nojekyll and this README. Commit and push to deploy.
