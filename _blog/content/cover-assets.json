@@ -1,0 +1,216 @@
+{
+  "version": 1,
+  "description": "Original illustrative interface examples matched to Penta AI homepage feature components. Not product screenshots.",
+  "caption": "Illustrative interface example.",
+  "reference": {
+    "html": "pentaai-site-main/index.html",
+    "css": "pentaai-site-main/_next/static/css/8a05ec3a957e43eb.css",
+    "surfaces": [
+      "#f5f5f5",
+      "#ffffff"
+    ],
+    "accent": "#0f7fff"
+  },
+  "fonts": {
+    "inter400": {
+      "source": "/fonts/inter-latin.woff2",
+      "sha256": "c940764593d0fe5d596be327ca7558855e018039fb78509aa21921fd3644c3e4",
+      "weight": 400
+    },
+    "inter500": {
+      "source": "/fonts/inter-latin.woff2",
+      "sha256": "c940764593d0fe5d596be327ca7558855e018039fb78509aa21921fd3644c3e4",
+      "weight": 500
+    },
+    "inter600": {
+      "source": "/fonts/inter-latin.woff2",
+      "sha256": "c940764593d0fe5d596be327ca7558855e018039fb78509aa21921fd3644c3e4",
+      "weight": 600
+    },
+    "inter700": {
+      "source": "/fonts/inter-latin.woff2",
+      "sha256": "c940764593d0fe5d596be327ca7558855e018039fb78509aa21921fd3644c3e4",
+      "weight": 700
+    },
+    "mono400": {
+      "source": "/fonts/geist-mono.woff2",
+      "sha256": "5f3d6ad60f29d6cb708414ec6887163d63bf197377ef5417d2483ff31ace6c3b",
+      "weight": 400
+    },
+    "serif400": {
+      "source": "/fonts/instrument-serif.woff2",
+      "sha256": "60c06664b5a95c7de6cc3e00d1f9034d78bd1e40b564016b241674449a067d4d",
+      "weight": 400
+    }
+  },
+  "contrast": {
+    "foreground": "#4a4a52",
+    "background": "#ffffff",
+    "ratio": 8.777355472776726,
+    "formula": "WCAG relative luminance (lighter + 0.05) / (darker + 0.05)"
+  },
+  "assets": [
+    {
+      "name": "design-system-ui",
+      "slug": "extract-design-system-from-website",
+      "componentReference": ".tokens-example",
+      "alt": "A light design token inspector with accent color, card radius, typography and shadow values.",
+      "source": "/blog/covers/design-system-ui.svg",
+      "variants": [
+        {
+          "path": "/blog/covers/design-system-ui.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 13692
+        },
+        {
+          "path": "/blog/covers/design-system-ui-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 6462
+        },
+        {
+          "path": "/blog/covers/design-system-ui-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 2410
+        }
+      ]
+    },
+    {
+      "name": "website-fonts-ui",
+      "slug": "find-font-on-website",
+      "componentReference": ".font-example",
+      "alt": "Three Inter letter specimens with 56px, 18px and 14px labels and a row of font weights.",
+      "source": "/blog/covers/website-fonts-ui.svg",
+      "variants": [
+        {
+          "path": "/blog/covers/website-fonts-ui.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 10980
+        },
+        {
+          "path": "/blog/covers/website-fonts-ui-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 5462
+        },
+        {
+          "path": "/blog/covers/website-fonts-ui-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 2622
+        }
+      ]
+    },
+    {
+      "name": "color-palette-ui",
+      "slug": "extract-website-color-palette",
+      "componentReference": ".color-example",
+      "alt": "Blue, black, gray and light gray swatches with an example text pair and its calculated 8.78 to 1 contrast ratio.",
+      "source": "/blog/covers/color-palette-ui.svg",
+      "variants": [
+        {
+          "path": "/blog/covers/color-palette-ui.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 6828
+        },
+        {
+          "path": "/blog/covers/color-palette-ui-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 3368
+        },
+        {
+          "path": "/blog/covers/color-palette-ui-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 1590
+        }
+      ]
+    },
+    {
+      "name": "css-inspection-ui",
+      "slug": "inspect-website-css",
+      "componentReference": ".inspect-example",
+      "alt": "A white add to chrome button with a blue inspection outline, dimension label and black cursor.",
+      "source": "/blog/covers/css-inspection-ui.svg",
+      "variants": [
+        {
+          "path": "/blog/covers/css-inspection-ui.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 9678
+        },
+        {
+          "path": "/blog/covers/css-inspection-ui-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 4428
+        },
+        {
+          "path": "/blog/covers/css-inspection-ui-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 1790
+        }
+      ]
+    },
+    {
+      "name": "tailwind-theme-ui",
+      "slug": "website-design-tokens-to-tailwind",
+      "componentReference": ".tokens-example + .inspect-example",
+      "alt": "Tailwind v4 theme variables mapped to a site accent and panel radius, with matching utility chips.",
+      "source": "/blog/covers/tailwind-theme-ui.svg",
+      "variants": [
+        {
+          "path": "/blog/covers/tailwind-theme-ui.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 17714
+        },
+        {
+          "path": "/blog/covers/tailwind-theme-ui-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 8262
+        },
+        {
+          "path": "/blog/covers/tailwind-theme-ui-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 3076
+        }
+      ]
+    },
+    {
+      "name": "design-md-ui",
+      "slug": "design-md-for-ai",
+      "componentReference": ".markdown-example",
+      "alt": "A white DESIGN.md document window with a blue status dot and illustrative colors and typography sections.",
+      "source": "/blog/covers/design-md-ui.svg",
+      "variants": [
+        {
+          "path": "/blog/covers/design-md-ui.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 12296
+        },
+        {
+          "path": "/blog/covers/design-md-ui-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 5846
+        },
+        {
+          "path": "/blog/covers/design-md-ui-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 2326
+        }
+      ]
+    }
+  ]
+}

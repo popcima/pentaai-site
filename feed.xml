@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0">
+  <channel>
+    <title>Penta AI Guides</title>
+    <link>https://pentaai.site/blog/</link>
+    <description>Practical guides to website fonts, colors, CSS and design systems.</description>
+    <language>en</language>
+    <lastBuildDate>Sun, 25 Oct 2026 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>How to Extract a Design System from an Existing Website</title>
+      <link>https://pentaai.site/blog/extract-design-system-from-website/</link>
+      <description>Audit colors, typography, spacing, and component states on a live website. Build a useful token inventory while separating observations from assumptions.</description>
+      <category>Design systems</category>
+      <pubDate>Sun, 25 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/extract-design-system-from-website/</guid>
+    </item>
+    <item>
+      <title>How to Find the Font on a Website in Chrome</title>
+      <link>https://pentaai.site/blog/find-font-on-website/</link>
+      <description>Identify a website’s real rendered font, size, weight, and line height in Chrome. Learn why font stacks and screenshot guesses can mislead you.</description>
+      <category>Typography</category>
+      <pubDate>Sun, 25 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/find-font-on-website/</guid>
+    </item>
+    <item>
+      <title>How to Extract a Website Color Palette That You Can Use</title>
+      <link>https://pentaai.site/blog/extract-website-color-palette/</link>
+      <description>Find a website’s colors in Chrome, separate CSS values from screenshot samples, and turn the result into a named palette with contrast checks.</description>
+      <category>Color</category>
+      <pubDate>Sun, 25 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/extract-website-color-palette/</guid>
+    </item>
+    <item>
+      <title>How to Inspect CSS on a Website with Chrome DevTools</title>
+      <link>https://pentaai.site/blog/inspect-website-css/</link>
+      <description>Find the CSS behind any page element, understand computed styles, and check layouts, hover states, and responsive behavior in Chrome DevTools.</description>
+      <category>CSS</category>
+      <pubDate>Sun, 25 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/inspect-website-css/</guid>
+    </item>
+    <item>
+      <title>Turn Website Design Tokens into a Tailwind CSS v4 Theme</title>
+      <link>https://pentaai.site/blog/website-design-tokens-to-tailwind/</link>
+      <description>Map inspected colors and radii into semantic CSS variables and a Tailwind v4 theme, with an original example and component validation checklist.</description>
+      <category>Design systems</category>
+      <pubDate>Sun, 25 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/website-design-tokens-to-tailwind/</guid>
+    </item>
+    <item>
+      <title>DESIGN.md: A Practical Design Brief for AI Coding</title>
+      <link>https://pentaai.site/blog/design-md-for-ai/</link>
+      <description>Use this DESIGN.md template to give an AI coding assistant clear design tokens, layout rules, component states, evidence, and review criteria.</description>
+      <category>AI workflows</category>
+      <pubDate>Sun, 25 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/design-md-for-ai/</guid>
+    </item>
+  </channel>
+</rss>

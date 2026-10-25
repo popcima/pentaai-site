@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /_blog/
+
+Sitemap: https://pentaai.site/sitemap.xml

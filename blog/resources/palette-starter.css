@@ -1,0 +1,10 @@
+:root {
+  --canvas: #0b100c;
+  --surface: #18221b;
+  --text: #f4f7f1;
+  --text-muted: #b7c1b9;
+  --action: #aedfbb;
+  --on-action: #102016;
+}
+.card { background: var(--surface); color: var(--text); }
+.button { background: var(--action); color: var(--on-action); }
