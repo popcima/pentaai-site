@@ -33,5 +33,5 @@ f:["$","section",null,{"id":"permissions","children":[["$","h2",null,{"children"
 16:["$","$L1f",null,{"children":["$","$1c",null,{"name":"Next.MetadataOutlet","children":"$@20"}]}]
 19:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
 21:I[7264,[],"IconMark"]
-1d:[["$","title","0",{"children":"Privacy Policy | Penta AI"}],["$","meta","1",{"name":"description","content":"How Penta AI handles website content, screenshots, saved projects and exports in its Chrome extension and website."}],["$","link","2",{"rel":"icon","href":"/assets/penta-mark.svg"}],["$","$L21","3",{}]]
+1d:[["$","title","0",{"children":"Privacy Policy | Penta AI"}],["$","meta","1",{"name":"description","content":"How Penta AI handles website content, screenshots, saved projects and exports in its Chrome extension and website."}],["$","link","2",{"rel":"icon","href":"/favicon.svg","type":"image/svg+xml","sizes":"any"}],["$","$L21","3",{}]]
 20:null

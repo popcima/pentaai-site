@@ -35,5 +35,5 @@ f:["$","article","DESIGN.md for your AI",{"className":"feature-card","children":
 17:["$","$L23",null,{"children":["$","$1d",null,{"name":"Next.MetadataOutlet","children":"$@24"}]}]
 1a:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
 25:I[7264,[],"IconMark"]
-1e:[["$","title","0",{"children":"Penta AI: Extract Any Website’s Design System, Colors & Fonts"}],["$","meta","1",{"name":"description","content":"Explore Penta AI’s design inspection preview. Discover colors, fonts, and design tokens, then export CSS, JSON, or an AI-ready brief."}],["$","link","2",{"rel":"icon","href":"/assets/penta-mark.svg"}],["$","$L25","3",{}]]
+1e:[["$","title","0",{"children":"Penta AI: Extract Any Website’s Design System, Colors & Fonts"}],["$","meta","1",{"name":"description","content":"Explore Penta AI’s design inspection preview. Discover colors, fonts, and design tokens, then export CSS, JSON, or an AI-ready brief."}],["$","link","2",{"rel":"icon","href":"/favicon.svg","type":"image/svg+xml","sizes":"any"}],["$","$L25","3",{}]]
 24:null

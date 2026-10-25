@@ -3,6 +3,7 @@ A fresh Next.js source build must incorporate these changes in source instead.
 """
 from pathlib import Path
 import hashlib,json,re,os
+from site_icons import install_icons
 site=Path(os.environ.get('PENTA_SITE_ROOT',Path(__file__).resolve().parents[1]/'site')).resolve()
 home=site/'index.html'
 s=home.read_text()
@@ -27,3 +28,4 @@ for p in site.rglob('*'):
   txt=p.read_text();revised=txt.replace(oldfile.name,name)
   if revised!=txt:p.write_text(revised)
 print('Home Blog link, canonical, social metadata, organization schema integrated; client bundle:',name)
+install_icons(site)

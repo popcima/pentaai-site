@@ -17,6 +17,7 @@ import os
 from pathlib import Path
 import re
 import xml.etree.ElementTree as ET
+from site_icons import ICON_LINKS
 
 ROOT = Path(__file__).resolve().parents[1]
 SITE = Path(os.environ.get("PENTA_SITE_ROOT", ROOT / "site")).resolve()
@@ -170,7 +171,7 @@ def document(title: str, description: str, path: str, content: str, schema: dict
 <meta name="theme-color" content="#0b0d0b"><meta property="og:type" content="{'article' if article else 'website'}"><meta property="og:site_name" content="Penta AI"><meta property="og:locale" content="en_US"><meta property="og:title" content="{escape(title, quote=True)}"><meta property="og:description" content="{escape(description, quote=True)}"><meta property="og:url" content="{BASE}{path}"><meta property="og:image" content="{escape(social_image, quote=True)}"><meta property="og:image:width" content="1200"><meta property="og:image:height" content="630"><meta property="og:image:alt" content="{escape(image_alt or title, quote=True)}">
 <meta name="twitter:card" content="summary_large_image"><meta name="twitter:title" content="{escape(title, quote=True)}"><meta name="twitter:description" content="{escape(description, quote=True)}"><meta name="twitter:image" content="{escape(social_image, quote=True)}">
 {f'<meta property="article:published_time" content="{published}">' if published else ''}
-<link rel="icon" href="/assets/penta-mark.svg" type="image/svg+xml"><link rel="alternate" type="application/rss+xml" title="Penta AI Guides" href="/feed.xml">
+{ICON_LINKS}<link rel="alternate" type="application/rss+xml" title="Penta AI Guides" href="/feed.xml">
 <link rel="preload" href="/fonts/inter-latin.woff2" as="font" type="font/woff2" crossorigin><link rel="stylesheet" href="/blog/blog.css"><script type="application/ld+json">{json_ld(schema)}</script><script src="/blog/blog.js" defer></script>
 </head><body>{header(active)}{content}{footer()}</body></html>'''
 

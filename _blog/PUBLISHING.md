@@ -6,6 +6,8 @@ Publishing branch: `main`; GitHub Pages serves the repository root.
 
 The deployed repository stores editable blog content and generators under `_blog/`. Generated pages, images, sitemap, feed and robots.txt live at the repository root. Keep `.nojekyll`, `CNAME`, the homepage and the Google verification HTML file intact.
 
+Keep the root `favicon.svg`, `favicon.ico`, `favicon-96x96.png` and `apple-touch-icon.png` files. The shared icon metadata lives in `_blog/scripts/site_icons.py`; the blog builder uses it automatically. After a fresh Next.js export, run `PENTA_SITE_ROOT="$PWD" python3 _blog/scripts/site_icons.py` to update homepage, privacy, error pages and route metadata. To regenerate the icon formats from the existing Penta mark, use `PENTA_SITE_ROOT="$PWD" node _blog/scripts/build_site_icons.cjs` with sharp available.
+
 ## Daily run
 
 The daily target is 20 new, distinct English articles for US readers at 09:00 Africa/Casablanca. Publication volume is a target, not a traffic forecast. Each article must answer a real task relevant to website inspection, typography, color, CSS, design tokens, accessibility or design handoff. Do not create near-duplicate keyword pages or filler to reach the number.
