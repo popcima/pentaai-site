@@ -46,6 +46,8 @@ The covers are defined by six topic examples. For a new article, use the correct
 
 ## Search Console
 
-The intended property is `https://pentaai.site/`, verified with the Google-provided HTML file. Keep that verification file publicly accessible for continuing verification. Submit `https://pentaai.site/sitemap.xml` in the property's Sitemaps report after deployment. Normal sitemap updates are discovered at the same URL; do not use Google's restricted Indexing API for ordinary blog articles.
+The property `https://pentaai.site/` was verified on 25 October 2026 with the Google-provided HTML file. Keep `googleea7e001102cf52e5.html` publicly accessible for continuing verification. The sitemap `https://pentaai.site/sitemap.xml` was submitted and Google reported successful processing with 10 discovered pages. Normal sitemap updates are discovered at the same URL; do not use Google's restricted Indexing API for ordinary blog articles.
+
+The active Codex automation is “Penta AI daily blog publishing,” scheduled daily at 09:00 Africa/Casablanca, beginning 26 October 2026. It resumes this chat and targets 20 useful articles per day, subject to content validation and actual publishing access. Keep Codex available on this computer for local scheduled work. Review `_blog/publication-log.json` and the canonical article dates before each batch to avoid duplicate publication.
 
 Search Console acceptance is not a guarantee of indexing, ranking or traffic. Check impressions/clicks after data begins accruing and refine the topic plan from actual evidence.

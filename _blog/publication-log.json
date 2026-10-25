@@ -1,0 +1,16 @@
+[
+  {
+    "date": "2026-10-25",
+    "count": 6,
+    "commit": "f3e76919560c8e8f9ca43bf43c4e0ed1f65c577a",
+    "deployment": "GitHub Pages built; all six article URLs returned HTTP 200",
+    "urls": [
+      "https://pentaai.site/blog/extract-design-system-from-website/",
+      "https://pentaai.site/blog/find-font-on-website/",
+      "https://pentaai.site/blog/extract-website-color-palette/",
+      "https://pentaai.site/blog/inspect-website-css/",
+      "https://pentaai.site/blog/website-design-tokens-to-tailwind/",
+      "https://pentaai.site/blog/design-md-for-ai/"
+    ]
+  }
+]
