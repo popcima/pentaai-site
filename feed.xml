@@ -166,5 +166,53 @@
       <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://pentaai.site/blog/design-handoff-checklist/</guid>
     </item>
+    <item>
+      <title>CSS Container Queries: Make Cards Fit Their Own Space</title>
+      <link>https://pentaai.site/blog/css-container-queries-cards/</link>
+      <description>Build reusable cards that adapt to their container instead of the viewport. Set up containment, choose a useful breakpoint and debug queries that do not apply.</description>
+      <category>Responsive design</category>
+      <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/css-container-queries-cards/</guid>
+    </item>
+    <item>
+      <title>Position Sticky Not Working? Check These Constraints</title>
+      <link>https://pentaai.site/blog/position-sticky-not-working/</link>
+      <description>Debug sticky headers and sidebars by checking offsets, scrolling ancestors, available height and stacking. Fix the constraint instead of switching blindly to fixed.</description>
+      <category>CSS</category>
+      <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/position-sticky-not-working/</guid>
+    </item>
+    <item>
+      <title>Unitless Line Height in CSS: Why Inheritance Matters</title>
+      <link>https://pentaai.site/blog/unitless-line-height-css/</link>
+      <description>Choose readable line spacing and understand unitless inheritance. Compare number and length values, inspect nested text, and test user spacing overrides.</description>
+      <category>Typography</category>
+      <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/unitless-line-height-css/</guid>
+    </item>
+    <item>
+      <title>Object Fit Cover vs Contain: Fix Website Image Cropping</title>
+      <link>https://pentaai.site/blog/object-fit-cover-contain/</link>
+      <description>Choose cover or contain based on what an image must preserve. Define the image box, adjust the focal point and test portrait, landscape and transparent assets.</description>
+      <category>Assets</category>
+      <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/object-fit-cover-contain/</guid>
+    </item>
+    <item>
+      <title>CSS Logical Properties: Layouts That Follow Text Direction</title>
+      <link>https://pentaai.site/blog/css-logical-properties-rtl/</link>
+      <description>Replace direction-dependent spacing with logical CSS properties. Understand inline and block axes, test RTL content, and preserve intentional physical placement.</description>
+      <category>CSS</category>
+      <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/css-logical-properties-rtl/</guid>
+    </item>
+    <item>
+      <title>Responsive Images: How srcset and sizes Work Together</title>
+      <link>https://pentaai.site/blog/responsive-images-srcset-sizes/</link>
+      <description>Serve suitable image resolutions with srcset and sizes. Match the declared image slot to your layout, reserve space and verify the selected resource in Chrome.</description>
+      <category>Assets</category>
+      <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/responsive-images-srcset-sizes/</guid>
+    </item>
   </channel>
 </rss>

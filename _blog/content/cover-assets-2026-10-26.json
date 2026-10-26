@@ -1,0 +1,174 @@
+{
+  "version": 1,
+  "description": "Original explanatory illustrations matching Penta AI homepage feature panels. Values are examples; not product screenshots.",
+  "assets": [
+    {
+      "slug": "css-container-queries-cards",
+      "alt": "A narrow stacked card and a wider side-by-side card responding to their own containers.",
+      "source": "/blog/covers/css-container-queries-cards.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/css-container-queries-cards.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 11188
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/css-container-queries-cards-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 4964
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/css-container-queries-cards-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 2070
+        }
+      ]
+    },
+    {
+      "slug": "position-sticky-not-working",
+      "alt": "A sticky sidebar within a tall page region, with a visible top offset and the containing boundary.",
+      "source": "/blog/covers/position-sticky-not-working.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/position-sticky-not-working.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 10194
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/position-sticky-not-working-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 4766
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/position-sticky-not-working-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 2078
+        }
+      ]
+    },
+    {
+      "slug": "unitless-line-height-css",
+      "alt": "Two typography examples showing a unitless 1.5 multiplier producing 24 and 36 pixel line heights for different text sizes.",
+      "source": "/blog/covers/unitless-line-height-css.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/unitless-line-height-css.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 16062
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/unitless-line-height-css-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 7192
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/unitless-line-height-css-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 2958
+        }
+      ]
+    },
+    {
+      "slug": "object-fit-cover-contain",
+      "alt": "Illustrative contain and cover boxes showing the whole scene with empty space versus a cropped scene filling its box.",
+      "source": "/blog/covers/object-fit-cover-contain.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/object-fit-cover-contain.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 11908
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/object-fit-cover-contain-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 5904
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/object-fit-cover-contain-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 2780
+        }
+      ]
+    },
+    {
+      "slug": "css-logical-properties-rtl",
+      "alt": "Two notices showing the accent border at the reading-start edge in left-to-right and right-to-left layouts.",
+      "source": "/blog/covers/css-logical-properties-rtl.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/css-logical-properties-rtl.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 13998
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/css-logical-properties-rtl-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 6252
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/css-logical-properties-rtl-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 2582
+        }
+      ]
+    },
+    {
+      "slug": "responsive-images-srcset-sizes",
+      "alt": "Three illustrative image candidates labeled 400w, 800w and 1200w above a separate rendered-slot description.",
+      "source": "/blog/covers/responsive-images-srcset-sizes.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/responsive-images-srcset-sizes.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 12352
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/responsive-images-srcset-sizes-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 5602
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/responsive-images-srcset-sizes-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 2294
+        }
+      ]
+    }
+  ]
+}
