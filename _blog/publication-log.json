@@ -12,5 +12,27 @@
       "https://pentaai.site/blog/website-design-tokens-to-tailwind/",
       "https://pentaai.site/blog/design-md-for-ai/"
     ]
+  },
+  {
+    "date": "2026-10-26",
+    "count": 14,
+    "commit": "dfcad074bfddab808e54b80f2caa61d65c7745bf",
+    "deployment": "GitHub Pages built; all fourteen article URLs and covers verified live; sitemap and feed match build",
+    "urls": [
+      "https://pentaai.site/blog/fix-web-font-not-loading/",
+      "https://pentaai.site/blog/check-website-color-contrast/",
+      "https://pentaai.site/blog/debug-css-specificity-cascade/",
+      "https://pentaai.site/blog/css-grid-vs-flexbox/",
+      "https://pentaai.site/blog/debug-responsive-horizontal-overflow/",
+      "https://pentaai.site/blog/css-spacing-scale/",
+      "https://pentaai.site/blog/fluid-typography-css-clamp/",
+      "https://pentaai.site/blog/inspect-css-box-shadow/",
+      "https://pentaai.site/blog/css-border-radius-system/",
+      "https://pentaai.site/blog/css-custom-property-fallbacks/",
+      "https://pentaai.site/blog/dark-mode-css-tokens/",
+      "https://pentaai.site/blog/svg-vs-png-website-icons/",
+      "https://pentaai.site/blog/accessible-button-states/",
+      "https://pentaai.site/blog/design-handoff-checklist/"
+    ]
   }
 ]
