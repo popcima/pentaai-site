@@ -1,0 +1,398 @@
+{
+  "version": 1,
+  "description": "Original explanatory illustrations matching Penta AI homepage feature panels. Values are examples; not product screenshots.",
+  "assets": [
+    {
+      "slug": "fix-web-font-not-loading",
+      "alt": "Illustrative font request panel with a missing file, a successful file and a rendered-font specimen.",
+      "source": "/blog/covers/fix-web-font-not-loading.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/fix-web-font-not-loading.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 18536
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/fix-web-font-not-loading-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 8352
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/fix-web-font-not-loading-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 3258
+        }
+      ]
+    },
+    {
+      "slug": "check-website-color-contrast",
+      "alt": "Two illustrative text and background pairs: dark gray on white at 8.48 to 1 and black on white at 21 to 1.",
+      "source": "/blog/covers/check-website-color-contrast.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/check-website-color-contrast.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 12286
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/check-website-color-contrast-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 5590
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/check-website-color-contrast-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 2392
+        }
+      ]
+    },
+    {
+      "slug": "debug-css-specificity-cascade",
+      "alt": "Illustrative normal CSS layer comparison showing the overrides layer winning over a components layer.",
+      "source": "/blog/covers/debug-css-specificity-cascade.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/debug-css-specificity-cascade.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 20192
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/debug-css-specificity-cascade-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 9002
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/debug-css-specificity-cascade-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 3486
+        }
+      ]
+    },
+    {
+      "slug": "css-grid-vs-flexbox",
+      "alt": "A grid diagram with shared columns beside a flex layout with independently sized items on each row.",
+      "source": "/blog/covers/css-grid-vs-flexbox.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/css-grid-vs-flexbox.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 11982
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/css-grid-vs-flexbox-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 5626
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/css-grid-vs-flexbox-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 2510
+        }
+      ]
+    },
+    {
+      "slug": "debug-responsive-horizontal-overflow",
+      "alt": "Illustrative mobile containers comparing an overflowing fixed-width card with a card constrained to the available width.",
+      "source": "/blog/covers/debug-responsive-horizontal-overflow.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/debug-responsive-horizontal-overflow.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 16436
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/debug-responsive-horizontal-overflow-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 7444
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/debug-responsive-horizontal-overflow-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 2940
+        }
+      ]
+    },
+    {
+      "slug": "css-spacing-scale",
+      "alt": "A spacing inventory with bars representing 8, 16, 24 and 32 pixel example distances.",
+      "source": "/blog/covers/css-spacing-scale.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/css-spacing-scale.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 11784
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/css-spacing-scale-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 5446
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/css-spacing-scale-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 2158
+        }
+      ]
+    },
+    {
+      "slug": "fluid-typography-css-clamp",
+      "alt": "Three typography specimens increasing from 32 to 44 to 56 pixels with the example fluid clamp expression.",
+      "source": "/blog/covers/fluid-typography-css-clamp.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/fluid-typography-css-clamp.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 16340
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/fluid-typography-css-clamp-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 7948
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/fluid-typography-css-clamp-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 3382
+        }
+      ]
+    },
+    {
+      "slug": "inspect-css-box-shadow",
+      "alt": "A layered card elevation illustration labeling a contact shadow and a softer surrounding shadow.",
+      "source": "/blog/covers/inspect-css-box-shadow.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/inspect-css-box-shadow.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 12300
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/inspect-css-box-shadow-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 5712
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/inspect-css-box-shadow-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 2212
+        }
+      ]
+    },
+    {
+      "slug": "css-border-radius-system",
+      "alt": "Three white component shapes illustrating an 8 pixel control radius, a 16 pixel card radius and a pill.",
+      "source": "/blog/covers/css-border-radius-system.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/css-border-radius-system.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 10066
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/css-border-radius-system-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 4278
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/css-border-radius-system-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 1772
+        }
+      ]
+    },
+    {
+      "slug": "css-custom-property-fallbacks",
+      "alt": "A variable debugging diagram distinguishing a missing token using its fallback from an existing length used incorrectly as a color.",
+      "source": "/blog/covers/css-custom-property-fallbacks.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/css-custom-property-fallbacks.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 15864
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/css-custom-property-fallbacks-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 7242
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/css-custom-property-fallbacks-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 2790
+        }
+      ]
+    },
+    {
+      "slug": "dark-mode-css-tokens",
+      "alt": "Light and dark card examples using the same semantic surface and text roles.",
+      "source": "/blog/covers/dark-mode-css-tokens.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/dark-mode-css-tokens.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 16062
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/dark-mode-css-tokens-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 7174
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/dark-mode-css-tokens-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 2834
+        }
+      ]
+    },
+    {
+      "slug": "svg-vs-png-website-icons",
+      "alt": "A vector arrow beside a deliberately pixelated arrow demonstrating vector geometry and raster pixels.",
+      "source": "/blog/covers/svg-vs-png-website-icons.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/svg-vs-png-website-icons.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 12418
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/svg-vs-png-website-icons-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 6060
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/svg-vs-png-website-icons-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 3114
+        }
+      ]
+    },
+    {
+      "slug": "accessible-button-states",
+      "alt": "Four illustrative save buttons in default, hover, keyboard focus and disabled states.",
+      "source": "/blog/covers/accessible-button-states.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/accessible-button-states.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 20172
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/accessible-button-states-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 9196
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/accessible-button-states-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 3780
+        }
+      ]
+    },
+    {
+      "slug": "design-handoff-checklist",
+      "alt": "A design handoff checklist covering tokens, assets, responsive behavior, interaction states and acceptance checks.",
+      "source": "/blog/covers/design-handoff-checklist.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/design-handoff-checklist.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 23102
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/design-handoff-checklist-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 10408
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/design-handoff-checklist-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 3922
+        }
+      ]
+    }
+  ]
+}

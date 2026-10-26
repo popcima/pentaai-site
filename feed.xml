@@ -5,7 +5,7 @@
     <link>https://pentaai.site/blog/</link>
     <description>Practical guides to website fonts, colors, CSS and design systems.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 25 Oct 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 00:00:00 +0000</lastBuildDate>
     <item>
       <title>How to Extract a Design System from an Existing Website</title>
       <link>https://pentaai.site/blog/extract-design-system-from-website/</link>
@@ -53,6 +53,118 @@
       <category>AI workflows</category>
       <pubDate>Sun, 25 Oct 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://pentaai.site/blog/design-md-for-ai/</guid>
+    </item>
+    <item>
+      <title>Web Font Not Loading? A Chrome Debugging Checklist</title>
+      <link>https://pentaai.site/blog/fix-web-font-not-loading/</link>
+      <description>Find why a web font falls back in Chrome. Check font requests, CSS paths, family names, weights and missing characters with a repeatable debugging workflow.</description>
+      <category>Typography</category>
+      <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/fix-web-font-not-loading/</guid>
+    </item>
+    <item>
+      <title>How to Check Website Color Contrast, State by State</title>
+      <link>https://pentaai.site/blog/check-website-color-contrast/</link>
+      <description>Audit text, buttons and focus indicators against their real backgrounds. Learn contrast thresholds, inspect transparent colors and record actionable fixes.</description>
+      <category>Colors</category>
+      <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/check-website-color-contrast/</guid>
+    </item>
+    <item>
+      <title>Why Your CSS Is Not Applying: Debug the Cascade</title>
+      <link>https://pentaai.site/blog/debug-css-specificity-cascade/</link>
+      <description>Find why a CSS declaration loses without adding random important flags. Trace selector matches, cascade layers, specificity, inheritance and source order.</description>
+      <category>CSS</category>
+      <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/debug-css-specificity-cascade/</guid>
+    </item>
+    <item>
+      <title>CSS Grid vs Flexbox: Choose by the Layout You Need</title>
+      <link>https://pentaai.site/blog/css-grid-vs-flexbox/</link>
+      <description>Choose Grid or Flexbox using card alignment, wrapping and content behavior. Compare practical layouts, nested patterns and common sizing problems.</description>
+      <category>CSS</category>
+      <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/css-grid-vs-flexbox/</guid>
+    </item>
+    <item>
+      <title>How to Find and Fix Horizontal Overflow on Mobile</title>
+      <link>https://pentaai.site/blog/debug-responsive-horizontal-overflow/</link>
+      <description>Track down the element making a page wider than its viewport. Fix grid minimums, long content, media and fixed widths without hiding useful content.</description>
+      <category>Responsive design</category>
+      <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/debug-responsive-horizontal-overflow/</guid>
+    </item>
+    <item>
+      <title>How to Build a CSS Spacing Scale from Real Components</title>
+      <link>https://pentaai.site/blog/css-spacing-scale/</link>
+      <description>Turn inconsistent margins, padding and gaps into a small CSS spacing scale. Audit component roles, handle exceptions and validate narrow layouts.</description>
+      <category>Design systems</category>
+      <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/css-spacing-scale/</guid>
+    </item>
+    <item>
+      <title>Fluid Typography with CSS clamp(): A Worked Example</title>
+      <link>https://pentaai.site/blog/fluid-typography-css-clamp/</link>
+      <description>Create headings that scale between readable limits with CSS clamp. Calculate a fluid range, combine rem and viewport units, and test zoom behavior.</description>
+      <category>Typography</category>
+      <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/fluid-typography-css-clamp/</guid>
+    </item>
+    <item>
+      <title>How to Inspect and Rebuild a CSS Box Shadow</title>
+      <link>https://pentaai.site/blog/inspect-css-box-shadow/</link>
+      <description>Read CSS shadow layers, offsets, blur and spread. Rebuild subtle card elevation, identify clipping, and test the result on the intended background.</description>
+      <category>CSS</category>
+      <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/inspect-css-box-shadow/</guid>
+    </item>
+    <item>
+      <title>Build a Consistent Border Radius System in CSS</title>
+      <link>https://pentaai.site/blog/css-border-radius-system/</link>
+      <description>Choose useful radius tokens for buttons, cards and nested surfaces. Inspect real corners, avoid clipping focus rings, and document intentional exceptions.</description>
+      <category>Design systems</category>
+      <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/css-border-radius-system/</guid>
+    </item>
+    <item>
+      <title>CSS Variable Fallbacks: Missing Values vs Invalid Values</title>
+      <link>https://pentaai.site/blog/css-custom-property-fallbacks/</link>
+      <description>Debug CSS custom properties by tracing scope, inheritance and var fallbacks. Learn why an existing value of the wrong type can still break a declaration.</description>
+      <category>CSS</category>
+      <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/css-custom-property-fallbacks/</guid>
+    </item>
+    <item>
+      <title>Build Dark Mode with Semantic CSS Color Tokens</title>
+      <link>https://pentaai.site/blog/dark-mode-css-tokens/</link>
+      <description>Create light and dark themes with semantic CSS variables. Respect system preferences, distinguish color-scheme, and test surfaces, controls and contrast.</description>
+      <category>Colors</category>
+      <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/dark-mode-css-tokens/</guid>
+    </item>
+    <item>
+      <title>SVG vs PNG for Website Icons: A Practical Choice</title>
+      <link>https://pentaai.site/blog/svg-vs-png-website-icons/</link>
+      <description>Choose an icon format based on scaling, detail, styling and delivery. Compare SVG and PNG, set dimensions, and check sharpness at actual display sizes.</description>
+      <category>Assets</category>
+      <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/svg-vs-png-website-icons/</guid>
+    </item>
+    <item>
+      <title>Accessible Button States: Default, Focus and Disabled</title>
+      <link>https://pentaai.site/blog/accessible-button-states/</link>
+      <description>Specify buttons beyond the default screenshot. Cover keyboard focus, hover, pressed and disabled behavior with native HTML and a practical review matrix.</description>
+      <category>Accessibility</category>
+      <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/accessible-button-states/</guid>
+    </item>
+    <item>
+      <title>A Design Handoff Checklist Developers Can Verify</title>
+      <link>https://pentaai.site/blog/design-handoff-checklist/</link>
+      <description>Hand off a website with clear tokens, assets, responsive rules and interaction states. Use acceptance criteria that can be checked in the running interface.</description>
+      <category>Design systems</category>
+      <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/design-handoff-checklist/</guid>
     </item>
   </channel>
 </rss>
