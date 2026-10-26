@@ -34,5 +34,19 @@
       "https://pentaai.site/blog/accessible-button-states/",
       "https://pentaai.site/blog/design-handoff-checklist/"
     ]
+  },
+  {
+    "date": "2026-10-26",
+    "count": 6,
+    "commit": "3af1e9eb881fa8525382f2544b96e26ae0338e65",
+    "deployment": "All six articles and covers returned HTTP 200 and matched local build; sitemap and RSS verified live",
+    "urls": [
+      "https://pentaai.site/blog/css-container-queries-cards/",
+      "https://pentaai.site/blog/position-sticky-not-working/",
+      "https://pentaai.site/blog/unitless-line-height-css/",
+      "https://pentaai.site/blog/object-fit-cover-contain/",
+      "https://pentaai.site/blog/css-logical-properties-rtl/",
+      "https://pentaai.site/blog/responsive-images-srcset-sizes/"
+    ]
   }
 ]
