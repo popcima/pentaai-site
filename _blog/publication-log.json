@@ -48,5 +48,33 @@
       "https://pentaai.site/blog/css-logical-properties-rtl/",
       "https://pentaai.site/blog/responsive-images-srcset-sizes/"
     ]
+  },
+  {
+    "date": "2026-10-27",
+    "count": 20,
+    "commit": "5b8cd4e01898c4798b2d7c1f621730f7418443f0",
+    "deployment": "GitHub Pages built; all twenty articles, sixty responsive cover variants, blog index, sitemap and RSS returned HTTP 200 and matched the local build",
+    "urls": [
+      "https://pentaai.site/blog/z-index-stacking-context-debug/",
+      "https://pentaai.site/blog/css-margin-collapse-explained/",
+      "https://pentaai.site/blog/css-subgrid-card-alignment/",
+      "https://pentaai.site/blog/css-aspect-ratio-box-sizing/",
+      "https://pentaai.site/blog/inspect-css-pseudo-elements/",
+      "https://pentaai.site/blog/css-multiple-backgrounds-overlay/",
+      "https://pentaai.site/blog/prefers-reduced-motion-interface/",
+      "https://pentaai.site/blog/accessible-skip-link/",
+      "https://pentaai.site/blog/native-dialog-keyboard-checklist/",
+      "https://pentaai.site/blog/html-form-labels-placeholders/",
+      "https://pentaai.site/blog/accessible-form-error-messages/",
+      "https://pentaai.site/blog/write-alt-text-ui-images/",
+      "https://pentaai.site/blog/responsive-data-tables/",
+      "https://pentaai.site/blog/css-long-words-overflow-wrap/",
+      "https://pentaai.site/blog/variable-font-axes-css/",
+      "https://pentaai.site/blog/preload-web-fonts-carefully/",
+      "https://pentaai.site/blog/css-print-styles-guide/",
+      "https://pentaai.site/blog/css-link-underline-styling/",
+      "https://pentaai.site/blog/css-scroll-margin-anchor-links/",
+      "https://pentaai.site/blog/svg-currentcolor-icons/"
+    ]
   }
 ]
