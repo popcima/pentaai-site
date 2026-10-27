@@ -76,5 +76,34 @@
       "https://pentaai.site/blog/css-scroll-margin-anchor-links/",
       "https://pentaai.site/blog/svg-currentcolor-icons/"
     ]
+  },
+  {
+    "date": "2026-10-27",
+    "batch": "additional manual request",
+    "count": 20,
+    "commit": "750fa604e61e4bc56ff7ca0d018ec7a88555734b",
+    "deployment": "GitHub Pages built; 83 checked public URLs returned HTTP 200 and matched the local build. Daily total 40 by explicit manual request; automatic target remains 20.",
+    "urls": [
+      "https://pentaai.site/blog/css-flex-shrink-buttons/",
+      "https://pentaai.site/blog/css-grid-auto-fit-auto-fill/",
+      "https://pentaai.site/blog/mobile-viewport-svh-dvh-lvh/",
+      "https://pentaai.site/blog/css-calc-layout-gutters/",
+      "https://pentaai.site/blog/css-position-containing-block/",
+      "https://pentaai.site/blog/css-scroll-snap-gallery/",
+      "https://pentaai.site/blog/html-details-summary-disclosure/",
+      "https://pentaai.site/blog/accessible-tabs-manual-activation/",
+      "https://pentaai.site/blog/html-popover-help-panel/",
+      "https://pentaai.site/blog/css-forced-colors-review/",
+      "https://pentaai.site/blog/css-linear-gradient-stops/",
+      "https://pentaai.site/blog/css-color-mix-surface-tokens/",
+      "https://pentaai.site/blog/css-tabular-numerals-tables/",
+      "https://pentaai.site/blog/css-font-synthesis-faux-styles/",
+      "https://pentaai.site/blog/css-text-wrap-balance-pretty/",
+      "https://pentaai.site/blog/css-image-set-background-density/",
+      "https://pentaai.site/blog/css-accent-color-native-controls/",
+      "https://pentaai.site/blog/chrome-devtools-save-css-changes/",
+      "https://pentaai.site/blog/chrome-devtools-coverage-unused-css/",
+      "https://pentaai.site/blog/chrome-devtools-force-hover-focus/"
+    ]
   }
 ]
