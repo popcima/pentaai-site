@@ -1,0 +1,566 @@
+{
+  "version": 1,
+  "description": "Original explanatory illustrations matching Penta AI homepage feature panels. Values are examples; not product screenshots.",
+  "assets": [
+    {
+      "slug": "css-flex-shrink-buttons",
+      "alt": "A flexible filename beside a protected View details button, with a second row showing the stacked narrow-screen arrangement.",
+      "source": "/blog/covers/css-flex-shrink-buttons.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/css-flex-shrink-buttons.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 14246
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/css-flex-shrink-buttons-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 6158
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/css-flex-shrink-buttons-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 2390
+        }
+      ]
+    },
+    {
+      "slug": "css-grid-auto-fit-auto-fill",
+      "alt": "Three cards expand across an auto-fit row, while an auto-fill row keeps an empty fourth track.",
+      "source": "/blog/covers/css-grid-auto-fit-auto-fill.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/css-grid-auto-fit-auto-fill.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 12346
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/css-grid-auto-fit-auto-fill-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 6040
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/css-grid-auto-fit-auto-fill-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 2548
+        }
+      ]
+    },
+    {
+      "slug": "mobile-viewport-svh-dvh-lvh",
+      "alt": "Three mobile outlines compare small, dynamic and large viewport sizing with browser-control areas shown above the content.",
+      "source": "/blog/covers/mobile-viewport-svh-dvh-lvh.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/mobile-viewport-svh-dvh-lvh.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 10640
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/mobile-viewport-svh-dvh-lvh-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 5232
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/mobile-viewport-svh-dvh-lvh-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 2360
+        }
+      ]
+    },
+    {
+      "slug": "css-calc-layout-gutters",
+      "alt": "A centered container with two equal side gutters and the formula 100 percent minus twice the gutter.",
+      "source": "/blog/covers/css-calc-layout-gutters.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/css-calc-layout-gutters.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 12700
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/css-calc-layout-gutters-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 5760
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/css-calc-layout-gutters-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 2370
+        }
+      ]
+    },
+    {
+      "slug": "css-position-containing-block",
+      "alt": "A fixed help control inside a transformed preview panel, illustrating that its positioning boundary belongs to the ancestor.",
+      "source": "/blog/covers/css-position-containing-block.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/css-position-containing-block.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 15380
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/css-position-containing-block-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 7166
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/css-position-containing-block-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 2848
+        }
+      ]
+    },
+    {
+      "slug": "css-scroll-snap-gallery",
+      "alt": "A horizontally scrolling sample gallery with the next card partially visible and a marked start alignment.",
+      "source": "/blog/covers/css-scroll-snap-gallery.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/css-scroll-snap-gallery.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 13400
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/css-scroll-snap-gallery-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 6294
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/css-scroll-snap-gallery-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 2718
+        }
+      ]
+    },
+    {
+      "slug": "html-details-summary-disclosure",
+      "alt": "A closed disclosure summary above an open disclosure with visible supporting text and a downward marker.",
+      "source": "/blog/covers/html-details-summary-disclosure.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/html-details-summary-disclosure.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 16470
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/html-details-summary-disclosure-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 7814
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/html-details-summary-disclosure-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 3266
+        }
+      ]
+    },
+    {
+      "slug": "accessible-tabs-manual-activation",
+      "alt": "Overview remains selected while a focus ring highlights Files, with Enter shown as the activation step.",
+      "source": "/blog/covers/accessible-tabs-manual-activation.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/accessible-tabs-manual-activation.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 19332
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/accessible-tabs-manual-activation-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 8000
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/accessible-tabs-manual-activation-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 3168
+        }
+      ]
+    },
+    {
+      "slug": "html-popover-help-panel",
+      "alt": "A Format help invoker and a small help panel with a visible Close help button over ordinary page content.",
+      "source": "/blog/covers/html-popover-help-panel.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/html-popover-help-panel.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 15498
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/html-popover-help-panel-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 6962
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/html-popover-help-panel-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 2852
+        }
+      ]
+    },
+    {
+      "slug": "css-forced-colors-review",
+      "alt": "A standard button beside a forced-colors-style button whose border and focus outline remain visible.",
+      "source": "/blog/covers/css-forced-colors-review.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/css-forced-colors-review.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 16906
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/css-forced-colors-review-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 7756
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/css-forced-colors-review-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 3126
+        }
+      ]
+    },
+    {
+      "slug": "css-linear-gradient-stops",
+      "alt": "A smooth blue-to-green gradient holds each end color through a quarter of its width, compared with a sharp halfway split.",
+      "source": "/blog/covers/css-linear-gradient-stops.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/css-linear-gradient-stops.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 13836
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/css-linear-gradient-stops-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 6028
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/css-linear-gradient-stops-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 2358
+        }
+      ]
+    },
+    {
+      "slug": "css-color-mix-surface-tokens",
+      "alt": "A brand-color swatch and white canvas swatch feed a derived note surface labeled with its mixing relationship.",
+      "source": "/blog/covers/css-color-mix-surface-tokens.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/css-color-mix-surface-tokens.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 16758
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/css-color-mix-surface-tokens-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 7486
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/css-color-mix-surface-tokens-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 2972
+        }
+      ]
+    },
+    {
+      "slug": "css-tabular-numerals-tables",
+      "alt": "A numeric table aligns illustrative file counts in equal-width digit columns while labels keep proportional typography.",
+      "source": "/blog/covers/css-tabular-numerals-tables.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/css-tabular-numerals-tables.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 15140
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/css-tabular-numerals-tables-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 6850
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/css-tabular-numerals-tables-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 2838
+        }
+      ]
+    },
+    {
+      "slug": "css-font-synthesis-faux-styles",
+      "alt": "A font resource checklist separates a real regular face, bold face and italic face before synthesis is disabled.",
+      "source": "/blog/covers/css-font-synthesis-faux-styles.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/css-font-synthesis-faux-styles.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 20630
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/css-font-synthesis-faux-styles-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 9330
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/css-font-synthesis-faux-styles-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 3664
+        }
+      ]
+    },
+    {
+      "slug": "css-text-wrap-balance-pretty",
+      "alt": "A short heading is shown with balanced line lengths beside a paragraph with a deliberate readable measure.",
+      "source": "/blog/covers/css-text-wrap-balance-pretty.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/css-text-wrap-balance-pretty.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 18510
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/css-text-wrap-balance-pretty-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 8576
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/css-text-wrap-balance-pretty-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 3266
+        }
+      ]
+    },
+    {
+      "slug": "css-image-set-background-density",
+      "alt": "Standard and high-density texture assets have different pixel dimensions but share the same CSS display size.",
+      "source": "/blog/covers/css-image-set-background-density.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/css-image-set-background-density.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 18066
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/css-image-set-background-density-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 8128
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/css-image-set-background-density-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 3064
+        }
+      ]
+    },
+    {
+      "slug": "css-accent-color-native-controls",
+      "alt": "A checked native-style option with a blue accent and a clear label, beside an unchecked option.",
+      "source": "/blog/covers/css-accent-color-native-controls.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/css-accent-color-native-controls.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 17928
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/css-accent-color-native-controls-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 7840
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/css-accent-color-native-controls-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 3150
+        }
+      ]
+    },
+    {
+      "slug": "chrome-devtools-save-css-changes",
+      "alt": "An illustrative CSS diff changes an eight-pixel gap to twelve pixels, then transfers the reviewed change to source.",
+      "source": "/blog/covers/chrome-devtools-save-css-changes.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/chrome-devtools-save-css-changes.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 14402
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/chrome-devtools-save-css-changes-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 6736
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/chrome-devtools-save-css-changes-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 2642
+        }
+      ]
+    },
+    {
+      "slug": "chrome-devtools-coverage-unused-css",
+      "alt": "A coverage review separates an error-state rule, a mobile rule and a possible legacy rule before deciding what to remove.",
+      "source": "/blog/covers/chrome-devtools-coverage-unused-css.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/chrome-devtools-coverage-unused-css.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 24912
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/chrome-devtools-coverage-unused-css-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 10904
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/chrome-devtools-coverage-unused-css-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 4116
+        }
+      ]
+    },
+    {
+      "slug": "chrome-devtools-force-hover-focus",
+      "alt": "Three link states show a regular underline, a hover color and a visible focus outline, followed by a reminder to test real interaction.",
+      "source": "/blog/covers/chrome-devtools-force-hover-focus.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/chrome-devtools-force-hover-focus.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 22934
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/chrome-devtools-force-hover-focus-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 9886
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/chrome-devtools-force-hover-focus-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 3540
+        }
+      ]
+    }
+  ]
+}

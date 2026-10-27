@@ -374,5 +374,165 @@
       <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://pentaai.site/blog/svg-currentcolor-icons/</guid>
     </item>
+    <item>
+      <title>Why Flexbox Shrinks Your Button—and How to Fix It</title>
+      <link>https://pentaai.site/blog/css-flex-shrink-buttons/</link>
+      <description>Diagnose a squeezed button in a flex row. Inspect the flex basis, minimum size and available space, then decide which item should shrink or wrap.</description>
+      <category>CSS</category>
+      <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/css-flex-shrink-buttons/</guid>
+    </item>
+    <item>
+      <title>CSS Grid auto-fit vs auto-fill: What Happens to Empty Tracks?</title>
+      <link>https://pentaai.site/blog/css-grid-auto-fit-auto-fill/</link>
+      <description>Compare auto-fit and auto-fill with a sparse card grid. Understand empty tracks, minimum card widths and why the two values can look identical.</description>
+      <category>CSS</category>
+      <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/css-grid-auto-fit-auto-fill/</guid>
+    </item>
+    <item>
+      <title>svh, dvh and lvh: Choose a Mobile Viewport Height</title>
+      <link>https://pentaai.site/blog/mobile-viewport-svh-dvh-lvh/</link>
+      <description>Choose a viewport-height unit for mobile sections. Compare stable small viewports with dynamic sizing and test browser bars, long content and keyboards.</description>
+      <category>CSS</category>
+      <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/mobile-viewport-svh-dvh-lvh/</guid>
+    </item>
+    <item>
+      <title>CSS calc(): Build Gutters Without Guessing Pixel Widths</title>
+      <link>https://pentaai.site/blog/css-calc-layout-gutters/</link>
+      <description>Use calc() to combine relative widths and fixed gutters. Check arithmetic syntax, box sizing and the containing block with a small layout example.</description>
+      <category>CSS</category>
+      <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/css-calc-layout-gutters/</guid>
+    </item>
+    <item>
+      <title>Why a Fixed or Absolute Element Moves with Its Parent</title>
+      <link>https://pentaai.site/blog/css-position-containing-block/</link>
+      <description>Trace the containing block of an absolute or fixed element. Reproduce transformed-ancestor behavior and choose where the positioned component belongs.</description>
+      <category>CSS</category>
+      <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/css-position-containing-block/</guid>
+    </item>
+    <item>
+      <title>Build a Scroll-Snap Gallery That Still Scrolls Naturally</title>
+      <link>https://pentaai.site/blog/css-scroll-snap-gallery/</link>
+      <description>Create a horizontal card gallery with CSS scroll snap. Set the container and item roles, preserve keyboard access and choose proximity snapping deliberately.</description>
+      <category>CSS</category>
+      <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/css-scroll-snap-gallery/</guid>
+    </item>
+    <item>
+      <title>Use details and summary for Simple Disclosure Panels</title>
+      <link>https://pentaai.site/blog/html-details-summary-disclosure/</link>
+      <description>Build a native disclosure with details and summary. Style its open state, avoid Boolean-attribute mistakes and review labels, focus and essential content.</description>
+      <category>Accessibility</category>
+      <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/html-details-summary-disclosure/</guid>
+    </item>
+    <item>
+      <title>Review Accessible Tabs with Manual Activation</title>
+      <link>https://pentaai.site/blog/accessible-tabs-manual-activation/</link>
+      <description>Audit a manual-activation tab interface. Separate keyboard focus from selection and check tab roles, panel relationships, arrow keys and content access.</description>
+      <category>Accessibility</category>
+      <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/accessible-tabs-manual-activation/</guid>
+    </item>
+    <item>
+      <title>Build a Small Help Panel with the HTML Popover API</title>
+      <link>https://pentaai.site/blog/html-popover-help-panel/</link>
+      <description>Use a native popover for optional help. Connect its button, provide a close action and check dismissal, keyboard navigation and non-modal behavior.</description>
+      <category>Accessibility</category>
+      <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/html-popover-help-panel/</guid>
+    </item>
+    <item>
+      <title>Review Your Interface in Forced Colors Mode</title>
+      <link>https://pentaai.site/blog/css-forced-colors-review/</link>
+      <description>Check borders, focus indicators and selected states in forced colors mode. Use system colors for targeted repairs while preserving the user’s palette.</description>
+      <category>Accessibility</category>
+      <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/css-forced-colors-review/</guid>
+    </item>
+    <item>
+      <title>Inspect CSS Gradient Angles and Color Stops</title>
+      <link>https://pentaai.site/blog/css-linear-gradient-stops/</link>
+      <description>Read a linear gradient as a direction and a series of stops. Recreate smooth and hard transitions, then check the result at the component’s actual size.</description>
+      <category>Color</category>
+      <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/css-linear-gradient-stops/</guid>
+    </item>
+    <item>
+      <title>Use CSS color-mix() for Related Surface Tokens</title>
+      <link>https://pentaai.site/blog/css-color-mix-surface-tokens/</link>
+      <description>Derive a related interface surface with color-mix(). Choose the color space, keep a fallback and validate contrast instead of treating a mix as a guarantee.</description>
+      <category>Color</category>
+      <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/css-color-mix-surface-tokens/</guid>
+    </item>
+    <item>
+      <title>Align Numeric Columns with CSS Tabular Numerals</title>
+      <link>https://pentaai.site/blog/css-tabular-numerals-tables/</link>
+      <description>Use tabular-nums for stable number columns and counters. Check font support, decimal formatting and alignment without changing the rest of your typography.</description>
+      <category>Typography</category>
+      <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/css-tabular-numerals-tables/</guid>
+    </item>
+    <item>
+      <title>Spot Faux Bold and Italic with CSS font-synthesis</title>
+      <link>https://pentaai.site/blog/css-font-synthesis-faux-styles/</link>
+      <description>Diagnose synthetic bold or italic text. Inspect the loaded faces and font declarations before deciding whether to disable synthesis for a type specimen.</description>
+      <category>Typography</category>
+      <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/css-font-synthesis-faux-styles/</guid>
+    </item>
+    <item>
+      <title>text-wrap: balance vs pretty for Headings and Copy</title>
+      <link>https://pentaai.site/blog/css-text-wrap-balance-pretty/</link>
+      <description>Compare balanced headings with improved paragraph wrapping. Apply text-wrap selectively and test real fonts, narrow widths and changing content.</description>
+      <category>Typography</category>
+      <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/css-text-wrap-balance-pretty/</guid>
+    </item>
+    <item>
+      <title>Use image-set() for Sharp CSS Backgrounds</title>
+      <link>https://pentaai.site/blog/css-image-set-background-density/</link>
+      <description>Offer standard and high-density CSS background images with image-set(). Keep a fallback, verify asset dimensions and inspect the browser’s selected request.</description>
+      <category>Assets</category>
+      <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/css-image-set-background-density/</guid>
+    </item>
+    <item>
+      <title>Style Native Checkboxes with CSS accent-color</title>
+      <link>https://pentaai.site/blog/css-accent-color-native-controls/</link>
+      <description>Apply a brand tint to native form controls with accent-color. Preserve their behavior and review labels, focus, disabled states and browser differences.</description>
+      <category>CSS</category>
+      <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/css-accent-color-native-controls/</guid>
+    </item>
+    <item>
+      <title>Capture DevTools CSS Edits Before They Disappear</title>
+      <link>https://pentaai.site/blog/chrome-devtools-save-css-changes/</link>
+      <description>Use Chrome’s Changes panel to review temporary CSS edits, copy the relevant changes into source and confirm that a clean reload preserves the intended fix.</description>
+      <category>Workflow</category>
+      <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/chrome-devtools-save-css-changes/</guid>
+    </item>
+    <item>
+      <title>Use Chrome Coverage Without Deleting Needed CSS</title>
+      <link>https://pentaai.site/blog/chrome-devtools-coverage-unused-css/</link>
+      <description>Investigate unused CSS with DevTools Coverage. Record interactive states, distinguish unobserved rules from dead code and verify removals across routes.</description>
+      <category>Workflow</category>
+      <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/chrome-devtools-coverage-unused-css/</guid>
+    </item>
+    <item>
+      <title>Inspect Hover and Focus Styles in Chrome DevTools</title>
+      <link>https://pentaai.site/blog/chrome-devtools-force-hover-focus/</link>
+      <description>Freeze CSS interaction states in DevTools to inspect their styles. Separate a forced pseudo-class from real keyboard focus, pointer events and application behavior.</description>
+      <category>Workflow</category>
+      <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/chrome-devtools-force-hover-focus/</guid>
+    </item>
   </channel>
 </rss>
