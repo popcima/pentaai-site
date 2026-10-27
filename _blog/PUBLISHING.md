@@ -44,9 +44,10 @@ PENTA_SITE_ROOT="$PWD" node _blog/scripts/build_section_covers.cjs
 PENTA_SITE_ROOT="$PWD" node _blog/scripts/build_hero_images.cjs
 PENTA_SITE_ROOT="$PWD" node _blog/scripts/build_more_covers.cjs
 PENTA_SITE_ROOT="$PWD" node _blog/scripts/build_layout_covers.cjs
+PENTA_SITE_ROOT="$PWD" node _blog/scripts/build_daily_covers_2026_10_27.cjs
 ```
 
-The covers include six initial topic examples and fourteen additional illustrations in build_more_covers.cjs, plus six in build_layout_covers.cjs. For a new article, use the correct existing cover fields or add a new topic illustration and manifest entry. Do not run a generator that expects a new slug until the corresponding article exists.
+The covers include six initial topic examples and fourteen additional illustrations in build_more_covers.cjs, plus six in build_layout_covers.cjs and twenty in build_daily_covers_2026_10_27.cjs. For a new article, use the correct existing cover fields or add a new topic illustration and manifest entry. Do not run a generator that expects a new slug until the corresponding article exists.
 
 ## Search Console
 

@@ -1,0 +1,566 @@
+{
+  "version": 1,
+  "description": "Original explanatory illustrations matching Penta AI homepage feature panels. Values are examples; not product screenshots.",
+  "assets": [
+    {
+      "slug": "z-index-stacking-context-debug",
+      "alt": "Two parent stacking contexts with a high-numbered child remaining inside the lower parent layer.",
+      "source": "/blog/covers/z-index-stacking-context-debug.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/z-index-stacking-context-debug.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 13666
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/z-index-stacking-context-debug-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 6570
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/z-index-stacking-context-debug-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 2704
+        }
+      ]
+    },
+    {
+      "slug": "css-margin-collapse-explained",
+      "alt": "A 24 pixel bottom margin and 16 pixel top margin producing one illustrative 24 pixel collapsed gap.",
+      "source": "/blog/covers/css-margin-collapse-explained.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/css-margin-collapse-explained.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 18208
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/css-margin-collapse-explained-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 8312
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/css-margin-collapse-explained-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 3306
+        }
+      ]
+    },
+    {
+      "slug": "css-subgrid-card-alignment",
+      "alt": "Two cards with different title lengths sharing aligned body and footer rows through subgrid.",
+      "source": "/blog/covers/css-subgrid-card-alignment.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/css-subgrid-card-alignment.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 12908
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/css-subgrid-card-alignment-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 5856
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/css-subgrid-card-alignment-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 2426
+        }
+      ]
+    },
+    {
+      "slug": "css-aspect-ratio-box-sizing",
+      "alt": "Two 16 by 9 media boxes at widths of 640 and 320 pixels, illustrating proportional heights of 360 and 180 pixels.",
+      "source": "/blog/covers/css-aspect-ratio-box-sizing.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/css-aspect-ratio-box-sizing.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 10716
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/css-aspect-ratio-box-sizing-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 4558
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/css-aspect-ratio-box-sizing-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 1894
+        }
+      ]
+    },
+    {
+      "slug": "inspect-css-pseudo-elements",
+      "alt": "A heading with a blue decorative accent and a separate inspection panel identifying the before pseudo-element.",
+      "source": "/blog/covers/inspect-css-pseudo-elements.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/inspect-css-pseudo-elements.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 13194
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/inspect-css-pseudo-elements-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 6112
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/inspect-css-pseudo-elements-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 2416
+        }
+      ]
+    },
+    {
+      "slug": "css-multiple-backgrounds-overlay",
+      "alt": "A diagram of gradient, photo and base-color layers in front-to-back painting order.",
+      "source": "/blog/covers/css-multiple-backgrounds-overlay.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/css-multiple-backgrounds-overlay.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 14138
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/css-multiple-backgrounds-overlay-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 6692
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/css-multiple-backgrounds-overlay-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 2614
+        }
+      ]
+    },
+    {
+      "slug": "prefers-reduced-motion-interface",
+      "alt": "A moving button shown with a small lift beside a stationary button that keeps its visible action label.",
+      "source": "/blog/covers/prefers-reduced-motion-interface.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/prefers-reduced-motion-interface.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 15482
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/prefers-reduced-motion-interface-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 6896
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/prefers-reduced-motion-interface-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 2520
+        }
+      ]
+    },
+    {
+      "slug": "accessible-skip-link",
+      "alt": "A skip-to-content control above repeated navigation with an arrow leading directly to the main content panel.",
+      "source": "/blog/covers/accessible-skip-link.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/accessible-skip-link.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 13192
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/accessible-skip-link-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 5956
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/accessible-skip-link-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 2456
+        }
+      ]
+    },
+    {
+      "slug": "native-dialog-keyboard-checklist",
+      "alt": "A labeled help dialog over muted page content, with a highlighted close button and Escape key reminder.",
+      "source": "/blog/covers/native-dialog-keyboard-checklist.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/native-dialog-keyboard-checklist.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 10370
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/native-dialog-keyboard-checklist-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 4876
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/native-dialog-keyboard-checklist-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 2082
+        }
+      ]
+    },
+    {
+      "slug": "html-form-labels-placeholders",
+      "alt": "An email field with a persistent label and separate help text, still visible after an illustrative address is entered.",
+      "source": "/blog/covers/html-form-labels-placeholders.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/html-form-labels-placeholders.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 18698
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/html-form-labels-placeholders-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 8358
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/html-form-labels-placeholders-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 3182
+        }
+      ]
+    },
+    {
+      "slug": "accessible-form-error-messages",
+      "alt": "A project name field with a visible error message connected to the field, preserving the original label.",
+      "source": "/blog/covers/accessible-form-error-messages.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/accessible-form-error-messages.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 19200
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/accessible-form-error-messages-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 8368
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/accessible-form-error-messages-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 3306
+        }
+      ]
+    },
+    {
+      "slug": "write-alt-text-ui-images",
+      "alt": "An illustrative export settings image with SVG selected alongside a concise text description of that meaningful state.",
+      "source": "/blog/covers/write-alt-text-ui-images.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/write-alt-text-ui-images.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 15582
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/write-alt-text-ui-images-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 7148
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/write-alt-text-ui-images-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 3016
+        }
+      ]
+    },
+    {
+      "slug": "responsive-data-tables",
+      "alt": "A narrow scrollable region containing a wider data table with visible column headers and a horizontal scroll indicator.",
+      "source": "/blog/covers/responsive-data-tables.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/responsive-data-tables.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 16768
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/responsive-data-tables-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 7422
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/responsive-data-tables-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 2880
+        }
+      ]
+    },
+    {
+      "slug": "css-long-words-overflow-wrap",
+      "alt": "A long filename wrapping over three lines inside a narrow component without changing the underlying text.",
+      "source": "/blog/covers/css-long-words-overflow-wrap.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/css-long-words-overflow-wrap.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 17682
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/css-long-words-overflow-wrap-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 7936
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/css-long-words-overflow-wrap-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 2950
+        }
+      ]
+    },
+    {
+      "slug": "variable-font-axes-css",
+      "alt": "A weight-axis specimen showing three example settings, 400, 500 and 700, along a supported range.",
+      "source": "/blog/covers/variable-font-axes-css.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/variable-font-axes-css.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 13536
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/variable-font-axes-css-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 6170
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/variable-font-axes-css-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 2610
+        }
+      ]
+    },
+    {
+      "slug": "preload-web-fonts-carefully",
+      "alt": "Two schematic resource-discovery timelines comparing a later font request with an earlier preload, without measured timing claims.",
+      "source": "/blog/covers/preload-web-fonts-carefully.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/preload-web-fonts-carefully.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 16178
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/preload-web-fonts-carefully-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 7346
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/preload-web-fonts-carefully-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 2900
+        }
+      ]
+    },
+    {
+      "slug": "css-print-styles-guide",
+      "alt": "An article screen with navigation beside a simplified print page retaining the title, text and figure.",
+      "source": "/blog/covers/css-print-styles-guide.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/css-print-styles-guide.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 10216
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/css-print-styles-guide-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 4804
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/css-print-styles-guide-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 2048
+        }
+      ]
+    },
+    {
+      "slug": "css-link-underline-styling",
+      "alt": "A two-line inline link with underlines that follow both text lines and leave room around the letters.",
+      "source": "/blog/covers/css-link-underline-styling.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/css-link-underline-styling.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 20064
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/css-link-underline-styling-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 9304
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/css-link-underline-styling-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 3734
+        }
+      ]
+    },
+    {
+      "slug": "css-scroll-margin-anchor-links",
+      "alt": "A sticky header with a visible clearance gap above the anchor heading, illustrating scroll-margin-top.",
+      "source": "/blog/covers/css-scroll-margin-anchor-links.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/css-scroll-margin-anchor-links.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 13610
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/css-scroll-margin-anchor-links-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 6278
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/css-scroll-margin-anchor-links-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 2576
+        }
+      ]
+    },
+    {
+      "slug": "svg-currentcolor-icons",
+      "alt": "Two download buttons in different colors whose inline stroke icons match the button text through currentColor.",
+      "source": "/blog/covers/svg-currentcolor-icons.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/svg-currentcolor-icons.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 16998
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/svg-currentcolor-icons-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 7718
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/svg-currentcolor-icons-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 3022
+        }
+      ]
+    }
+  ]
+}

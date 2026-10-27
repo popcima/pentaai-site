@@ -5,7 +5,7 @@
     <link>https://pentaai.site/blog/</link>
     <description>Practical guides to website fonts, colors, CSS and design systems.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 26 Oct 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 00:00:00 +0000</lastBuildDate>
     <item>
       <title>How to Extract a Design System from an Existing Website</title>
       <link>https://pentaai.site/blog/extract-design-system-from-website/</link>
@@ -213,6 +213,166 @@
       <category>Assets</category>
       <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://pentaai.site/blog/responsive-images-srcset-sizes/</guid>
+    </item>
+    <item>
+      <title>Z-Index Not Working? Trace the Stacking Context</title>
+      <link>https://pentaai.site/blog/z-index-stacking-context-debug/</link>
+      <description>Debug a menu hidden behind another component. Trace ancestor stacking contexts, distinguish clipping from layering and repair the relevant stacking boundary.</description>
+      <category>CSS</category>
+      <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/z-index-stacking-context-debug/</guid>
+    </item>
+    <item>
+      <title>CSS Margin Collapse: Why Vertical Gaps Look Wrong</title>
+      <link>https://pentaai.site/blog/css-margin-collapse-explained/</link>
+      <description>Understand collapsing block margins with a small worked example. Separate sibling spacing from parent padding and choose a repair that matches the layout.</description>
+      <category>CSS</category>
+      <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/css-margin-collapse-explained/</guid>
+    </item>
+    <item>
+      <title>Align Card Titles and Footers with CSS Subgrid</title>
+      <link>https://pentaai.site/blog/css-subgrid-card-alignment/</link>
+      <description>Use row subgrid to align card sections across a collection without fixed text heights. Build a fallback and test long titles, missing content and narrow layouts.</description>
+      <category>Responsive design</category>
+      <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/css-subgrid-card-alignment/</guid>
+    </item>
+    <item>
+      <title>CSS Aspect Ratio: Size the Box Before Fitting the Image</title>
+      <link>https://pentaai.site/blog/css-aspect-ratio-box-sizing/</link>
+      <description>Use aspect-ratio for consistent media slots. Understand automatic dimensions, content constraints and the separate role of object-fit with practical CSS examples.</description>
+      <category>Assets</category>
+      <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/css-aspect-ratio-box-sizing/</guid>
+    </item>
+    <item>
+      <title>How to Inspect CSS Pseudo-Elements and Missing Decorations</title>
+      <link>https://pentaai.site/blog/inspect-css-pseudo-elements/</link>
+      <description>Find styles created by before and after pseudo-elements. Check generated content, box dimensions, positioning and clipping without changing meaningful HTML text.</description>
+      <category>CSS</category>
+      <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/inspect-css-pseudo-elements/</guid>
+    </item>
+    <item>
+      <title>CSS Multiple Backgrounds: Put the Overlay in the Right Layer</title>
+      <link>https://pentaai.site/blog/css-multiple-backgrounds-overlay/</link>
+      <description>Build a readable image banner with separate gradient and photo layers. Match background-size and position lists, and avoid shorthand resets during debugging.</description>
+      <category>Colors</category>
+      <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/css-multiple-backgrounds-overlay/</guid>
+    </item>
+    <item>
+      <title>Respect Reduced Motion Without Hiding Interface Feedback</title>
+      <link>https://pentaai.site/blog/prefers-reduced-motion-interface/</link>
+      <description>Use prefers-reduced-motion to reduce nonessential movement while keeping clear state changes. Review CSS transitions, JavaScript animation and loading feedback.</description>
+      <category>Accessibility</category>
+      <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/prefers-reduced-motion-interface/</guid>
+    </item>
+    <item>
+      <title>Build a Skip Link That Moves Keyboard Users to the Content</title>
+      <link>https://pentaai.site/blog/accessible-skip-link/</link>
+      <description>Add a visible-on-focus skip link and verify its target, focus behavior and placement above navigation. Test the full keyboard path on real page templates.</description>
+      <category>Accessibility</category>
+      <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/accessible-skip-link/</guid>
+    </item>
+    <item>
+      <title>Native HTML Dialog: A Keyboard and Focus Checklist</title>
+      <link>https://pentaai.site/blog/native-dialog-keyboard-checklist/</link>
+      <description>Build a small modal with the dialog element, showModal and an explicit close action. Check initial focus, Escape, background interaction and focus restoration.</description>
+      <category>Accessibility</category>
+      <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/native-dialog-keyboard-checklist/</guid>
+    </item>
+    <item>
+      <title>Form Labels vs Placeholders: Keep the Field’s Purpose Visible</title>
+      <link>https://pentaai.site/blog/html-form-labels-placeholders/</link>
+      <description>Associate visible labels with form fields, keep examples in helpful text and test repeated components for unique IDs. Build an email field that stays understandable.</description>
+      <category>Accessibility</category>
+      <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/html-form-labels-placeholders/</guid>
+    </item>
+    <item>
+      <title>Accessible Form Errors: Connect the Message to the Field</title>
+      <link>https://pentaai.site/blog/accessible-form-error-messages/</link>
+      <description>Write actionable validation messages and associate them with inputs. Preserve help text, mark invalid fields and test recovery after a failed form submission.</description>
+      <category>Accessibility</category>
+      <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/accessible-form-error-messages/</guid>
+    </item>
+    <item>
+      <title>How to Write Alt Text for UI Screenshots and Icons</title>
+      <link>https://pentaai.site/blog/write-alt-text-ui-images/</link>
+      <description>Choose image alternatives by purpose: informative screenshots, decorative artwork and linked icons. Keep complex instructions in nearby text instead of overloaded alt text.</description>
+      <category>Accessibility</category>
+      <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/write-alt-text-ui-images/</guid>
+    </item>
+    <item>
+      <title>Responsive Data Tables Without Losing Row and Column Context</title>
+      <link>https://pentaai.site/blog/responsive-data-tables/</link>
+      <description>Keep data tables readable on narrow screens with semantic headers and a scrollable region. Test keyboard scrolling, long values and relationships between cells.</description>
+      <category>Responsive design</category>
+      <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/responsive-data-tables/</guid>
+    </item>
+    <item>
+      <title>Wrap Long URLs and Filenames with CSS overflow-wrap</title>
+      <link>https://pentaai.site/blog/css-long-words-overflow-wrap/</link>
+      <description>Stop long strings from breaking cards while preserving readable text. Compare anywhere, break-word, nowrap and deliberate truncation with a filename example.</description>
+      <category>Typography</category>
+      <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/css-long-words-overflow-wrap/</guid>
+    </item>
+    <item>
+      <title>Variable Font Axes: Match the File to Your CSS</title>
+      <link>https://pentaai.site/blog/variable-font-axes-css/</link>
+      <description>Use a variable font’s real weight range and supported axes. Prefer standard CSS properties for common axes and verify the rendered face before tuning typography.</description>
+      <category>Typography</category>
+      <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/variable-font-axes-css/</guid>
+    </item>
+    <item>
+      <title>When to Preload a Web Font—and How to Verify It Helps</title>
+      <link>https://pentaai.site/blog/preload-web-fonts-carefully/</link>
+      <description>Preload a genuinely critical font with matching request settings. Check for duplicate downloads, unused hints and competition with other early page resources.</description>
+      <category>Typography</category>
+      <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/preload-web-fonts-carefully/</guid>
+    </item>
+    <item>
+      <title>CSS Print Styles: Make Guides Readable on Paper and PDF</title>
+      <link>https://pentaai.site/blog/css-print-styles-guide/</link>
+      <description>Create a focused print stylesheet for article pages. Remove repeated chrome, preserve meaningful content and inspect page breaks, code blocks and table overflow.</description>
+      <category>CSS</category>
+      <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/css-print-styles-guide/</guid>
+    </item>
+    <item>
+      <title>Style Link Underlines Without Losing Readability</title>
+      <link>https://pentaai.site/blog/css-link-underline-styling/</link>
+      <description>Tune underline offset and thickness for inline links. Test wrapped text, descenders and focus states while preserving a clear visual cue beyond link color.</description>
+      <category>Typography</category>
+      <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/css-link-underline-styling/</guid>
+    </item>
+    <item>
+      <title>Keep Anchor Headings Visible Below a Sticky Header</title>
+      <link>https://pentaai.site/blog/css-scroll-margin-anchor-links/</link>
+      <description>Fix headings hidden after anchor navigation with scroll margins or container padding. Test direct fragment URLs, changing header heights and keyboard navigation.</description>
+      <category>Responsive design</category>
+      <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/css-scroll-margin-anchor-links/</guid>
+    </item>
+    <item>
+      <title>Use currentColor to Keep SVG Icons in Sync with Text</title>
+      <link>https://pentaai.site/blog/svg-currentcolor-icons/</link>
+      <description>Make inline SVG icons inherit a component’s color through fill or stroke. Diagnose fixed colors, external image boundaries and accidental changes to multicolor artwork.</description>
+      <category>Assets</category>
+      <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/svg-currentcolor-icons/</guid>
     </item>
   </channel>
 </rss>
