@@ -105,5 +105,33 @@
       "https://pentaai.site/blog/chrome-devtools-coverage-unused-css/",
       "https://pentaai.site/blog/chrome-devtools-force-hover-focus/"
     ]
+  },
+  {
+    "date": "2026-10-28",
+    "count": 20,
+    "commit": "c7009045ad2db63b49139724a0b2d02a8d232ccc",
+    "deployment": "GitHub Pages built; all twenty articles, sixty responsive cover variants, blog index, sitemap and RSS returned HTTP 200 and matched the local build. Live library shows 86 guides; sitemap has 90 URLs.",
+    "urls": [
+      "https://pentaai.site/blog/css-intrinsic-sizing/",
+      "https://pentaai.site/blog/css-scrollbar-gutter-layout/",
+      "https://pentaai.site/blog/css-overscroll-behavior-panels/",
+      "https://pentaai.site/blog/css-safe-area-insets/",
+      "https://pentaai.site/blog/css-content-visibility-sections/",
+      "https://pentaai.site/blog/css-clip-path-decorative-shapes/",
+      "https://pentaai.site/blog/css-blend-mode-isolation/",
+      "https://pentaai.site/blog/html-picture-art-direction/",
+      "https://pentaai.site/blog/svg-viewbox-scaling/",
+      "https://pentaai.site/blog/svg-gradient-id-collisions/",
+      "https://pentaai.site/blog/html-image-loading-priority/",
+      "https://pentaai.site/blog/visually-hidden-accessible-text/",
+      "https://pentaai.site/blog/css-visual-order-keyboard/",
+      "https://pentaai.site/blog/aria-live-status-messages/",
+      "https://pentaai.site/blog/html-fieldset-legend-radio-groups/",
+      "https://pentaai.site/blog/html-autocomplete-address-fields/",
+      "https://pentaai.site/blog/html-inert-inactive-panel/",
+      "https://pentaai.site/blog/inspect-shadow-dom-styles/",
+      "https://pentaai.site/blog/chrome-devtools-animation-timing/",
+      "https://pentaai.site/blog/chrome-devtools-css-overview/"
+    ]
   }
 ]
