@@ -1,0 +1,566 @@
+{
+  "version": 1,
+  "description": "Original explanatory illustrations matching Penta AI homepage feature panels. Values are examples; not product screenshots.",
+  "assets": [
+    {
+      "slug": "css-intrinsic-sizing",
+      "alt": "Three label boxes compare a narrow wrapped minimum, a wide unwrapped maximum and a fitted content width.",
+      "source": "/blog/covers/css-intrinsic-sizing.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/css-intrinsic-sizing.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 20832
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/css-intrinsic-sizing-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 8664
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/css-intrinsic-sizing-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 3292
+        }
+      ]
+    },
+    {
+      "slug": "css-scrollbar-gutter-layout",
+      "alt": "Short and long result lists keep their text aligned by reserving a gutter at the same edge.",
+      "source": "/blog/covers/css-scrollbar-gutter-layout.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/css-scrollbar-gutter-layout.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 13950
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/css-scrollbar-gutter-layout-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 6348
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/css-scrollbar-gutter-layout-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 2630
+        }
+      ]
+    },
+    {
+      "slug": "css-overscroll-behavior-panels",
+      "alt": "A nested notes scroller has its own vertical gesture boundary inside a larger page.",
+      "source": "/blog/covers/css-overscroll-behavior-panels.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/css-overscroll-behavior-panels.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 13700
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/css-overscroll-behavior-panels-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 6520
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/css-overscroll-behavior-panels-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 2734
+        }
+      ]
+    },
+    {
+      "slug": "css-safe-area-insets",
+      "alt": "A mobile action area keeps its button above the device’s bottom safe-area strip, with ordinary padding shown separately.",
+      "source": "/blog/covers/css-safe-area-insets.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/css-safe-area-insets.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 15218
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/css-safe-area-insets-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 6832
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/css-safe-area-insets-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 2750
+        }
+      ]
+    },
+    {
+      "slug": "css-content-visibility-sections",
+      "alt": "A rendered section appears above a below-screen placeholder whose estimated size preserves space in the page.",
+      "source": "/blog/covers/css-content-visibility-sections.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/css-content-visibility-sections.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 21726
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/css-content-visibility-sections-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 10370
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/css-content-visibility-sections-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 4108
+        }
+      ]
+    },
+    {
+      "slug": "css-clip-path-decorative-shapes",
+      "alt": "An angled blue decoration sits behind an ordinary heading and description, leaving the content unclipped.",
+      "source": "/blog/covers/css-clip-path-decorative-shapes.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/css-clip-path-decorative-shapes.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 22302
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/css-clip-path-decorative-shapes-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 9810
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/css-clip-path-decorative-shapes-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 3654
+        }
+      ]
+    },
+    {
+      "slug": "css-blend-mode-isolation",
+      "alt": "Two colored discs blend only within a white isolated component, with a darker overlap region.",
+      "source": "/blog/covers/css-blend-mode-isolation.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/css-blend-mode-isolation.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 16408
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/css-blend-mode-isolation-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 6946
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/css-blend-mode-isolation-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 2798
+        }
+      ]
+    },
+    {
+      "slug": "html-picture-art-direction",
+      "alt": "A wide composition and a closer portrait crop keep the same focal subject at different layout sizes.",
+      "source": "/blog/covers/html-picture-art-direction.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/html-picture-art-direction.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 13956
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/html-picture-art-direction-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 6870
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/html-picture-art-direction-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 3122
+        }
+      ]
+    },
+    {
+      "slug": "svg-viewbox-scaling",
+      "alt": "A 200 by 100 SVG drawing region maps proportionally to a larger 400 by 200 display viewport.",
+      "source": "/blog/covers/svg-viewbox-scaling.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/svg-viewbox-scaling.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 13080
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/svg-viewbox-scaling-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 5974
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/svg-viewbox-scaling-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 2552
+        }
+      ]
+    },
+    {
+      "slug": "svg-gradient-id-collisions",
+      "alt": "Two SVG instances use different gradient IDs, with each fill URL pointing to its own definition.",
+      "source": "/blog/covers/svg-gradient-id-collisions.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/svg-gradient-id-collisions.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 15412
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/svg-gradient-id-collisions-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 6652
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/svg-gradient-id-collisions-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 2424
+        }
+      ]
+    },
+    {
+      "slug": "html-image-loading-priority",
+      "alt": "A schematic page gives the initially visible hero priority while a later figure is marked for lazy loading, without measured timing claims.",
+      "source": "/blog/covers/html-image-loading-priority.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/html-image-loading-priority.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 15754
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/html-image-loading-priority-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 7282
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/html-image-loading-priority-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 2894
+        }
+      ]
+    },
+    {
+      "slug": "visually-hidden-accessible-text",
+      "alt": "A compact close button has a separate accessible-name callout reading Close preview.",
+      "source": "/blog/covers/visually-hidden-accessible-text.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/visually-hidden-accessible-text.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 14496
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/visually-hidden-accessible-text-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 6288
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/visually-hidden-accessible-text-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 2540
+        }
+      ]
+    },
+    {
+      "slug": "css-visual-order-keyboard",
+      "alt": "A reversed visual button row places Continue before Review details, while numbered focus markers show the source order remains Review then Continue.",
+      "source": "/blog/covers/css-visual-order-keyboard.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/css-visual-order-keyboard.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 20912
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/css-visual-order-keyboard-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 9182
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/css-visual-order-keyboard-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 3666
+        }
+      ]
+    },
+    {
+      "slug": "aria-live-status-messages",
+      "alt": "A Save notes button sits above a concise visible saved message in a polite status region.",
+      "source": "/blog/covers/aria-live-status-messages.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/aria-live-status-messages.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 16252
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/aria-live-status-messages-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 6952
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/aria-live-status-messages-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 2862
+        }
+      ]
+    },
+    {
+      "slug": "html-fieldset-legend-radio-groups",
+      "alt": "A radio group has a shared report-detail question and two individually labeled choices.",
+      "source": "/blog/covers/html-fieldset-legend-radio-groups.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/html-fieldset-legend-radio-groups.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 22094
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/html-fieldset-legend-radio-groups-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 9616
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/html-fieldset-legend-radio-groups-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 3742
+        }
+      ]
+    },
+    {
+      "slug": "html-autocomplete-address-fields",
+      "alt": "A labeled shipping city field is associated with an ordered autocomplete token sequence.",
+      "source": "/blog/covers/html-autocomplete-address-fields.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/html-autocomplete-address-fields.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 21848
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/html-autocomplete-address-fields-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 9296
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/html-autocomplete-address-fields-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 3606
+        }
+      ]
+    },
+    {
+      "slug": "html-inert-inactive-panel",
+      "alt": "An external Enable editor button remains available while the visually muted editor region is inert.",
+      "source": "/blog/covers/html-inert-inactive-panel.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/html-inert-inactive-panel.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 19198
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/html-inert-inactive-panel-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 8474
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/html-inert-inactive-panel-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 3104
+        }
+      ]
+    },
+    {
+      "slug": "inspect-shadow-dom-styles",
+      "alt": "A custom-element host surrounds a shadow-root label, with an inherited custom-property value passed across the styling boundary.",
+      "source": "/blog/covers/inspect-shadow-dom-styles.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/inspect-shadow-dom-styles.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 23880
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/inspect-shadow-dom-styles-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 10584
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/inspect-shadow-dom-styles-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 4082
+        }
+      ]
+    },
+    {
+      "slug": "chrome-devtools-animation-timing",
+      "alt": "Two schematic animation tracks share a 160-millisecond example duration, with replay and slower playback controls shown below.",
+      "source": "/blog/covers/chrome-devtools-animation-timing.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/chrome-devtools-animation-timing.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 14886
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/chrome-devtools-animation-timing-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 6516
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/chrome-devtools-animation-timing-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 2552
+        }
+      ]
+    },
+    {
+      "slug": "chrome-devtools-css-overview",
+      "alt": "Two similar illustrative blue swatches are traced to a normal help link and a legacy help link for component-level review.",
+      "source": "/blog/covers/chrome-devtools-css-overview.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/chrome-devtools-css-overview.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 21212
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/chrome-devtools-css-overview-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 9198
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/chrome-devtools-css-overview-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 3634
+        }
+      ]
+    }
+  ]
+}

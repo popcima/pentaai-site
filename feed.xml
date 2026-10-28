@@ -5,7 +5,7 @@
     <link>https://pentaai.site/blog/</link>
     <description>Practical guides to website fonts, colors, CSS and design systems.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 27 Oct 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 00:00:00 +0000</lastBuildDate>
     <item>
       <title>How to Extract a Design System from an Existing Website</title>
       <link>https://pentaai.site/blog/extract-design-system-from-website/</link>
@@ -533,6 +533,166 @@
       <category>Workflow</category>
       <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://pentaai.site/blog/chrome-devtools-force-hover-focus/</guid>
+    </item>
+    <item>
+      <title>min-content, max-content and fit-content: Size CSS to the Text</title>
+      <link>https://pentaai.site/blog/css-intrinsic-sizing/</link>
+      <description>Choose an intrinsic width for labels and compact panels. Compare min-content, max-content and fit-content while checking available space and long values.</description>
+      <category>CSS</category>
+      <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/css-intrinsic-sizing/</guid>
+    </item>
+    <item>
+      <title>Prevent Scrollbar Width Shifts with scrollbar-gutter</title>
+      <link>https://pentaai.site/blog/css-scrollbar-gutter-layout/</link>
+      <description>Reserve room for classic scrollbars with scrollbar-gutter. Test short and long panels, overlay scrollbar differences and centered content alignment.</description>
+      <category>CSS</category>
+      <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/css-scrollbar-gutter-layout/</guid>
+    </item>
+    <item>
+      <title>Stop Scroll Chaining in a Nested Panel</title>
+      <link>https://pentaai.site/blog/css-overscroll-behavior-panels/</link>
+      <description>Use overscroll-behavior on a nested scroll container. Compare contain and none, preserve intentional page scrolling and test the boundary with real input.</description>
+      <category>CSS</category>
+      <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/css-overscroll-behavior-panels/</guid>
+    </item>
+    <item>
+      <title>Keep Mobile Controls Clear of Safe Areas with CSS env()</title>
+      <link>https://pentaai.site/blog/css-safe-area-insets/</link>
+      <description>Use safe-area inset values for edge-to-edge mobile layouts. Combine device insets with design spacing and test rotation, zoom and fixed controls.</description>
+      <category>CSS</category>
+      <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/css-safe-area-insets/</guid>
+    </item>
+    <item>
+      <title>Evaluate content-visibility for Long Page Sections</title>
+      <link>https://pentaai.site/blog/css-content-visibility-sections/</link>
+      <description>Try content-visibility on below-screen sections with an intrinsic size estimate. Check scrolling, search, accessibility and measured rendering behavior.</description>
+      <category>CSS</category>
+      <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/css-content-visibility-sections/</guid>
+    </item>
+    <item>
+      <title>Use clip-path for Decorative Shapes Without Clipping Controls</title>
+      <link>https://pentaai.site/blog/css-clip-path-decorative-shapes/</link>
+      <description>Create a simple polygon crop with clip-path. Separate artwork from interactive content and check responsive geometry, layout space and focus visibility.</description>
+      <category>CSS</category>
+      <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/css-clip-path-decorative-shapes/</guid>
+    </item>
+    <item>
+      <title>Contain a Blend Effect with CSS isolation</title>
+      <link>https://pentaai.site/blog/css-blend-mode-isolation/</link>
+      <description>Keep a decorative blend effect inside its component. Set a deliberate backdrop, compare normal blending and review text readability across surfaces.</description>
+      <category>Color</category>
+      <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/css-blend-mode-isolation/</guid>
+    </item>
+    <item>
+      <title>Use picture for Different Mobile and Desktop Image Crops</title>
+      <link>https://pentaai.site/blog/html-picture-art-direction/</link>
+      <description>Choose image crops with the HTML picture element. Keep source order deliberate, preserve one meaningful alternative and verify the selected image.</description>
+      <category>Assets</category>
+      <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/html-picture-art-direction/</guid>
+    </item>
+    <item>
+      <title>SVG viewBox vs Width and Height: Diagnose Scaling</title>
+      <link>https://pentaai.site/blog/svg-viewbox-scaling/</link>
+      <description>Understand the SVG drawing coordinates separately from its display box. Inspect viewBox, aspect-ratio preservation and artwork bounds before resizing icons.</description>
+      <category>Assets</category>
+      <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/svg-viewbox-scaling/</guid>
+    </item>
+    <item>
+      <title>Fix SVG Gradient Collisions in Repeated Components</title>
+      <link>https://pentaai.site/blog/svg-gradient-id-collisions/</link>
+      <description>Give inline SVG definitions unique IDs when components repeat. Trace gradient references, preserve local URLs and test multiple instances together.</description>
+      <category>Assets</category>
+      <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/svg-gradient-id-collisions/</guid>
+    </item>
+    <item>
+      <title>Choose Image Loading Priority Without Slowing the Hero</title>
+      <link>https://pentaai.site/blog/html-image-loading-priority/</link>
+      <description>Distinguish lazy loading from fetch priority. Identify the likely LCP image, keep it discoverable and verify image requests under realistic loading conditions.</description>
+      <category>Assets</category>
+      <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/html-image-loading-priority/</guid>
+    </item>
+    <item>
+      <title>Hide Supporting Text Visually Without Losing Its Accessible Name</title>
+      <link>https://pentaai.site/blog/visually-hidden-accessible-text/</link>
+      <description>Use a visually hidden text helper for an icon control’s name. Distinguish it from display:none, avoid duplicate naming and keep focus indicators visible.</description>
+      <category>Accessibility</category>
+      <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/visually-hidden-accessible-text/</guid>
+    </item>
+    <item>
+      <title>Check Keyboard Order After Reordering a CSS Layout</title>
+      <link>https://pentaai.site/blog/css-visual-order-keyboard/</link>
+      <description>Audit flex and grid layouts whose visual order differs from the DOM. Compare keyboard movement, reading sequence and responsive rearrangements.</description>
+      <category>Accessibility</category>
+      <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/css-visual-order-keyboard/</guid>
+    </item>
+    <item>
+      <title>Announce Save Results with a Polite Status Region</title>
+      <link>https://pentaai.site/blog/aria-live-status-messages/</link>
+      <description>Use role=status for brief non-urgent updates after an action. Keep the region present, avoid unnecessary focus changes and verify actual announcements.</description>
+      <category>Accessibility</category>
+      <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/aria-live-status-messages/</guid>
+    </item>
+    <item>
+      <title>Group Radio Choices with fieldset and legend</title>
+      <link>https://pentaai.site/blog/html-fieldset-legend-radio-groups/</link>
+      <description>Give related radio controls a shared question with fieldset and legend. Keep individual labels, unique IDs and native grouping behavior clear.</description>
+      <category>Accessibility</category>
+      <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/html-fieldset-legend-radio-groups/</guid>
+    </item>
+    <item>
+      <title>Use autocomplete Tokens for Clear Address Forms</title>
+      <link>https://pentaai.site/blog/html-autocomplete-address-fields/</link>
+      <description>Assign meaningful autocomplete tokens to address fields. Distinguish shipping and billing groups, retain labels and test autofill without changing stored user data.</description>
+      <category>Accessibility</category>
+      <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/html-autocomplete-address-fields/</guid>
+    </item>
+    <item>
+      <title>Make an Inactive Panel Noninteractive with inert</title>
+      <link>https://pentaai.site/blog/html-inert-inactive-panel/</link>
+      <description>Use inert for an entire inactive region while managing focus and visible state. Distinguish it from hidden content, disabled fields and access control.</description>
+      <category>Accessibility</category>
+      <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/html-inert-inactive-panel/</guid>
+    </item>
+    <item>
+      <title>Inspect Styles Across a Shadow DOM Boundary</title>
+      <link>https://pentaai.site/blog/inspect-shadow-dom-styles/</link>
+      <description>Trace component styling inside a shadow root. Separate host styles, inherited custom properties and exposed parts from selectors that cannot reach internals.</description>
+      <category>Workflow</category>
+      <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/inspect-shadow-dom-styles/</guid>
+    </item>
+    <item>
+      <title>Inspect Animation Timing in Chrome DevTools</title>
+      <link>https://pentaai.site/blog/chrome-devtools-animation-timing/</link>
+      <description>Capture an animation group, slow it down and inspect timing in DevTools. Distinguish a temporary experiment from a source change and review reduced motion.</description>
+      <category>Workflow</category>
+      <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/chrome-devtools-animation-timing/</guid>
+    </item>
+    <item>
+      <title>Turn a CSS Overview Report into a Component Audit</title>
+      <link>https://pentaai.site/blog/chrome-devtools-css-overview/</link>
+      <description>Use Chrome CSS Overview to locate repeated colors and typography differences. Trace findings to components and separate design exceptions from cleanup candidates.</description>
+      <category>Workflow</category>
+      <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/chrome-devtools-css-overview/</guid>
     </item>
   </channel>
 </rss>
