@@ -133,5 +133,33 @@
       "https://pentaai.site/blog/chrome-devtools-animation-timing/",
       "https://pentaai.site/blog/chrome-devtools-css-overview/"
     ]
+  },
+  {
+    "date": "2026-10-30",
+    "count": 20,
+    "commit": "5563b4e1ddf20d635c8e393e6d2d4d0cf08e1b50",
+    "deployment": "GitHub Pages built; all 83 checked public URLs returned HTTP 200 and matched the build: twenty articles, sixty WebP cover variants, blog index, sitemap and RSS. Live library has 106 guides; sitemap has 110 URLs.",
+    "urls": [
+      "https://pentaai.site/blog/css-border-box-input-width/",
+      "https://pentaai.site/blog/css-overflow-hidden-vs-clip/",
+      "https://pentaai.site/blog/css-transform-layout-space/",
+      "https://pentaai.site/blog/flex-auto-margin-navigation/",
+      "https://pentaai.site/blog/css-display-contents-wrapper/",
+      "https://pentaai.site/blog/css-supports-progressive-enhancement/",
+      "https://pentaai.site/blog/css-has-selected-option-card/",
+      "https://pentaai.site/blog/css-property-typed-color-token/",
+      "https://pentaai.site/blog/css-pointer-events-overlay/",
+      "https://pentaai.site/blog/css-opacity-vs-alpha-background/",
+      "https://pentaai.site/blog/css-hyphens-language/",
+      "https://pentaai.site/blog/css-font-size-adjust-fallback/",
+      "https://pentaai.site/blog/css-white-space-pre-wrap-notes/",
+      "https://pentaai.site/blog/css-ch-unit-reading-width/",
+      "https://pentaai.site/blog/aria-current-page-navigation/",
+      "https://pentaai.site/blog/html-disabled-vs-readonly-fields/",
+      "https://pentaai.site/blog/html-meter-vs-progress/",
+      "https://pentaai.site/blog/html-range-input-value-label/",
+      "https://pentaai.site/blog/html-video-caption-track/",
+      "https://pentaai.site/blog/diagnose-layout-shift-sources/"
+    ]
   }
 ]
