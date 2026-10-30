@@ -5,7 +5,7 @@
     <link>https://pentaai.site/blog/</link>
     <description>Practical guides to website fonts, colors, CSS and design systems.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 28 Oct 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 00:00:00 +0000</lastBuildDate>
     <item>
       <title>How to Extract a Design System from an Existing Website</title>
       <link>https://pentaai.site/blog/extract-design-system-from-website/</link>
@@ -693,6 +693,166 @@
       <category>Workflow</category>
       <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://pentaai.site/blog/chrome-devtools-css-overview/</guid>
+    </item>
+    <item>
+      <title>Why a 100% Width Input Overflows: Check box-sizing</title>
+      <link>https://pentaai.site/blog/css-border-box-input-width/</link>
+      <description>Trace an input wider than its container. Calculate content, padding and borders, then apply a scoped border-box rule and check the surrounding layout.</description>
+      <category>CSS</category>
+      <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/css-border-box-input-width/</guid>
+    </item>
+    <item>
+      <title>overflow: hidden vs clip: Choose the Right Boundary</title>
+      <link>https://pentaai.site/blog/css-overflow-hidden-vs-clip/</link>
+      <description>Compare clipping with hidden scrolling. Check focus, programmatic scrolling and formatting contexts before swapping overflow values on a component.</description>
+      <category>CSS</category>
+      <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/css-overflow-hidden-vs-clip/</guid>
+    </item>
+    <item>
+      <title>Why CSS Transforms Leave the Original Layout Space</title>
+      <link>https://pentaai.site/blog/css-transform-layout-space/</link>
+      <description>Understand why translating or scaling a component does not rearrange nearby content. Inspect its layout box, painted position and overlap before choosing a fix.</description>
+      <category>CSS</category>
+      <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/css-transform-layout-space/</guid>
+    </item>
+    <item>
+      <title>Use Auto Margins to Split a Flex Navigation Row</title>
+      <link>https://pentaai.site/blog/flex-auto-margin-navigation/</link>
+      <description>Push one group of navigation actions to the far edge with an auto margin. Check free space, wrapping and reading direction without adding spacer elements.</description>
+      <category>CSS</category>
+      <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/flex-auto-margin-navigation/</guid>
+    </item>
+    <item>
+      <title>Inspect a Wrapper Styled with display: contents</title>
+      <link>https://pentaai.site/blog/css-display-contents-wrapper/</link>
+      <description>Understand why a wrapper loses its painted box while children join an outer layout. Check semantics and focus before using display: contents as a layout shortcut.</description>
+      <category>CSS</category>
+      <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/css-display-contents-wrapper/</guid>
+    </item>
+    <item>
+      <title>Build a Useful CSS Fallback with @supports</title>
+      <link>https://pentaai.site/blog/css-supports-progressive-enhancement/</link>
+      <description>Use feature queries to layer a CSS enhancement onto a usable baseline. Test both paths and distinguish syntax support from a verified accessible interaction.</description>
+      <category>CSS</category>
+      <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/css-supports-progressive-enhancement/</guid>
+    </item>
+    <item>
+      <title>Style a Selected Option Card with CSS :has()</title>
+      <link>https://pentaai.site/blog/css-has-selected-option-card/</link>
+      <description>Let a labeled checkbox drive its card’s selected appearance with :has(). Keep native interaction, a usable fallback and a selector scoped to the component.</description>
+      <category>CSS</category>
+      <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/css-has-selected-option-card/</guid>
+    </item>
+    <item>
+      <title>Register a Typed CSS Color Token with @property</title>
+      <link>https://pentaai.site/blog/css-property-typed-color-token/</link>
+      <description>Define a custom property’s color syntax, inheritance and initial value. Check registration failures and unsupported browsers before changing a shared token contract.</description>
+      <category>Design systems</category>
+      <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/css-property-typed-color-token/</guid>
+    </item>
+    <item>
+      <title>Fix a Decorative Overlay That Blocks Clicks</title>
+      <link>https://pentaai.site/blog/css-pointer-events-overlay/</link>
+      <description>Inspect pointer hit testing when a visual overlay covers a control. Use pointer-events selectively and keep keyboard behavior and disabled semantics separate.</description>
+      <category>CSS</category>
+      <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/css-pointer-events-overlay/</guid>
+    </item>
+    <item>
+      <title>Fade a Background Without Fading Its Text</title>
+      <link>https://pentaai.site/blog/css-opacity-vs-alpha-background/</link>
+      <description>Compare element opacity with alpha colors on a note surface. Keep labels opaque, inspect the composited background and review hidden interaction states.</description>
+      <category>Color</category>
+      <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/css-opacity-vs-alpha-background/</guid>
+    </item>
+    <item>
+      <title>Use CSS Hyphenation with the Correct Content Language</title>
+      <link>https://pentaai.site/blog/css-hyphens-language/</link>
+      <description>Improve narrow text columns with hyphens and accurate lang attributes. Check dictionary availability, editorial exceptions and long identifiers separately.</description>
+      <category>Typography</category>
+      <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/css-hyphens-language/</guid>
+    </item>
+    <item>
+      <title>Keep Fallback Text Legible with font-size-adjust</title>
+      <link>https://pentaai.site/blog/css-font-size-adjust-fallback/</link>
+      <description>Evaluate a fallback font’s apparent size with font-size-adjust. Choose a deliberate metric, test wrapping and distinguish it from changing the declared font size.</description>
+      <category>Typography</category>
+      <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/css-font-size-adjust-fallback/</guid>
+    </item>
+    <item>
+      <title>Preserve Line Breaks Without Forcing Horizontal Scrolling</title>
+      <link>https://pentaai.site/blog/css-white-space-pre-wrap-notes/</link>
+      <description>Choose pre-wrap or pre-line for text with intentional newlines. Test spaces, tabs and long strings while keeping user-entered text out of unsafe HTML rendering.</description>
+      <category>Typography</category>
+      <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/css-white-space-pre-wrap-notes/</guid>
+    </item>
+    <item>
+      <title>Use ch Units for a Readable Text Measure</title>
+      <link>https://pentaai.site/blog/css-ch-unit-reading-width/</link>
+      <description>Set a flexible reading width with ch while understanding what the unit measures. Review real text, font changes and padding instead of assuming an exact character count.</description>
+      <category>Typography</category>
+      <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/css-ch-unit-reading-width/</guid>
+    </item>
+    <item>
+      <title>Mark the Current Navigation Page with aria-current</title>
+      <link>https://pentaai.site/blog/aria-current-page-navigation/</link>
+      <description>Pair a visible active-link style with aria-current="page". Keep navigation semantics, route matching and keyboard focus separate from selected tab behavior.</description>
+      <category>Accessibility</category>
+      <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/aria-current-page-navigation/</guid>
+    </item>
+    <item>
+      <title>disabled vs readonly: Choose the Right Form Behavior</title>
+      <link>https://pentaai.site/blog/html-disabled-vs-readonly-fields/</link>
+      <description>Compare focus, editing and submission for unavailable form fields. Keep read-only values available when needed and verify what the server actually receives.</description>
+      <category>Accessibility</category>
+      <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/html-disabled-vs-readonly-fields/</guid>
+    </item>
+    <item>
+      <title>meter vs progress: Represent a Value or a Task</title>
+      <link>https://pentaai.site/blog/html-meter-vs-progress/</link>
+      <description>Choose native meter or progress markup by meaning. Label the indicator, distinguish indeterminate work and keep visible values synchronized with actual state.</description>
+      <category>Accessibility</category>
+      <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/html-meter-vs-progress/</guid>
+    </item>
+    <item>
+      <title>Give a Native Range Input a Clear Label and Value</title>
+      <link>https://pentaai.site/blog/html-range-input-value-label/</link>
+      <description>Build a labeled range control with explicit bounds and a visible value. Review keyboard changes, step size and whether a slider is appropriate for precise entry.</description>
+      <category>Accessibility</category>
+      <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/html-range-input-value-label/</guid>
+    </item>
+    <item>
+      <title>Add a Caption Track to an HTML Video</title>
+      <link>https://pentaai.site/blog/html-video-caption-track/</link>
+      <description>Connect a WebVTT caption file to a video, verify timing and labels, and review native player controls. Distinguish captions from subtitles and transcripts.</description>
+      <category>Accessibility</category>
+      <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/html-video-caption-track/</guid>
+    </item>
+    <item>
+      <title>Find the Cause Behind a Layout Shift</title>
+      <link>https://pentaai.site/blog/diagnose-layout-shift-sources/</link>
+      <description>Trace a moving element back to the content that displaced it. Reproduce late images, banners and font changes, then verify a targeted layout-stability repair.</description>
+      <category>Workflow</category>
+      <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/diagnose-layout-shift-sources/</guid>
     </item>
   </channel>
 </rss>

@@ -1,0 +1,566 @@
+{
+  "version": 1,
+  "description": "Original explanatory illustrations matching Penta AI homepage feature panels. Values are examples; not product screenshots.",
+  "assets": [
+    {
+      "slug": "css-border-box-input-width",
+      "alt": "A 300 pixel content box expands to 326 pixels with padding and borders, while a border-box field stays 300 pixels wide.",
+      "source": "/blog/covers/css-border-box-input-width.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/css-border-box-input-width.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 20756
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/css-border-box-input-width-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 9140
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/css-border-box-input-width-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 3498
+        }
+      ]
+    },
+    {
+      "slug": "css-overflow-hidden-vs-clip",
+      "alt": "Two clipped text windows distinguish hidden, which permits programmatic scrolling, from clip, which does not create a scroll container.",
+      "source": "/blog/covers/css-overflow-hidden-vs-clip.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/css-overflow-hidden-vs-clip.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 19668
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/css-overflow-hidden-vs-clip-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 8070
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/css-overflow-hidden-vs-clip-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 3108
+        }
+      ]
+    },
+    {
+      "slug": "css-transform-layout-space",
+      "alt": "A pale outline marks a card’s original layout space while a smaller blue card is drawn lower inside it; the next card keeps its position.",
+      "source": "/blog/covers/css-transform-layout-space.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/css-transform-layout-space.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 18884
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/css-transform-layout-space-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 8812
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/css-transform-layout-space-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 3596
+        }
+      ]
+    },
+    {
+      "slug": "flex-auto-margin-navigation",
+      "alt": "Overview and Files sit at the start of a navigation row, with free space before Account highlighted as an automatic margin.",
+      "source": "/blog/covers/flex-auto-margin-navigation.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/flex-auto-margin-navigation.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 16824
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/flex-auto-margin-navigation-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 7502
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/flex-auto-margin-navigation-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 2948
+        }
+      ]
+    },
+    {
+      "slug": "css-display-contents-wrapper",
+      "alt": "Two children inside a dashed non-painting wrapper align with a third outer grid item, with a reminder to check semantics.",
+      "source": "/blog/covers/css-display-contents-wrapper.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/css-display-contents-wrapper.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 24854
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/css-display-contents-wrapper-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 11058
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/css-display-contents-wrapper-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 4356
+        }
+      ]
+    },
+    {
+      "slug": "css-supports-progressive-enhancement",
+      "alt": "A readable baseline heading and an enhanced balanced heading remain in separate usable panels, connected to a feature-query condition.",
+      "source": "/blog/covers/css-supports-progressive-enhancement.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/css-supports-progressive-enhancement.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 25116
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/css-supports-progressive-enhancement-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 10094
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/css-supports-progressive-enhancement-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 3648
+        }
+      ]
+    },
+    {
+      "slug": "css-has-selected-option-card",
+      "alt": "An unchecked option card and a blue selected card both retain a visible checkbox and the Include review notes label.",
+      "source": "/blog/covers/css-has-selected-option-card.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/css-has-selected-option-card.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 17790
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/css-has-selected-option-card-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 8400
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/css-has-selected-option-card-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 3324
+        }
+      ]
+    },
+    {
+      "slug": "css-property-typed-color-token",
+      "alt": "A typed badge-accent contract lists color syntax, no inheritance and a blue initial value beside valid color and invalid length examples.",
+      "source": "/blog/covers/css-property-typed-color-token.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/css-property-typed-color-token.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 17386
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/css-property-typed-color-token-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 7970
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/css-property-typed-color-token-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 2834
+        }
+      ]
+    },
+    {
+      "slug": "css-pointer-events-overlay",
+      "alt": "A decorative pale overlay sits across an Open preview button with a pointer path leading through to the real control.",
+      "source": "/blog/covers/css-pointer-events-overlay.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/css-pointer-events-overlay.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 17558
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/css-pointer-events-overlay-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 7056
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/css-pointer-events-overlay-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 2584
+        }
+      ]
+    },
+    {
+      "slug": "css-opacity-vs-alpha-background",
+      "alt": "A group-faded card has muted text while a translucent background card retains dark opaque text; the two examples have different intended appearances.",
+      "source": "/blog/covers/css-opacity-vs-alpha-background.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/css-opacity-vs-alpha-background.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 15938
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/css-opacity-vs-alpha-background-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 6866
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/css-opacity-vs-alpha-background-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 2666
+        }
+      ]
+    },
+    {
+      "slug": "css-hyphens-language",
+      "alt": "A narrow prose specimen illustrates a discretionary hyphenated line ending alongside an en-US language label and a browser-dictionary reminder.",
+      "source": "/blog/covers/css-hyphens-language.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/css-hyphens-language.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 21216
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/css-hyphens-language-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 9404
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/css-hyphens-language-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 3500
+        }
+      ]
+    },
+    {
+      "slug": "css-font-size-adjust-fallback",
+      "alt": "Two illustrative lowercase specimens compare smaller and adjusted apparent letter height, without claiming measurements for a named font.",
+      "source": "/blog/covers/css-font-size-adjust-fallback.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/css-font-size-adjust-fallback.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 20386
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/css-font-size-adjust-fallback-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 9026
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/css-font-size-adjust-fallback-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 3388
+        }
+      ]
+    },
+    {
+      "slug": "css-white-space-pre-wrap-notes",
+      "alt": "A notes panel preserves newlines and indented status lines, with labels separating whitespace preservation from long-string wrapping.",
+      "source": "/blog/covers/css-white-space-pre-wrap-notes.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/css-white-space-pre-wrap-notes.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 26112
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/css-white-space-pre-wrap-notes-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 11472
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/css-white-space-pre-wrap-notes-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 4164
+        }
+      ]
+    },
+    {
+      "slug": "css-ch-unit-reading-width",
+      "alt": "A centered paragraph column is marked with a 64ch outer maximum and separate side padding, with a reminder that ch is not an exact character count.",
+      "source": "/blog/covers/css-ch-unit-reading-width.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/css-ch-unit-reading-width.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 18782
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/css-ch-unit-reading-width-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 8156
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/css-ch-unit-reading-width-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 3066
+        }
+      ]
+    },
+    {
+      "slug": "aria-current-page-navigation",
+      "alt": "A navigation row underlines the Files link and identifies it with aria-current page while the other links remain ordinary destinations.",
+      "source": "/blog/covers/aria-current-page-navigation.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/aria-current-page-navigation.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 19514
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/aria-current-page-navigation-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 8846
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/aria-current-page-navigation-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 3502
+        }
+      ]
+    },
+    {
+      "slug": "html-disabled-vs-readonly-fields",
+      "alt": "A read-only reference code remains available to focus and submit, while a disabled coupon field is shown unavailable and excluded from submission.",
+      "source": "/blog/covers/html-disabled-vs-readonly-fields.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/html-disabled-vs-readonly-fields.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 18736
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/html-disabled-vs-readonly-fields-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 8366
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/html-disabled-vs-readonly-fields-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 3208
+        }
+      ]
+    },
+    {
+      "slug": "html-meter-vs-progress",
+      "alt": "A storage meter is filled to six of ten gigabytes, while a separate task progress indicator is filled to thirty percent.",
+      "source": "/blog/covers/html-meter-vs-progress.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/html-meter-vs-progress.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 22272
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/html-meter-vs-progress-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 9854
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/html-meter-vs-progress-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 3826
+        }
+      ]
+    },
+    {
+      "slug": "html-range-input-value-label",
+      "alt": "A preview-scale range control spans fifty to one hundred fifty percent with its thumb centered at one hundred percent and a visible value.",
+      "source": "/blog/covers/html-range-input-value-label.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/html-range-input-value-label.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 19290
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/html-range-input-value-label-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 8386
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/html-range-input-value-label-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 3194
+        }
+      ]
+    },
+    {
+      "slug": "html-video-caption-track",
+      "alt": "A native-style video preview shows an example caption below a simple panel demonstration, with the English caption track identified.",
+      "source": "/blog/covers/html-video-caption-track.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/html-video-caption-track.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 18942
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/html-video-caption-track-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 8182
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/html-video-caption-track-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 3476
+        }
+      ]
+    },
+    {
+      "slug": "diagnose-layout-shift-sources",
+      "alt": "Before and after page sketches show text moving down when an unreserved image appears, with an arrow identifying the inserted media as the cause.",
+      "source": "/blog/covers/diagnose-layout-shift-sources.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/diagnose-layout-shift-sources.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 18584
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/diagnose-layout-shift-sources-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 7818
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/diagnose-layout-shift-sources-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 3086
+        }
+      ]
+    }
+  ]
+}
