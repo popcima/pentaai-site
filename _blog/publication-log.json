@@ -161,5 +161,33 @@
       "https://pentaai.site/blog/html-video-caption-track/",
       "https://pentaai.site/blog/diagnose-layout-shift-sources/"
     ]
+  },
+  {
+    "date": "2026-11-14",
+    "count": 20,
+    "commit": "fe7bde32bc0653bd1403b4359f760173acf4fe21",
+    "deployment": "GitHub Pages built; all 83 checked public URLs returned HTTP 200 and matched the build: twenty articles, sixty WebP cover variants, blog index, sitemap and RSS. Live desktop/mobile checks passed. Live library has 126 guides; sitemap has 130 URLs.",
+    "urls": [
+      "https://pentaai.site/blog/audit-html-heading-hierarchy/",
+      "https://pentaai.site/blog/html-landmarks-named-navigation/",
+      "https://pentaai.site/blog/html-button-vs-link-actions/",
+      "https://pentaai.site/blog/html-button-type-accidental-submit/",
+      "https://pentaai.site/blog/inputmode-vs-input-type-mobile/",
+      "https://pentaai.site/blog/css-textarea-resize-vertical/",
+      "https://pentaai.site/blog/html-bdi-mixed-direction-text/",
+      "https://pentaai.site/blog/html-time-datetime-dates/",
+      "https://pentaai.site/blog/css-table-border-collapse-spacing/",
+      "https://pentaai.site/blog/css-vertical-align-inline-icons/",
+      "https://pentaai.site/blog/css-where-low-specificity-defaults/",
+      "https://pentaai.site/blog/css-initial-inherit-unset-revert/",
+      "https://pentaai.site/blog/css-custom-property-dependency-cycles/",
+      "https://pentaai.site/blog/css-mask-image-monochrome-icons/",
+      "https://pentaai.site/blog/css-drop-shadow-transparent-images/",
+      "https://pentaai.site/blog/css-marker-list-styling/",
+      "https://pentaai.site/blog/css-hover-pointer-media-queries/",
+      "https://pentaai.site/blog/css-focus-within-field-groups/",
+      "https://pentaai.site/blog/css-multiline-clamp-card-summaries/",
+      "https://pentaai.site/blog/css-letter-spacing-em-typography/"
+    ]
   }
 ]
