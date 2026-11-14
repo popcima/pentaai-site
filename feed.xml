@@ -5,7 +5,7 @@
     <link>https://pentaai.site/blog/</link>
     <description>Practical guides to website fonts, colors, CSS and design systems.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 30 Oct 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 00:00:00 +0000</lastBuildDate>
     <item>
       <title>How to Extract a Design System from an Existing Website</title>
       <link>https://pentaai.site/blog/extract-design-system-from-website/</link>
@@ -853,6 +853,166 @@
       <category>Workflow</category>
       <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://pentaai.site/blog/diagnose-layout-shift-sources/</guid>
+    </item>
+    <item>
+      <title>Audit HTML Headings Without Changing the Design</title>
+      <link>https://pentaai.site/blog/audit-html-heading-hierarchy/</link>
+      <description>Check heading levels, section relationships and reusable card titles. Repair the document outline while preserving the typography your design already uses.</description>
+      <category>Accessibility</category>
+      <pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/audit-html-heading-hierarchy/</guid>
+    </item>
+    <item>
+      <title>Use HTML Landmarks and Name Multiple Navigation Regions</title>
+      <link>https://pentaai.site/blog/html-landmarks-named-navigation/</link>
+      <description>Organize a page with main, nav, header and footer. Give distinct navigation regions useful names and verify the resulting accessibility tree.</description>
+      <category>Accessibility</category>
+      <pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/html-landmarks-named-navigation/</guid>
+    </item>
+    <item>
+      <title>Button or Link? Choose by What Activation Does</title>
+      <link>https://pentaai.site/blog/html-button-vs-link-actions/</link>
+      <description>Choose an anchor for navigation and a button for actions. Inspect keyboard behavior, real URLs and component APIs without changing the visual design.</description>
+      <category>Accessibility</category>
+      <pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/html-button-vs-link-actions/</guid>
+    </item>
+    <item>
+      <title>Stop Helper Buttons from Submitting a Form</title>
+      <link>https://pentaai.site/blog/html-button-type-accidental-submit/</link>
+      <description>Trace accidental submissions to a button’s type and form owner. Separate helper actions from submit controls, and test Enter-key submission deliberately.</description>
+      <category>HTML</category>
+      <pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/html-button-type-accidental-submit/</guid>
+    </item>
+    <item>
+      <title>Inputmode vs. Input Type: Pick the Right Mobile Keyboard</title>
+      <link>https://pentaai.site/blog/inputmode-vs-input-type-mobile/</link>
+      <description>Match virtual keyboards to field data without confusing keyboard hints with validation. Use text for identifiers and test entry, paste and autofill.</description>
+      <category>HTML</category>
+      <pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/inputmode-vs-input-type-mobile/</guid>
+    </item>
+    <item>
+      <title>Keep Textareas Resizable Without Breaking the Layout</title>
+      <link>https://pentaai.site/blog/css-textarea-resize-vertical/</link>
+      <description>Let users enlarge a textarea vertically while preserving the form width. Check overflow, constraints and mobile behavior before removing the resize handle.</description>
+      <category>CSS</category>
+      <pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/css-textarea-resize-vertical/</guid>
+    </item>
+    <item>
+      <title>Use bdi for Names Inside Mixed-Direction Text</title>
+      <link>https://pentaai.site/blog/html-bdi-mixed-direction-text/</link>
+      <description>Isolate dynamic names from surrounding punctuation with HTML bdi. Test Arabic, Hebrew, Latin text and numbers without changing the stored strings.</description>
+      <category>HTML</category>
+      <pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/html-bdi-mixed-direction-text/</guid>
+    </item>
+    <item>
+      <title>Mark Up Dates with HTML time and datetime</title>
+      <link>https://pentaai.site/blog/html-time-datetime-dates/</link>
+      <description>Separate readable date labels from machine-readable values. Choose date-only or timestamp formats and check that timezones, metadata and visible text agree.</description>
+      <category>HTML</category>
+      <pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/html-time-datetime-dates/</guid>
+    </item>
+    <item>
+      <title>Why Table Border Spacing Disappears in CSS</title>
+      <link>https://pentaai.site/blog/css-table-border-collapse-spacing/</link>
+      <description>Compare collapsed and separate table borders. Fix missing border-spacing, doubled grid lines and misleading cell-padding changes with a focused inspection.</description>
+      <category>CSS</category>
+      <pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/css-table-border-collapse-spacing/</guid>
+    </item>
+    <item>
+      <title>Align Inline Icons with Text Using vertical-align</title>
+      <link>https://pentaai.site/blog/css-vertical-align-inline-icons/</link>
+      <description>Diagnose baseline gaps and icon positioning in a text line. Choose vertical-align for inline boxes and flex alignment for separate layout items.</description>
+      <category>CSS</category>
+      <pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/css-vertical-align-inline-icons/</guid>
+    </item>
+    <item>
+      <title>Use :where() for CSS Defaults That Are Easy to Override</title>
+      <link>https://pentaai.site/blog/css-where-low-specificity-defaults/</link>
+      <description>Write low-specificity component defaults with :where(). Compare selectors, keep cascade layers in mind and verify overrides without adding important flags.</description>
+      <category>CSS</category>
+      <pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/css-where-low-specificity-defaults/</guid>
+    </item>
+    <item>
+      <title>CSS initial, inherit, unset and revert: Choose the Reset</title>
+      <link>https://pentaai.site/blog/css-initial-inherit-unset-revert/</link>
+      <description>Choose a CSS reset by the value you want to restore. Compare specification defaults, parent values and browser styles with a small reproducible example.</description>
+      <category>CSS</category>
+      <pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/css-initial-inherit-unset-revert/</guid>
+    </item>
+    <item>
+      <title>Debug Circular CSS Custom Properties</title>
+      <link>https://pentaai.site/blog/css-custom-property-dependency-cycles/</link>
+      <description>Find token aliases that point back to themselves. Break circular dependencies with a literal base token and verify the consuming property in each theme.</description>
+      <category>Design tokens</category>
+      <pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/css-custom-property-dependency-cycles/</guid>
+    </item>
+    <item>
+      <title>Color a Monochrome Icon with CSS mask-image</title>
+      <link>https://pentaai.site/blog/css-mask-image-monochrome-icons/</link>
+      <description>Use an SVG mask and currentColor for a single-color icon. Diagnose invisible masks, sizing and network failures while keeping a visible text label.</description>
+      <category>CSS</category>
+      <pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/css-mask-image-monochrome-icons/</guid>
+    </item>
+    <item>
+      <title>Drop-shadow vs. Box-shadow for Transparent Images</title>
+      <link>https://pentaai.site/blog/css-drop-shadow-transparent-images/</link>
+      <description>Choose a shadow that follows a transparent image’s silhouette. Compare filter syntax, blur behavior and clipping before reusing a card elevation token.</description>
+      <category>CSS</category>
+      <pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/css-drop-shadow-transparent-images/</guid>
+    </item>
+    <item>
+      <title>Style List Bullets with ::marker</title>
+      <link>https://pentaai.site/blog/css-marker-list-styling/</link>
+      <description>Adjust native list bullets and numbers without rebuilding them as decorative elements. Understand marker property limits and keep list meaning intact.</description>
+      <category>CSS</category>
+      <pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/css-marker-list-styling/</guid>
+    </item>
+    <item>
+      <title>Use Hover and Pointer Queries Without Hiding Actions</title>
+      <link>https://pentaai.site/blog/css-hover-pointer-media-queries/</link>
+      <description>Adapt optional hover styling to input capabilities. Keep controls available on touch, keyboard and hybrid devices instead of treating screen width as input type.</description>
+      <category>CSS</category>
+      <pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/css-hover-pointer-media-queries/</guid>
+    </item>
+    <item>
+      <title>Highlight a Field Group with :focus-within</title>
+      <link>https://pentaai.site/blog/css-focus-within-field-groups/</link>
+      <description>Use focus-within for group context while keeping focus-visible on the actual control. Check nested fields, pointer focus and movement between groups.</description>
+      <category>Accessibility</category>
+      <pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/css-focus-within-field-groups/</guid>
+    </item>
+    <item>
+      <title>Clamp Card Summaries Without Hiding Essential Content</title>
+      <link>https://pentaai.site/blog/css-multiline-clamp-card-summaries/</link>
+      <description>Limit an optional summary to a few lines while keeping a clear route to the full text. Check browser support, zoom, focusable content and repeated card labels.</description>
+      <category>CSS</category>
+      <pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/css-multiline-clamp-card-summaries/</guid>
+    </item>
+    <item>
+      <title>Inspect Letter Spacing and Scale It with em</title>
+      <link>https://pentaai.site/blog/css-letter-spacing-em-typography/</link>
+      <description>Measure tracking alongside the actual font and size. Use modest em-based spacing for a defined text role, then test wrapping, localization and user overrides.</description>
+      <category>Typography</category>
+      <pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/css-letter-spacing-em-typography/</guid>
     </item>
   </channel>
 </rss>

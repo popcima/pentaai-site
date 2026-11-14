@@ -1,0 +1,566 @@
+{
+  "version": 1,
+  "description": "Original explanatory illustrations matching Penta AI homepage feature panels. Values are examples; not product screenshots.",
+  "assets": [
+    {
+      "slug": "audit-html-heading-hierarchy",
+      "alt": "A page outline shows one main heading, two sibling section headings and a nested subsection with increasing indentation.",
+      "source": "/blog/covers/audit-html-heading-hierarchy.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/audit-html-heading-hierarchy.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 16760
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/audit-html-heading-hierarchy-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 7222
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/audit-html-heading-hierarchy-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 2948
+        }
+      ]
+    },
+    {
+      "slug": "html-landmarks-named-navigation",
+      "alt": "A page map labels Primary navigation, Project navigation, Main content and Footer as distinct regions.",
+      "source": "/blog/covers/html-landmarks-named-navigation.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/html-landmarks-named-navigation.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 14994
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/html-landmarks-named-navigation-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 6670
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/html-landmarks-named-navigation-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 2774
+        }
+      ]
+    },
+    {
+      "slug": "html-button-vs-link-actions",
+      "alt": "View exports is paired with a destination URL, while Refresh preview is paired with an action, despite matching button shapes.",
+      "source": "/blog/covers/html-button-vs-link-actions.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/html-button-vs-link-actions.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 24504
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/html-button-vs-link-actions-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 11274
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/html-button-vs-link-actions-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 4268
+        }
+      ]
+    },
+    {
+      "slug": "html-button-type-accidental-submit",
+      "alt": "A form sketch separates a Preview helper button with type button from a Create export control with type submit.",
+      "source": "/blog/covers/html-button-type-accidental-submit.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/html-button-type-accidental-submit.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 20866
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/html-button-type-accidental-submit-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 9122
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/html-button-type-accidental-submit-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 3270
+        }
+      ]
+    },
+    {
+      "slug": "inputmode-vs-input-type-mobile",
+      "alt": "A five-digit code beginning with zero is shown above a number-keyboard diagram, with separate keyboard hint and validation labels.",
+      "source": "/blog/covers/inputmode-vs-input-type-mobile.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/inputmode-vs-input-type-mobile.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 22720
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/inputmode-vs-input-type-mobile-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 10546
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/inputmode-vs-input-type-mobile-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 4110
+        }
+      ]
+    },
+    {
+      "slug": "css-textarea-resize-vertical",
+      "alt": "A note field grows vertically from a dashed starting boundary while keeping the same width, with the following action moving below it.",
+      "source": "/blog/covers/css-textarea-resize-vertical.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/css-textarea-resize-vertical.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 17492
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/css-textarea-resize-vertical-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 7950
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/css-textarea-resize-vertical-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 3084
+        }
+      ]
+    },
+    {
+      "slug": "html-bdi-mixed-direction-text",
+      "alt": "A dynamic name is isolated inside a highlighted boundary between a fixed Reviewer label and a note count, illustrating the bdi boundary.",
+      "source": "/blog/covers/html-bdi-mixed-direction-text.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/html-bdi-mixed-direction-text.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 18452
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/html-bdi-mixed-direction-text-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 8256
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/html-bdi-mixed-direction-text-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 3212
+        }
+      ]
+    },
+    {
+      "slug": "html-time-datetime-dates",
+      "alt": "A readable November 14, 2026 date maps to a date-only datetime value, with a separate timestamp example containing an explicit offset.",
+      "source": "/blog/covers/html-time-datetime-dates.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/html-time-datetime-dates.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 28252
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/html-time-datetime-dates-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 12772
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/html-time-datetime-dates-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 4480
+        }
+      ]
+    },
+    {
+      "slug": "css-table-border-collapse-spacing",
+      "alt": "A continuous two-by-two grid shows shared borders beside a separated grid with visible gaps between individual cells.",
+      "source": "/blog/covers/css-table-border-collapse-spacing.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/css-table-border-collapse-spacing.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 15874
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/css-table-border-collapse-spacing-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 7170
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/css-table-border-collapse-spacing-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 2982
+        }
+      ]
+    },
+    {
+      "slug": "css-vertical-align-inline-icons",
+      "alt": "An inline blue icon sits beside a text label with a marked baseline, followed by a separate flex alignment example.",
+      "source": "/blog/covers/css-vertical-align-inline-icons.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/css-vertical-align-inline-icons.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 24894
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/css-vertical-align-inline-icons-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 11092
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/css-vertical-align-inline-icons-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 4310
+        }
+      ]
+    },
+    {
+      "slug": "css-where-low-specificity-defaults",
+      "alt": "A default selector inside where has zero specificity, while a component variant uses a class selector to provide a local override.",
+      "source": "/blog/covers/css-where-low-specificity-defaults.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/css-where-low-specificity-defaults.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 24618
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/css-where-low-specificity-defaults-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 10968
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/css-where-low-specificity-defaults-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 4218
+        }
+      ]
+    },
+    {
+      "slug": "css-initial-inherit-unset-revert",
+      "alt": "Four CSS reset keywords map to specification initial value, parent value, inherited-or-initial behavior and an earlier style origin.",
+      "source": "/blog/covers/css-initial-inherit-unset-revert.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/css-initial-inherit-unset-revert.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 24726
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/css-initial-inherit-unset-revert-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 10964
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/css-initial-inherit-unset-revert-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 4242
+        }
+      ]
+    },
+    {
+      "slug": "css-custom-property-dependency-cycles",
+      "alt": "Two aliases point to each other in a broken loop; below them a palette value flows through a brand role to a component token.",
+      "source": "/blog/covers/css-custom-property-dependency-cycles.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/css-custom-property-dependency-cycles.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 20354
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/css-custom-property-dependency-cycles-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 9032
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/css-custom-property-dependency-cycles-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 3546
+        }
+      ]
+    },
+    {
+      "slug": "css-mask-image-monochrome-icons",
+      "alt": "A blue painted square is transformed through a mask into a monochrome download arrow, with currentColor supplying the paint.",
+      "source": "/blog/covers/css-mask-image-monochrome-icons.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/css-mask-image-monochrome-icons.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 14276
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/css-mask-image-monochrome-icons-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 6474
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/css-mask-image-monochrome-icons-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 2812
+        }
+      ]
+    },
+    {
+      "slug": "css-drop-shadow-transparent-images",
+      "alt": "The same diamond artwork is shown with a rectangular box shadow and a silhouette-shaped shadow, illustrating different shadow boundaries.",
+      "source": "/blog/covers/css-drop-shadow-transparent-images.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/css-drop-shadow-transparent-images.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 18594
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/css-drop-shadow-transparent-images-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 8284
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/css-drop-shadow-transparent-images-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 3328
+        }
+      ]
+    },
+    {
+      "slug": "css-marker-list-styling",
+      "alt": "Three ordered review steps keep native-looking blue numbers beside dark text, with a marker rule underneath.",
+      "source": "/blog/covers/css-marker-list-styling.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/css-marker-list-styling.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 20856
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/css-marker-list-styling-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 8888
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/css-marker-list-styling-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 3546
+        }
+      ]
+    },
+    {
+      "slug": "css-hover-pointer-media-queries",
+      "alt": "Touch, keyboard and pointer paths each lead to an available action, while hover feedback is labeled as optional.",
+      "source": "/blog/covers/css-hover-pointer-media-queries.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/css-hover-pointer-media-queries.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 24550
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/css-hover-pointer-media-queries-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 11098
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/css-hover-pointer-media-queries-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 4356
+        }
+      ]
+    },
+    {
+      "slug": "css-focus-within-field-groups",
+      "alt": "A pale highlighted name group contains two inputs, with a strong blue outline only on the focused Given name field.",
+      "source": "/blog/covers/css-focus-within-field-groups.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/css-focus-within-field-groups.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 22942
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/css-focus-within-field-groups-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 10608
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/css-focus-within-field-groups-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 4024
+        }
+      ]
+    },
+    {
+      "slug": "css-multiline-clamp-card-summaries",
+      "alt": "A guide card keeps its linked title visible above a three-line optional summary ending in an ellipsis, with a clear full-guide destination.",
+      "source": "/blog/covers/css-multiline-clamp-card-summaries.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/css-multiline-clamp-card-summaries.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 25528
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/css-multiline-clamp-card-summaries-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 11446
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/css-multiline-clamp-card-summaries-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 4514
+        }
+      ]
+    },
+    {
+      "slug": "css-letter-spacing-em-typography",
+      "alt": "Two text-size rows show that example tracking of 0.06em equals 0.72 pixels at 12 pixels and 0.96 pixels at 16 pixels.",
+      "source": "/blog/covers/css-letter-spacing-em-typography.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/css-letter-spacing-em-typography.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 24664
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/css-letter-spacing-em-typography-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 10862
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/css-letter-spacing-em-typography-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 4094
+        }
+      ]
+    }
+  ]
+}
