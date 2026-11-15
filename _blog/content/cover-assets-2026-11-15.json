@@ -1,0 +1,566 @@
+{
+  "version": 1,
+  "description": "Original explanatory illustrations matching Penta AI homepage feature panels. Values are examples; not product screenshots.",
+  "assets": [
+    {
+      "slug": "css-background-origin-vs-clip",
+      "alt": "Nested border, padding and content boxes show the image starting in the content area while the background paint stops inside the border.",
+      "source": "/blog/covers/css-background-origin-vs-clip.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/css-background-origin-vs-clip.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 16328
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/css-background-origin-vs-clip-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 7324
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/css-background-origin-vs-clip-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 2924
+        }
+      ]
+    },
+    {
+      "slug": "css-transform-origin-pivot",
+      "alt": "Two scaled card outlines compare a top-left anchor with a center anchor, marking each pivot with a blue dot.",
+      "source": "/blog/covers/css-transform-origin-pivot.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/css-transform-origin-pivot.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 11914
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/css-transform-origin-pivot-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 5674
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/css-transform-origin-pivot-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 2454
+        }
+      ]
+    },
+    {
+      "slug": "css-transition-property-explicit",
+      "alt": "A component motion specification lists background color and text color as animated while the focus outline appears immediately.",
+      "source": "/blog/covers/css-transition-property-explicit.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/css-transition-property-explicit.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 18428
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/css-transition-property-explicit-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 8314
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/css-transition-property-explicit-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 3338
+        }
+      ]
+    },
+    {
+      "slug": "css-font-kerning-vs-tracking",
+      "alt": "A pair-spacing panel highlights the gap between A and V, while a tracking panel marks multiple gaps across a word as a separate typography decision.",
+      "source": "/blog/covers/css-font-kerning-vs-tracking.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/css-font-kerning-vs-tracking.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 19594
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/css-font-kerning-vs-tracking-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 8666
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/css-font-kerning-vs-tracking-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 3550
+        }
+      ]
+    },
+    {
+      "slug": "font-unicode-range-subset-debug",
+      "alt": "A declared printable ASCII range is shown beside a separate accented-character code point that requires additional font coverage.",
+      "source": "/blog/covers/font-unicode-range-subset-debug.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/font-unicode-range-subset-debug.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 24858
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/font-unicode-range-subset-debug-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 11094
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/font-unicode-range-subset-debug-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 4048
+        }
+      ]
+    },
+    {
+      "slug": "css-rem-vs-em-nested-components",
+      "alt": "An example 16-pixel root grows to a 20-pixel panel and a 25-pixel nested label through em sizing, while one rem stays tied to the root.",
+      "source": "/blog/covers/css-rem-vs-em-nested-components.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/css-rem-vs-em-nested-components.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 22502
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/css-rem-vs-em-nested-components-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 10158
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/css-rem-vs-em-nested-components-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 3982
+        }
+      ]
+    },
+    {
+      "slug": "aria-labelledby-vs-describedby",
+      "alt": "A project-name field has a short visible label and separate help text, mapped to its accessible name and description.",
+      "source": "/blog/covers/aria-labelledby-vs-describedby.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/aria-labelledby-vs-describedby.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 23670
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/aria-labelledby-vs-describedby-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 10398
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/aria-labelledby-vs-describedby-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 3974
+        }
+      ]
+    },
+    {
+      "slug": "aria-pressed-toggle-button",
+      "alt": "Two Pin preview buttons keep the same label while an unpressed state and a highlighted pressed state have different aria-pressed values.",
+      "source": "/blog/covers/aria-pressed-toggle-button.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/aria-pressed-toggle-button.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 21342
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/aria-pressed-toggle-button-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 9088
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/aria-pressed-toggle-button-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 3344
+        }
+      ]
+    },
+    {
+      "slug": "aria-busy-updating-regions",
+      "alt": "A results region changes from updating to settled, with both success and failure paths clearing the busy state.",
+      "source": "/blog/covers/aria-busy-updating-regions.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/aria-busy-updating-regions.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 25172
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/aria-busy-updating-regions-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 11018
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/aria-busy-updating-regions-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 4272
+        }
+      ]
+    },
+    {
+      "slug": "chrome-devtools-accessibility-tree",
+      "alt": "A Save notes button maps to an inspection panel showing a button role, Save notes name and enabled state.",
+      "source": "/blog/covers/chrome-devtools-accessibility-tree.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/chrome-devtools-accessibility-tree.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 20598
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/chrome-devtools-accessibility-tree-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 8562
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/chrome-devtools-accessibility-tree-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 3496
+        }
+      ]
+    },
+    {
+      "slug": "chrome-paint-flashing-rendering",
+      "alt": "A schematic page highlights a repainted card in green beside a reminder to inspect timing before diagnosing a performance problem.",
+      "source": "/blog/covers/chrome-paint-flashing-rendering.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/chrome-paint-flashing-rendering.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 18570
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/chrome-paint-flashing-rendering-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 8276
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/chrome-paint-flashing-rendering-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 3422
+        }
+      ]
+    },
+    {
+      "slug": "html-iframe-title-responsive-embed",
+      "alt": "A responsive embedded demo has a descriptive title, a reserved sixteen-by-nine box and a separate link to open the demo.",
+      "source": "/blog/covers/html-iframe-title-responsive-embed.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/html-iframe-title-responsive-embed.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 23576
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/html-iframe-title-responsive-embed-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 9866
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/html-iframe-title-responsive-embed-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 3468
+        }
+      ]
+    },
+    {
+      "slug": "html-file-input-accept-validation",
+      "alt": "A labeled reference-image picker lists PNG or JPEG and a five-megabyte example limit, with a separate server-validation reminder.",
+      "source": "/blog/covers/html-file-input-accept-validation.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/html-file-input-accept-validation.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 25934
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/html-file-input-accept-validation-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 10752
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/html-file-input-accept-validation-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 4150
+        }
+      ]
+    },
+    {
+      "slug": "html-select-optgroup-options",
+      "alt": "An export-format picker groups PNG and JPEG under Raster images and SVG under Vector images, keeping group names distinct from choices.",
+      "source": "/blog/covers/html-select-optgroup-options.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/html-select-optgroup-options.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 16186
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/html-select-optgroup-options-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 7014
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/html-select-optgroup-options-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 2728
+        }
+      ]
+    },
+    {
+      "slug": "css-will-change-measured-use",
+      "alt": "A lifecycle moves from a baseline recording to preparation, interaction and cleanup, with transform hinted only during the relevant period.",
+      "source": "/blog/covers/css-will-change-measured-use.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/css-will-change-measured-use.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 24202
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/css-will-change-measured-use-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 10182
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/css-will-change-measured-use-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 3856
+        }
+      ]
+    },
+    {
+      "slug": "css-contain-paint-clipped-overlays",
+      "alt": "A menu extending below a paint-contained card is cut at the boundary, with a dashed continuation showing the missing portion.",
+      "source": "/blog/covers/css-contain-paint-clipped-overlays.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/css-contain-paint-clipped-overlays.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 21592
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/css-contain-paint-clipped-overlays-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 10764
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/css-contain-paint-clipped-overlays-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 4086
+        }
+      ]
+    },
+    {
+      "slug": "css-grid-template-areas-responsive",
+      "alt": "A narrow layout stacks header, tools and preview while a wide layout places tools beside preview below a shared header.",
+      "source": "/blog/covers/css-grid-template-areas-responsive.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/css-grid-template-areas-responsive.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 14962
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/css-grid-template-areas-responsive-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 6772
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/css-grid-template-areas-responsive-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 2782
+        }
+      ]
+    },
+    {
+      "slug": "css-user-select-copyable-text",
+      "alt": "A short reference code is selected as a whole while a longer note allows partial text selection, illustrating different copying tasks.",
+      "source": "/blog/covers/css-user-select-copyable-text.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/css-user-select-copyable-text.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 25180
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/css-user-select-copyable-text-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 11148
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/css-user-select-copyable-text-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 4150
+        }
+      ]
+    },
+    {
+      "slug": "css-caret-selection-colors",
+      "alt": "One input shows a blue insertion caret, another shows highlighted text, and a separate outline identifies the focused control.",
+      "source": "/blog/covers/css-caret-selection-colors.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/css-caret-selection-colors.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 19644
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/css-caret-selection-colors-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 8648
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/css-caret-selection-colors-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 3306
+        }
+      ]
+    },
+    {
+      "slug": "html-download-attribute-file-links",
+      "alt": "A download checklist link connects to inspection rows for final URL, response headers and the actual file contents.",
+      "source": "/blog/covers/html-download-attribute-file-links.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/html-download-attribute-file-links.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 23810
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/html-download-attribute-file-links-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 10640
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/html-download-attribute-file-links-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 4090
+        }
+      ]
+    }
+  ]
+}

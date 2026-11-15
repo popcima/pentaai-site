@@ -5,7 +5,7 @@
     <link>https://pentaai.site/blog/</link>
     <description>Practical guides to website fonts, colors, CSS and design systems.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 14 Nov 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 00:00:00 +0000</lastBuildDate>
     <item>
       <title>How to Extract a Design System from an Existing Website</title>
       <link>https://pentaai.site/blog/extract-design-system-from-website/</link>
@@ -1013,6 +1013,166 @@
       <category>Typography</category>
       <pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://pentaai.site/blog/css-letter-spacing-em-typography/</guid>
+    </item>
+    <item>
+      <title>Background-origin vs. Background-clip: Inspect the Box</title>
+      <link>https://pentaai.site/blog/css-background-origin-vs-clip/</link>
+      <description>Separate background positioning from painting boundaries. Diagnose images under borders, content-box alignment and shorthand resets with a small CSS fixture.</description>
+      <category>CSS</category>
+      <pubDate>Sun, 15 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/css-background-origin-vs-clip/</guid>
+    </item>
+    <item>
+      <title>Set the Pivot of a CSS Transform with transform-origin</title>
+      <link>https://pentaai.site/blog/css-transform-origin-pivot/</link>
+      <description>Control where a scaled or rotated element stays anchored. Compare corner and center origins, inspect SVG reference boxes and test the final motion.</description>
+      <category>CSS</category>
+      <pubDate>Sun, 15 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/css-transform-origin-pivot/</guid>
+    </item>
+    <item>
+      <title>Replace transition: all with an Intentional Property List</title>
+      <link>https://pentaai.site/blog/css-transition-property-explicit/</link>
+      <description>Choose exactly which CSS properties should animate. Prevent later layout edits from gaining accidental transitions and keep focus and reduced-motion behavior clear.</description>
+      <category>CSS</category>
+      <pubDate>Sun, 15 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/css-transition-property-explicit/</guid>
+    </item>
+    <item>
+      <title>Font Kerning vs. Letter Spacing in CSS</title>
+      <link>https://pentaai.site/blog/css-font-kerning-vs-tracking/</link>
+      <description>Distinguish pair-specific kerning from overall tracking. Compare the same rendered font and specimen before changing spacing across an entire heading.</description>
+      <category>Typography</category>
+      <pubDate>Sun, 15 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/css-font-kerning-vs-tracking/</guid>
+    </item>
+    <item>
+      <title>Debug Web Font Subsets with unicode-range</title>
+      <link>https://pentaai.site/blog/font-unicode-range-subset-debug/</link>
+      <description>Trace a missing accent or symbol to font coverage and unicode-range. Verify selected font files and network requests without assuming a descriptor creates glyphs.</description>
+      <category>Typography</category>
+      <pubDate>Sun, 15 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/font-unicode-range-subset-debug/</guid>
+    </item>
+    <item>
+      <title>rem vs. em: Diagnose Nested Component Scaling</title>
+      <link>https://pentaai.site/blog/css-rem-vs-em-nested-components/</link>
+      <description>Trace rem and em values to their sizing reference. Prevent compounded font sizes while letting component padding scale with its own text.</description>
+      <category>Typography</category>
+      <pubDate>Sun, 15 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/css-rem-vs-em-nested-components/</guid>
+    </item>
+    <item>
+      <title>Accessible Names vs. Descriptions: Choose the Right ARIA</title>
+      <link>https://pentaai.site/blog/aria-labelledby-vs-describedby/</link>
+      <description>Keep a control’s short name separate from supporting instructions. Use native labels first, then connect concise descriptions and inspect the computed result.</description>
+      <category>Accessibility</category>
+      <pubDate>Sun, 15 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/aria-labelledby-vs-describedby/</guid>
+    </item>
+    <item>
+      <title>Build a Toggle Button with aria-pressed</title>
+      <link>https://pentaai.site/blog/aria-pressed-toggle-button/</link>
+      <description>Expose an on/off button state with aria-pressed and a stable label. Keep application behavior, visual feedback and keyboard activation synchronized.</description>
+      <category>Accessibility</category>
+      <pubDate>Sun, 15 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/aria-pressed-toggle-button/</guid>
+    </item>
+    <item>
+      <title>Use aria-busy While a Region Is Updating</title>
+      <link>https://pentaai.site/blog/aria-busy-updating-regions/</link>
+      <description>Mark an incomplete interface update as busy, then clear the state on success or failure. Keep visible feedback and control behavior separate from announcements.</description>
+      <category>Accessibility</category>
+      <pubDate>Sun, 15 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/aria-busy-updating-regions/</guid>
+    </item>
+    <item>
+      <title>Inspect Roles and Names in Chrome’s Accessibility Tree</title>
+      <link>https://pentaai.site/blog/chrome-devtools-accessibility-tree/</link>
+      <description>Use Chrome DevTools to trace a control’s computed role, name and state. Compare the DOM with exposed semantics, then verify the real keyboard interaction.</description>
+      <category>Workflow</category>
+      <pubDate>Sun, 15 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/chrome-devtools-accessibility-tree/</guid>
+    </item>
+    <item>
+      <title>Use Paint Flashing to Investigate Unexpected Repaints</title>
+      <link>https://pentaai.site/blog/chrome-paint-flashing-rendering/</link>
+      <description>Find repaint regions with Chrome’s Rendering panel, then measure the interaction in Performance. Separate a diagnostic highlight from proof of a bottleneck.</description>
+      <category>Workflow</category>
+      <pubDate>Sun, 15 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/chrome-paint-flashing-rendering/</guid>
+    </item>
+    <item>
+      <title>Give Iframes a Clear Title and a Stable Responsive Box</title>
+      <link>https://pentaai.site/blog/html-iframe-title-responsive-embed/</link>
+      <description>Label embedded documents, reserve their space and provide an alternate link. Review keyboard entry and loading behavior without assuming the parent fixes the embed.</description>
+      <category>HTML</category>
+      <pubDate>Sun, 15 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/html-iframe-title-responsive-embed/</guid>
+    </item>
+    <item>
+      <title>File Input accept Is a Hint, Not Upload Validation</title>
+      <link>https://pentaai.site/blog/html-file-input-accept-validation/</link>
+      <description>Build a labeled native file picker with clear format and size instructions. Validate the real upload and test cancellation, replacement and server rejection.</description>
+      <category>HTML</category>
+      <pubDate>Sun, 15 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/html-file-input-accept-validation/</guid>
+    </item>
+    <item>
+      <title>Group Native Select Options with optgroup</title>
+      <link>https://pentaai.site/blog/html-select-optgroup-options/</link>
+      <description>Organize related choices with optgroup while keeping real option values and a visible label. Review keyboard selection, disabled groups and long labels.</description>
+      <category>HTML</category>
+      <pubDate>Sun, 15 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/html-select-optgroup-options/</guid>
+    </item>
+    <item>
+      <title>Use will-change Only for a Measured Rendering Problem</title>
+      <link>https://pentaai.site/blog/css-will-change-measured-use/</link>
+      <description>Treat will-change as a targeted rendering hint. Compare real recordings, allow preparation time and remove the hint when the interaction no longer needs it.</description>
+      <category>CSS</category>
+      <pubDate>Sun, 15 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/css-will-change-measured-use/</guid>
+    </item>
+    <item>
+      <title>When contain: paint Clips a Menu or Tooltip</title>
+      <link>https://pentaai.site/blog/css-contain-paint-clipped-overlays/</link>
+      <description>Inspect CSS containment when a descendant overlay disappears at a component edge. Separate paint boundaries, containing blocks and size containment before optimizing.</description>
+      <category>CSS</category>
+      <pubDate>Sun, 15 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/css-contain-paint-clipped-overlays/</guid>
+    </item>
+    <item>
+      <title>Build a Responsive Layout with Named Grid Areas</title>
+      <link>https://pentaai.site/blog/css-grid-template-areas-responsive/</link>
+      <description>Map grid regions by name, keep area shapes valid and check source order. Diagnose ignored template strings without rearranging the DOM to match a screenshot.</description>
+      <category>CSS</category>
+      <pubDate>Sun, 15 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/css-grid-template-areas-responsive/</guid>
+    </item>
+    <item>
+      <title>Keep Useful Text Selectable with CSS user-select</title>
+      <link>https://pentaai.site/blog/css-user-select-copyable-text/</link>
+      <description>Review where text selection helps the task. Use user-select sparingly, support partial copying and avoid treating selection blocking as content protection.</description>
+      <category>CSS</category>
+      <pubDate>Sun, 15 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/css-user-select-copyable-text/</guid>
+    </item>
+    <item>
+      <title>Review Caret and Text Selection Colors in Form Fields</title>
+      <link>https://pentaai.site/blog/css-caret-selection-colors/</link>
+      <description>Distinguish the insertion caret, selected text and keyboard focus indicator. Test authored colors across field surfaces, themes and user preferences.</description>
+      <category>CSS</category>
+      <pubDate>Sun, 15 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/css-caret-selection-colors/</guid>
+    </item>
+    <item>
+      <title>Why an HTML Download Link Opens in the Browser</title>
+      <link>https://pentaai.site/blog/html-download-attribute-file-links/</link>
+      <description>Inspect same-origin rules, response headers and suggested filenames when a download link behaves unexpectedly. Keep labels honest about file type and destination.</description>
+      <category>HTML</category>
+      <pubDate>Sun, 15 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/html-download-attribute-file-links/</guid>
     </item>
   </channel>
 </rss>
