@@ -189,5 +189,33 @@
       "https://pentaai.site/blog/css-multiline-clamp-card-summaries/",
       "https://pentaai.site/blog/css-letter-spacing-em-typography/"
     ]
+  },
+  {
+    "date": "2026-11-15",
+    "count": 20,
+    "commit": "8ed45177d92ec14d90b02d9db33f0e56d749eef3",
+    "deployment": "GitHub Pages built; all 83 checked public URLs returned HTTP 200 and matched the build: twenty articles, sixty WebP cover variants, blog index, sitemap and RSS. Live desktop/mobile checks passed. Live library has 146 guides; sitemap has 150 URLs.",
+    "urls": [
+      "https://pentaai.site/blog/css-background-origin-vs-clip/",
+      "https://pentaai.site/blog/css-transform-origin-pivot/",
+      "https://pentaai.site/blog/css-transition-property-explicit/",
+      "https://pentaai.site/blog/css-font-kerning-vs-tracking/",
+      "https://pentaai.site/blog/font-unicode-range-subset-debug/",
+      "https://pentaai.site/blog/css-rem-vs-em-nested-components/",
+      "https://pentaai.site/blog/aria-labelledby-vs-describedby/",
+      "https://pentaai.site/blog/aria-pressed-toggle-button/",
+      "https://pentaai.site/blog/aria-busy-updating-regions/",
+      "https://pentaai.site/blog/chrome-devtools-accessibility-tree/",
+      "https://pentaai.site/blog/chrome-paint-flashing-rendering/",
+      "https://pentaai.site/blog/html-iframe-title-responsive-embed/",
+      "https://pentaai.site/blog/html-file-input-accept-validation/",
+      "https://pentaai.site/blog/html-select-optgroup-options/",
+      "https://pentaai.site/blog/css-will-change-measured-use/",
+      "https://pentaai.site/blog/css-contain-paint-clipped-overlays/",
+      "https://pentaai.site/blog/css-grid-template-areas-responsive/",
+      "https://pentaai.site/blog/css-user-select-copyable-text/",
+      "https://pentaai.site/blog/css-caret-selection-colors/",
+      "https://pentaai.site/blog/html-download-attribute-file-links/"
+    ]
   }
 ]
