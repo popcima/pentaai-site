@@ -217,5 +217,33 @@
       "https://pentaai.site/blog/css-caret-selection-colors/",
       "https://pentaai.site/blog/html-download-attribute-file-links/"
     ]
+  },
+  {
+    "date": "2026-11-16",
+    "count": 20,
+    "commit": "5274eab32f60ae2c304893a41887fdb79a4ee3e3",
+    "deployment": "GitHub Pages built; all 83 checked public URLs returned HTTP 200 and matched the build: twenty articles, sixty WebP cover variants, blog index, sitemap and RSS. Live desktop/mobile checks passed. Live library has 166 guides; sitemap has 170 URLs.",
+    "urls": [
+      "https://pentaai.site/blog/website-screenshot-viewport-pixel-ratio/",
+      "https://pentaai.site/blog/measure-element-rect-vs-offsetwidth/",
+      "https://pentaai.site/blog/css-animation-fill-mode-states/",
+      "https://pentaai.site/blog/css-animation-play-state-pause/",
+      "https://pentaai.site/blog/html-hidden-until-found-search/",
+      "https://pentaai.site/blog/css-display-visibility-opacity-hiding/",
+      "https://pentaai.site/blog/html-date-input-value-min-max/",
+      "https://pentaai.site/blog/html-constraint-validation-custom-errors/",
+      "https://pentaai.site/blog/textarea-maxlength-unicode-count/",
+      "https://pentaai.site/blog/html-complex-table-header-associations/",
+      "https://pentaai.site/blog/aria-expanded-accordion-button/",
+      "https://pentaai.site/blog/tooltip-hover-focus-dismiss-review/",
+      "https://pentaai.site/blog/keyboard-focus-obscured-sticky-content/",
+      "https://pentaai.site/blog/test-user-text-spacing-overrides/",
+      "https://pentaai.site/blog/browser-zoom-reflow-review/",
+      "https://pentaai.site/blog/chrome-request-blocking-fallback-review/",
+      "https://pentaai.site/blog/html-lang-page-and-text-parts/",
+      "https://pentaai.site/blog/css-small-caps-font-variant/",
+      "https://pentaai.site/blog/css-counters-heading-numbering/",
+      "https://pentaai.site/blog/reproducible-design-bug-report/"
+    ]
   }
 ]
