@@ -5,7 +5,7 @@
     <link>https://pentaai.site/blog/</link>
     <description>Practical guides to website fonts, colors, CSS and design systems.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 15 Nov 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 00:00:00 +0000</lastBuildDate>
     <item>
       <title>How to Extract a Design System from an Existing Website</title>
       <link>https://pentaai.site/blog/extract-design-system-from-website/</link>
@@ -1173,6 +1173,166 @@
       <category>HTML</category>
       <pubDate>Sun, 15 Nov 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://pentaai.site/blog/html-download-attribute-file-links/</guid>
+    </item>
+    <item>
+      <title>Capture Website Screenshots with Reproducible Dimensions</title>
+      <link>https://pentaai.site/blog/website-screenshot-viewport-pixel-ratio/</link>
+      <description>Record viewport size, zoom and pixel ratio before comparing screenshots. Distinguish CSS layout dimensions from exported image pixels and capture real states.</description>
+      <category>Workflow</category>
+      <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/website-screenshot-viewport-pixel-ratio/</guid>
+    </item>
+    <item>
+      <title>Measure Element Bounds vs. Layout Width in JavaScript</title>
+      <link>https://pentaai.site/blog/measure-element-rect-vs-offsetwidth/</link>
+      <description>Compare rendered bounds with layout width when inspecting transformed elements. Account for rounding, padding, borders and viewport-relative coordinates.</description>
+      <category>Workflow</category>
+      <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/measure-element-rect-vs-offsetwidth/</guid>
+    </item>
+    <item>
+      <title>Understand CSS Animation Fill Modes Before and After Playback</title>
+      <link>https://pentaai.site/blog/css-animation-fill-mode-states/</link>
+      <description>Diagnose jumps during animation delay and after completion. Compare forwards, backwards and both without mistaking a retained animation value for permanent state.</description>
+      <category>CSS</category>
+      <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/css-animation-fill-mode-states/</guid>
+    </item>
+    <item>
+      <title>Pause a CSS Animation Without Restarting It</title>
+      <link>https://pentaai.site/blog/css-animation-play-state-pause/</link>
+      <description>Use animation-play-state for an explicit pause control. Keep the control usable, distinguish pausing from resetting and provide a reduced-motion experience.</description>
+      <category>CSS</category>
+      <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/css-animation-play-state-pause/</guid>
+    </item>
+    <item>
+      <title>Keep Collapsed Content Discoverable with hidden="until-found"</title>
+      <link>https://pentaai.site/blog/html-hidden-until-found-search/</link>
+      <description>Review hidden-until-found behavior for browser search and fragment navigation. Synchronize disclosure state and provide a usable path when support differs.</description>
+      <category>HTML</category>
+      <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/html-hidden-until-found-search/</guid>
+    </item>
+    <item>
+      <title>display, visibility or opacity: Choose How to Hide Content</title>
+      <link>https://pentaai.site/blog/css-display-visibility-opacity-hiding/</link>
+      <description>Compare layout space, focus and accessibility exposure when hiding a component. Avoid invisible interactive controls and preserve a deliberate reveal path.</description>
+      <category>CSS</category>
+      <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/css-display-visibility-opacity-hiding/</guid>
+    </item>
+    <item>
+      <title>Date Inputs: Separate Display Format from Submitted Values</title>
+      <link>https://pentaai.site/blog/html-date-input-value-min-max/</link>
+      <description>Use native date controls with meaningful bounds and labels. Inspect normalized values, locale presentation and date-only handling without inventing a timezone.</description>
+      <category>HTML</category>
+      <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/html-date-input-value-min-max/</guid>
+    </item>
+    <item>
+      <title>Clear Stale Errors in the Constraint Validation API</title>
+      <link>https://pentaai.site/blog/html-constraint-validation-custom-errors/</link>
+      <description>Use setCustomValidity for a real rule and clear it when the value changes. Distinguish validity checks from reporting and preserve server-side validation.</description>
+      <category>HTML</category>
+      <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/html-constraint-validation-custom-errors/</guid>
+    </item>
+    <item>
+      <title>Why a Textarea Character Counter Disagrees with maxlength</title>
+      <link>https://pentaai.site/blog/textarea-maxlength-unicode-count/</link>
+      <description>Compare UTF-16 limits with user-perceived characters before building a counter. Test emoji, accents and pasted text, then align browser and server rules.</description>
+      <category>HTML</category>
+      <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/textarea-maxlength-unicode-count/</guid>
+    </item>
+    <item>
+      <title>Associate Complex Table Cells with the Right Headers</title>
+      <link>https://pentaai.site/blog/html-complex-table-header-associations/</link>
+      <description>Use explicit header IDs when a table has multi-level relationships. Verify each data cell’s context and simplify the table when grouping becomes hard to follow.</description>
+      <category>Accessibility</category>
+      <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/html-complex-table-header-associations/</guid>
+    </item>
+    <item>
+      <title>Keep Accordion Buttons and Panels in Sync with aria-expanded</title>
+      <link>https://pentaai.site/blog/aria-expanded-accordion-button/</link>
+      <description>Implement a custom disclosure with a native button, explicit expanded state and matching panel visibility. Test keyboard operation and focus when content closes.</description>
+      <category>Accessibility</category>
+      <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/aria-expanded-accordion-button/</guid>
+    </item>
+    <item>
+      <title>Review Tooltips for Hover, Focus and Dismissal</title>
+      <link>https://pentaai.site/blog/tooltip-hover-focus-dismiss-review/</link>
+      <description>Test whether temporary help can be reached, read and dismissed without losing context. Distinguish a brief tooltip from interactive content that needs another pattern.</description>
+      <category>Accessibility</category>
+      <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/tooltip-hover-focus-dismiss-review/</guid>
+    </item>
+    <item>
+      <title>Find Keyboard Focus Hidden Behind Sticky Headers</title>
+      <link>https://pentaai.site/blog/keyboard-focus-obscured-sticky-content/</link>
+      <description>Test focus beneath sticky headers, footers and banners. Fix overlapping page chrome and verify forward and backward navigation at enlarged sizes.</description>
+      <category>Accessibility</category>
+      <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/keyboard-focus-obscured-sticky-content/</guid>
+    </item>
+    <item>
+      <title>Test a Page with User Text-Spacing Overrides</title>
+      <link>https://pentaai.site/blog/test-user-text-spacing-overrides/</link>
+      <description>Review text after line, paragraph, letter and word spacing increase together. Find clipping and lost controls without redesigning the site around one preset.</description>
+      <category>Accessibility</category>
+      <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/test-user-text-spacing-overrides/</guid>
+    </item>
+    <item>
+      <title>Review Reflow at High Browser Zoom</title>
+      <link>https://pentaai.site/blog/browser-zoom-reflow-review/</link>
+      <description>Check whether content remains readable and operable at a narrow equivalent viewport. Test page zoom, two-dimensional exceptions and sticky interfaces deliberately.</description>
+      <category>Accessibility</category>
+      <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/browser-zoom-reflow-review/</guid>
+    </item>
+    <item>
+      <title>Test Missing Resources with Chrome Request Conditions</title>
+      <link>https://pentaai.site/blog/chrome-request-blocking-fallback-review/</link>
+      <description>Block one image, font or request to review a page’s fallback behavior. Keep patterns narrow, verify the blocked request and restore normal loading afterward.</description>
+      <category>Workflow</category>
+      <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/chrome-request-blocking-fallback-review/</guid>
+    </item>
+    <item>
+      <title>Set the Page Language and Mark Language Changes in HTML</title>
+      <link>https://pentaai.site/blog/html-lang-page-and-text-parts/</link>
+      <description>Use a valid lang value for the document and meaningful language changes. Keep language separate from direction, translation and font selection.</description>
+      <category>HTML</category>
+      <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/html-lang-page-and-text-parts/</guid>
+    </item>
+    <item>
+      <title>Use Small Caps Without Confusing Them with Uppercase</title>
+      <link>https://pentaai.site/blog/css-small-caps-font-variant/</link>
+      <description>Inspect real small-cap glyphs, font support and synthesis before styling a text role. Compare small-caps with uppercase transformation at the sizes you ship.</description>
+      <category>Typography</category>
+      <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/css-small-caps-font-variant/</guid>
+    </item>
+    <item>
+      <title>Number Section Headings with CSS Counters</title>
+      <link>https://pentaai.site/blog/css-counters-heading-numbering/</link>
+      <description>Scope a CSS counter to one article and increment it deliberately. Test nested components and hidden headings, and keep essential numbering in semantic content.</description>
+      <category>CSS</category>
+      <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/css-counters-heading-numbering/</guid>
+    </item>
+    <item>
+      <title>Write a Design Bug Report a Developer Can Reproduce</title>
+      <link>https://pentaai.site/blog/reproducible-design-bug-report/</link>
+      <description>Turn a visual mismatch into a useful report with a trigger, environment and expected behavior. Separate observed evidence from a proposed CSS fix.</description>
+      <category>Workflow</category>
+      <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/reproducible-design-bug-report/</guid>
     </item>
   </channel>
 </rss>

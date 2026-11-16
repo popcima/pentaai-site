@@ -1,0 +1,566 @@
+{
+  "version": 1,
+  "description": "Original explanatory illustrations matching Penta AI homepage feature panels. Values are examples; not product screenshots.",
+  "assets": [
+    {
+      "slug": "website-screenshot-viewport-pixel-ratio",
+      "alt": "A capture record separates a 1200 by 800 CSS-pixel viewport, a pixel ratio of two and the exported image dimensions that must be checked.",
+      "source": "/blog/covers/website-screenshot-viewport-pixel-ratio.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/website-screenshot-viewport-pixel-ratio.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 22046
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/website-screenshot-viewport-pixel-ratio-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 9582
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/website-screenshot-viewport-pixel-ratio-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 3778
+        }
+      ]
+    },
+    {
+      "slug": "measure-element-rect-vs-offsetwidth",
+      "alt": "A 240-pixel layout outline contains a 120-pixel rendered box after a half-scale transform, distinguishing layout width from rendered bounds.",
+      "source": "/blog/covers/measure-element-rect-vs-offsetwidth.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/measure-element-rect-vs-offsetwidth.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 18172
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/measure-element-rect-vs-offsetwidth-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 8384
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/measure-element-rect-vs-offsetwidth-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 3146
+        }
+      ]
+    },
+    {
+      "slug": "css-animation-fill-mode-states",
+      "alt": "A timeline separates animation delay, playback and completion, with backwards covering the delay and forwards covering the final period.",
+      "source": "/blog/covers/css-animation-fill-mode-states.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/css-animation-fill-mode-states.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 18454
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/css-animation-fill-mode-states-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 8496
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/css-animation-fill-mode-states-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 3244
+        }
+      ]
+    },
+    {
+      "slug": "css-animation-play-state-pause",
+      "alt": "A preview timeline is paused partway through, with an explicit Pause preview motion toggle and a note that resume continues from that position.",
+      "source": "/blog/covers/css-animation-play-state-pause.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/css-animation-play-state-pause.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 20056
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/css-animation-play-state-pause-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 8376
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/css-animation-play-state-pause-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 3114
+        }
+      ]
+    },
+    {
+      "slug": "html-hidden-until-found-search",
+      "alt": "A browser search for spacing annotations points to a collapsed export-notes section that becomes visible when found.",
+      "source": "/blog/covers/html-hidden-until-found-search.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/html-hidden-until-found-search.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 24398
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/html-hidden-until-found-search-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 11040
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/html-hidden-until-found-search-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 4326
+        }
+      ]
+    },
+    {
+      "slug": "css-display-visibility-opacity-hiding",
+      "alt": "Three states distinguish removal from layout, reserved hidden space and a transparent control that can remain interactive.",
+      "source": "/blog/covers/css-display-visibility-opacity-hiding.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/css-display-visibility-opacity-hiding.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 24286
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/css-display-visibility-opacity-hiding-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 10644
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/css-display-visibility-opacity-hiding-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 4160
+        }
+      ]
+    },
+    {
+      "slug": "html-date-input-value-min-max",
+      "alt": "A date field presents December 15, 2026 in a US-style display while its normalized value is 2026-12-15, with December bounds shown separately.",
+      "source": "/blog/covers/html-date-input-value-min-max.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/html-date-input-value-min-max.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 21242
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/html-date-input-value-min-max-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 9512
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/html-date-input-value-min-max-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 3576
+        }
+      ]
+    },
+    {
+      "slug": "html-constraint-validation-custom-errors",
+      "alt": "An invalid reference without the REV prefix is corrected, and the old custom validity message is explicitly cleared before the rule runs again.",
+      "source": "/blog/covers/html-constraint-validation-custom-errors.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/html-constraint-validation-custom-errors.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 23034
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/html-constraint-validation-custom-errors-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 10190
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/html-constraint-validation-custom-errors-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 3678
+        }
+      ]
+    },
+    {
+      "slug": "textarea-maxlength-unicode-count",
+      "alt": "The example A plus code point U+1F600 counts as three UTF-16 code units but two graphemes, illustrating why counting policies must match.",
+      "source": "/blog/covers/textarea-maxlength-unicode-count.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/textarea-maxlength-unicode-count.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 19612
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/textarea-maxlength-unicode-count-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 8704
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/textarea-maxlength-unicode-count-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 3490
+        }
+      ]
+    },
+    {
+      "slug": "html-complex-table-header-associations",
+      "alt": "A sample table groups Open and Closed counts under November, with a Design row and an explicit header path for the value four.",
+      "source": "/blog/covers/html-complex-table-header-associations.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/html-complex-table-header-associations.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 18056
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/html-complex-table-header-associations-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 7910
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/html-complex-table-header-associations-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 3152
+        }
+      ]
+    },
+    {
+      "slug": "aria-expanded-accordion-button",
+      "alt": "An export-notes heading button has aria-expanded true and points through aria-controls to its visible panel.",
+      "source": "/blog/covers/aria-expanded-accordion-button.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/aria-expanded-accordion-button.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 26202
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/aria-expanded-accordion-button-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 11790
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/aria-expanded-accordion-button-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 4330
+        }
+      ]
+    },
+    {
+      "slug": "tooltip-hover-focus-dismiss-review",
+      "alt": "A help trigger and its floating explanation have a connected pointer path, with keyboard focus, hover and Escape dismissal listed as separate checks.",
+      "source": "/blog/covers/tooltip-hover-focus-dismiss-review.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/tooltip-hover-focus-dismiss-review.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 16850
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/tooltip-hover-focus-dismiss-review-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 7670
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/tooltip-hover-focus-dismiss-review-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 2944
+        }
+      ]
+    },
+    {
+      "slug": "keyboard-focus-obscured-sticky-content",
+      "alt": "A sticky header covers part of a focused action in one viewport sketch, while a second sketch leaves the entire action visible below the header.",
+      "source": "/blog/covers/keyboard-focus-obscured-sticky-content.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/keyboard-focus-obscured-sticky-content.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 21964
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/keyboard-focus-obscured-sticky-content-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 9374
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/keyboard-focus-obscured-sticky-content-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 3658
+        }
+      ]
+    },
+    {
+      "slug": "test-user-text-spacing-overrides",
+      "alt": "A spacing review checklist lists line height 1.5, paragraph spacing 2em, letter spacing 0.12em and word spacing 0.16em as minimum override relationships.",
+      "source": "/blog/covers/test-user-text-spacing-overrides.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/test-user-text-spacing-overrides.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 29034
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/test-user-text-spacing-overrides-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 12262
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/test-user-text-spacing-overrides-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 4842
+        }
+      ]
+    },
+    {
+      "slug": "browser-zoom-reflow-review",
+      "alt": "A wide 1280-CSS-pixel viewport at 400 percent zoom is compared with a narrow 320-CSS-pixel equivalent reading area.",
+      "source": "/blog/covers/browser-zoom-reflow-review.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/browser-zoom-reflow-review.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 20870
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/browser-zoom-reflow-review-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 8558
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/browser-zoom-reflow-review-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 3298
+        }
+      ]
+    },
+    {
+      "slug": "chrome-request-blocking-fallback-review",
+      "alt": "A selected image request is marked blocked by DevTools while the page fallback retains a text label and reserved image space.",
+      "source": "/blog/covers/chrome-request-blocking-fallback-review.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/chrome-request-blocking-fallback-review.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 25236
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/chrome-request-blocking-fallback-review-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 11294
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/chrome-request-blocking-fallback-review-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 4300
+        }
+      ]
+    },
+    {
+      "slug": "html-lang-page-and-text-parts",
+      "alt": "An English document marked en-US contains a Spanish phrase marked es, keeping passage language separate from the page default.",
+      "source": "/blog/covers/html-lang-page-and-text-parts.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/html-lang-page-and-text-parts.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 25526
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/html-lang-page-and-text-parts-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 10922
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/html-lang-page-and-text-parts-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 4038
+        }
+      ]
+    },
+    {
+      "slug": "css-small-caps-font-variant",
+      "alt": "A typography review compares a font-feature small-cap request with uppercase transformation, emphasizing verification of the actual font glyphs.",
+      "source": "/blog/covers/css-small-caps-font-variant.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/css-small-caps-font-variant.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 21052
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/css-small-caps-font-variant-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 9338
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/css-small-caps-font-variant-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 3682
+        }
+      ]
+    },
+    {
+      "slug": "css-counters-heading-numbering",
+      "alt": "An article scope numbers three section headings in order, with a separate reminder that stable references need meaningful content identifiers.",
+      "source": "/blog/covers/css-counters-heading-numbering.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/css-counters-heading-numbering.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 16778
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/css-counters-heading-numbering-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 7270
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/css-counters-heading-numbering-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 2980
+        }
+      ]
+    },
+    {
+      "slug": "reproducible-design-bug-report",
+      "alt": "A concise design bug report lists the trigger, viewport, observed clipping and expected complete action label as separate evidence fields.",
+      "source": "/blog/covers/reproducible-design-bug-report.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/reproducible-design-bug-report.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 31554
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/reproducible-design-bug-report-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 13254
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/reproducible-design-bug-report-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 5046
+        }
+      ]
+    }
+  ]
+}
