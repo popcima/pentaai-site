@@ -1,0 +1,566 @@
+{
+  "version": 1,
+  "description": "Original explanatory illustrations matching Penta AI homepage feature panels. Values are examples; not product screenshots.",
+  "assets": [
+    {
+      "slug": "html-form-owner-external-controls",
+      "alt": "A form named profile contains the display name, while a separate team field and Save button explicitly point to the same form owner.",
+      "source": "/blog/covers/html-form-owner-external-controls.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/html-form-owner-external-controls.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 16240
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/html-form-owner-external-controls-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 7312
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/html-form-owner-external-controls-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 2910
+        }
+      ]
+    },
+    {
+      "slug": "html-checkbox-formdata-missing-values",
+      "alt": "A checked SVG option contributes format equals svg to a payload, while an unchecked PNG option contributes no entry.",
+      "source": "/blog/covers/html-checkbox-formdata-missing-values.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/html-checkbox-formdata-missing-values.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 16218
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/html-checkbox-formdata-missing-values-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 7302
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/html-checkbox-formdata-missing-values-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 3018
+        }
+      ]
+    },
+    {
+      "slug": "html-form-reset-default-values",
+      "alt": "An edited title returns to the nonempty default Untitled review after reset, showing that reset does not necessarily clear the field.",
+      "source": "/blog/covers/html-form-reset-default-values.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/html-form-reset-default-values.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 17190
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/html-form-reset-default-values-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 7836
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/html-form-reset-default-values-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 3140
+        }
+      ]
+    },
+    {
+      "slug": "html-checkbox-indeterminate-select-all",
+      "alt": "Three checkbox summary states show none selected, some selected with a dash, and all selected with a check mark.",
+      "source": "/blog/covers/html-checkbox-indeterminate-select-all.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/html-checkbox-indeterminate-select-all.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 18096
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/html-checkbox-indeterminate-select-all-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 8308
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/html-checkbox-indeterminate-select-all-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 3380
+        }
+      ]
+    },
+    {
+      "slug": "html-datalist-suggestions-vs-select",
+      "alt": "A text field accepts Motion even though its suggested tags are Typography, Color and Layout, illustrating that suggestions are not a restricted set.",
+      "source": "/blog/covers/html-datalist-suggestions-vs-select.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/html-datalist-suggestions-vs-select.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 19306
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/html-datalist-suggestions-vs-select-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 8748
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/html-datalist-suggestions-vs-select-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 3404
+        }
+      ]
+    },
+    {
+      "slug": "html-email-multiple-validation",
+      "alt": "A comma-separated list of example email addresses passes through separate syntax and mailbox checks; accepting syntax does not establish delivery.",
+      "source": "/blog/covers/html-email-multiple-validation.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/html-email-multiple-validation.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 22004
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/html-email-multiple-validation-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 9590
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/html-email-multiple-validation-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 3654
+        }
+      ]
+    },
+    {
+      "slug": "css-flex-basis-vs-width",
+      "alt": "A flex sizing diagram starts from a 12rem basis and then applies growth, shrinkage and minimum constraints before reaching a final size.",
+      "source": "/blog/covers/css-flex-basis-vs-width.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/css-flex-basis-vs-width.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 19384
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/css-flex-basis-vs-width-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 8586
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/css-flex-basis-vs-width-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 3366
+        }
+      ]
+    },
+    {
+      "slug": "css-align-items-vs-align-content-flex",
+      "alt": "Two flex lines sit in a tall container; blue shorter items align within their line while green outlines show the two line regions being distributed.",
+      "source": "/blog/covers/css-align-items-vs-align-content-flex.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/css-align-items-vs-align-content-flex.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 11508
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/css-align-items-vs-align-content-flex-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 5410
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/css-align-items-vs-align-content-flex-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 2410
+        }
+      ]
+    },
+    {
+      "slug": "css-box-decoration-break-wrapped-labels",
+      "alt": "A two-line highlighted phrase has separate rounded backgrounds and padding on each line, illustrating cloned inline decorations.",
+      "source": "/blog/covers/css-box-decoration-break-wrapped-labels.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/css-box-decoration-break-wrapped-labels.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 21696
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/css-box-decoration-break-wrapped-labels-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 9212
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/css-box-decoration-break-wrapped-labels-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 3772
+        }
+      ]
+    },
+    {
+      "slug": "css-outline-vs-border-layout",
+      "alt": "An outline surrounds a button outside its border while a nearby button remains in place, showing a painted ring that does not reserve layout space.",
+      "source": "/blog/covers/css-outline-vs-border-layout.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/css-outline-vs-border-layout.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 20040
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/css-outline-vs-border-layout-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 9234
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/css-outline-vs-border-layout-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 3550
+        }
+      ]
+    },
+    {
+      "slug": "css-table-layout-fixed-columns",
+      "alt": "A two-column asset table uses a 35 percent name column and a remaining notes column, with a long name wrapping inside stable boundaries.",
+      "source": "/blog/covers/css-table-layout-fixed-columns.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/css-table-layout-fixed-columns.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 20864
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/css-table-layout-fixed-columns-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 9298
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/css-table-layout-fixed-columns-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 3484
+        }
+      ]
+    },
+    {
+      "slug": "css-nth-child-vs-nth-of-type",
+      "alt": "A sibling list contains a heading, first article, note and second article; labels identify the first article as child two and the second as article two.",
+      "source": "/blog/covers/css-nth-child-vs-nth-of-type.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/css-nth-child-vs-nth-of-type.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 23202
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/css-nth-child-vs-nth-of-type-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 10392
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/css-nth-child-vs-nth-of-type-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 4188
+        }
+      ]
+    },
+    {
+      "slug": "css-flow-root-float-containment",
+      "alt": "A section boundary encloses a floated image and a short paragraph, demonstrating float containment without clipping the content.",
+      "source": "/blog/covers/css-flow-root-float-containment.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/css-flow-root-float-containment.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 14396
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/css-flow-root-float-containment-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 6480
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/css-flow-root-float-containment-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 2508
+        }
+      ]
+    },
+    {
+      "slug": "html-ordered-list-start-reversed",
+      "alt": "One ordered list continues at four, five and six; a second counts down three, two and one while preserving the written item order.",
+      "source": "/blog/covers/html-ordered-list-start-reversed.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/html-ordered-list-start-reversed.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 22710
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/html-ordered-list-start-reversed-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 10118
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/html-ordered-list-start-reversed-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 3736
+        }
+      ]
+    },
+    {
+      "slug": "html-sup-sub-typographic-meaning",
+      "alt": "A square-meter expression uses a raised two while a water formula uses a lowered two, separating meaningful notation from decorative placement.",
+      "source": "/blog/covers/html-sup-sub-typographic-meaning.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/html-sup-sub-typographic-meaning.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 16036
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/html-sup-sub-typographic-meaning-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 7524
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/html-sup-sub-typographic-meaning-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 3140
+        }
+      ]
+    },
+    {
+      "slug": "css-background-attachment-local-scroll",
+      "alt": "A scrollable box separates its outer boundary from its content, with local attached to the moving content and scroll attached to the box.",
+      "source": "/blog/covers/css-background-attachment-local-scroll.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/css-background-attachment-local-scroll.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 18284
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/css-background-attachment-local-scroll-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 8322
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/css-background-attachment-local-scroll-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 3222
+        }
+      ]
+    },
+    {
+      "slug": "css-font-optical-sizing-comparison",
+      "alt": "A typography review matrix compares auto and none at reading and display sizes, with a reminder to verify optical-axis support in the loaded font.",
+      "source": "/blog/covers/css-font-optical-sizing-comparison.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/css-font-optical-sizing-comparison.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 20806
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/css-font-optical-sizing-comparison-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 9480
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/css-font-optical-sizing-comparison-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 3816
+        }
+      ]
+    },
+    {
+      "slug": "css-font-ligatures-debug",
+      "alt": "A font feature comparison keeps the source phrase office file identical in both samples, distinguishing glyph behavior from underlying characters.",
+      "source": "/blog/covers/css-font-ligatures-debug.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/css-font-ligatures-debug.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 20080
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/css-font-ligatures-debug-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 8938
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/css-font-ligatures-debug-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 3456
+        }
+      ]
+    },
+    {
+      "slug": "css-text-indent-paragraphs",
+      "alt": "A paragraph’s first line starts inward while subsequent lines return to the normal edge, distinguishing text indentation from padding every line.",
+      "source": "/blog/covers/css-text-indent-paragraphs.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/css-text-indent-paragraphs.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 13884
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/css-text-indent-paragraphs-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 6314
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/css-text-indent-paragraphs-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 2518
+        }
+      ]
+    },
+    {
+      "slug": "css-multicol-reading-flow",
+      "alt": "Two text columns are numbered in reading order: down the first column, then down the second, rather than across matching rows.",
+      "source": "/blog/covers/css-multicol-reading-flow.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/css-multicol-reading-flow.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 13396
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/css-multicol-reading-flow-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 6298
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/css-multicol-reading-flow-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 2712
+        }
+      ]
+    }
+  ]
+}

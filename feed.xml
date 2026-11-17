@@ -5,7 +5,7 @@
     <link>https://pentaai.site/blog/</link>
     <description>Practical guides to website fonts, colors, CSS and design systems.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 16 Nov 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 00:00:00 +0000</lastBuildDate>
     <item>
       <title>How to Extract a Design System from an Existing Website</title>
       <link>https://pentaai.site/blog/extract-design-system-from-website/</link>
@@ -1333,6 +1333,166 @@
       <category>Workflow</category>
       <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://pentaai.site/blog/reproducible-design-bug-report/</guid>
+    </item>
+    <item>
+      <title>Connect Controls Outside a Form with the form Attribute</title>
+      <link>https://pentaai.site/blog/html-form-owner-external-controls/</link>
+      <description>Associate detached inputs and submit buttons with the correct HTML form. Check ownership, field names and submission before rearranging a form layout.</description>
+      <category>Accessibility</category>
+      <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/html-form-owner-external-controls/</guid>
+    </item>
+    <item>
+      <title>Why Unchecked Checkboxes Are Missing from FormData</title>
+      <link>https://pentaai.site/blog/html-checkbox-formdata-missing-values/</link>
+      <description>Inspect checkbox submissions without losing repeated values. Understand unchecked fields, explicit values and the data contract your server must enforce.</description>
+      <category>Workflow</category>
+      <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/html-checkbox-formdata-missing-values/</guid>
+    </item>
+    <item>
+      <title>Reset a Form to Its Defaults, Not Necessarily to Empty</title>
+      <link>https://pentaai.site/blog/html-form-reset-default-values/</link>
+      <description>Debug form reset behavior by comparing current and default values. Keep error messages and application state consistent when restoring a form’s defaults.</description>
+      <category>Workflow</category>
+      <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/html-form-reset-default-values/</guid>
+    </item>
+    <item>
+      <title>Show Partial Selection with an Indeterminate Checkbox</title>
+      <link>https://pentaai.site/blog/html-checkbox-indeterminate-select-all/</link>
+      <description>Build a native select-all checkbox that reflects none, some or all choices. Derive the mixed state from the items and keep submission behavior separate.</description>
+      <category>Accessibility</category>
+      <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/html-checkbox-indeterminate-select-all/</guid>
+    </item>
+    <item>
+      <title>Use datalist for Suggestions, Not a Restricted Choice List</title>
+      <link>https://pentaai.site/blog/html-datalist-suggestions-vs-select/</link>
+      <description>Choose between datalist and select by whether custom input is allowed. Connect native suggestions to a labeled field and review accessibility fallbacks.</description>
+      <category>Accessibility</category>
+      <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/html-datalist-suggestions-vs-select/</guid>
+    </item>
+    <item>
+      <title>Validate Multiple Email Entries Without Claiming Delivery</title>
+      <link>https://pentaai.site/blog/html-email-multiple-validation/</link>
+      <description>Use native email fields for one address or a comma-separated list. Distinguish syntax validation from mailbox verification and explain the expected format.</description>
+      <category>Accessibility</category>
+      <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/html-email-multiple-validation/</guid>
+    </item>
+    <item>
+      <title>Why a Flex Item Ignores Its Declared Width</title>
+      <link>https://pentaai.site/blog/css-flex-basis-vs-width/</link>
+      <description>Trace a flex item’s starting size through flex-basis, width, growth and shrinkage. Use a controlled layout to distinguish a basis from the final width.</description>
+      <category>CSS</category>
+      <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/css-flex-basis-vs-width/</guid>
+    </item>
+    <item>
+      <title>Align Flex Items Within Lines and Lines Within a Container</title>
+      <link>https://pentaai.site/blog/css-align-items-vs-align-content-flex/</link>
+      <description>Distinguish align-items from align-content in a wrapped flex layout. Create spare cross-axis space and inspect line boundaries before changing alignment.</description>
+      <category>CSS</category>
+      <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/css-align-items-vs-align-content-flex/</guid>
+    </item>
+    <item>
+      <title>Keep Padding and Backgrounds on Wrapped Inline Labels</title>
+      <link>https://pentaai.site/blog/css-box-decoration-break-wrapped-labels/</link>
+      <description>Compare slice and clone for a highlighted phrase that wraps across lines. Review box-decoration-break fallbacks, line spacing and real text selection.</description>
+      <category>CSS</category>
+      <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/css-box-decoration-break-wrapped-labels/</guid>
+    </item>
+    <item>
+      <title>Use an Outline Without Changing the Element’s Layout Size</title>
+      <link>https://pentaai.site/blog/css-outline-vs-border-layout/</link>
+      <description>Compare outlines and borders when a focus or selection treatment shifts nearby content. Inspect clipping and contrast without hiding the focus indicator.</description>
+      <category>CSS</category>
+      <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/css-outline-vs-border-layout/</guid>
+    </item>
+    <item>
+      <title>Stabilize Table Columns with table-layout: fixed</title>
+      <link>https://pentaai.site/blog/css-table-layout-fixed-columns/</link>
+      <description>Use fixed table layout with an explicit table width and intentional column sizes. Test long cell content without hiding values or losing table semantics.</description>
+      <category>CSS</category>
+      <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/css-table-layout-fixed-columns/</guid>
+    </item>
+    <item>
+      <title>Count the Right Siblings with nth-child and nth-of-type</title>
+      <link>https://pentaai.site/blog/css-nth-child-vs-nth-of-type/</link>
+      <description>Debug structural selectors in mixed HTML. Compare sibling position, element type and filtered nth-child queries before using positional component styles.</description>
+      <category>CSS</category>
+      <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/css-nth-child-vs-nth-of-type/</guid>
+    </item>
+    <item>
+      <title>Contain a Floated Image with display: flow-root</title>
+      <link>https://pentaai.site/blog/css-flow-root-float-containment/</link>
+      <description>Keep a floated illustration inside its section without using overflow as a layout fix. Compare float containment, clipping and deliberate text wrapping.</description>
+      <category>CSS</category>
+      <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/css-flow-root-float-containment/</guid>
+    </item>
+    <item>
+      <title>Continue or Reverse an Ordered List with Native HTML</title>
+      <link>https://pentaai.site/blog/html-ordered-list-start-reversed/</link>
+      <description>Set ordered-list numbering with start, reversed and item values. Keep the document’s reading order meaningful instead of using CSS to fake a sequence.</description>
+      <category>Accessibility</category>
+      <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/html-ordered-list-start-reversed/</guid>
+    </item>
+    <item>
+      <title>Use Superscripts and Subscripts for Meaningful Notation</title>
+      <link>https://pentaai.site/blog/html-sup-sub-typographic-meaning/</link>
+      <description>Mark up exponents and chemical subscripts with HTML while keeping line spacing readable. Avoid using semantic notation elements for decorative badges.</description>
+      <category>Typography</category>
+      <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/html-sup-sub-typographic-meaning/</guid>
+    </item>
+    <item>
+      <title>Choose Whether a Background Follows the Box or Its Content</title>
+      <link>https://pentaai.site/blog/css-background-attachment-local-scroll/</link>
+      <description>Compare local, scroll and fixed background attachment inside a scrolling panel. Test panel and page movement separately before copying a visual effect.</description>
+      <category>CSS</category>
+      <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/css-background-attachment-local-scroll/</guid>
+    </item>
+    <item>
+      <title>Compare Optical Sizing with the Actual Font File</title>
+      <link>https://pentaai.site/blog/css-font-optical-sizing-comparison/</link>
+      <description>Review font-optical-sizing at reading and display sizes. Verify the font’s opsz support and isolate axis overrides before attributing a mismatch to CSS.</description>
+      <category>Typography</category>
+      <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/css-font-optical-sizing-comparison/</guid>
+    </item>
+    <item>
+      <title>Inspect Ligatures Without Changing the Underlying Text</title>
+      <link>https://pentaai.site/blog/css-font-ligatures-debug/</link>
+      <description>Diagnose joined glyphs with font-variant-ligatures and a controlled specimen. Keep characters intact while checking font features, fallback and readability.</description>
+      <category>Typography</category>
+      <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/css-font-ligatures-debug/</guid>
+    </item>
+    <item>
+      <title>Indent a Paragraph’s First Line Without Padding Every Line</title>
+      <link>https://pentaai.site/blog/css-text-indent-paragraphs/</link>
+      <description>Use text-indent for a first-line paragraph treatment. Compare it with padding, inspect inheritance and test narrow widths before applying an editorial style.</description>
+      <category>Typography</category>
+      <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/css-text-indent-paragraphs/</guid>
+    </item>
+    <item>
+      <title>Use CSS Columns for Flowing Text, Not Card Row Layout</title>
+      <link>https://pentaai.site/blog/css-multicol-reading-flow/</link>
+      <description>Create readable multi-column text with a preferred column width and gap. Inspect the reading path, fragmentation and narrow-screen fallback before shipping.</description>
+      <category>CSS</category>
+      <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/css-multicol-reading-flow/</guid>
     </item>
   </channel>
 </rss>
