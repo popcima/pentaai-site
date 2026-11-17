@@ -245,5 +245,33 @@
       "https://pentaai.site/blog/css-counters-heading-numbering/",
       "https://pentaai.site/blog/reproducible-design-bug-report/"
     ]
+  },
+  {
+    "date": "2026-11-17",
+    "count": 20,
+    "commit": "873371cfbb1c6838e7502369fd4666b4bb2a5f41",
+    "deployment": "GitHub Pages built; all 83 checked public URLs returned HTTP 200 and matched the build: twenty articles, sixty WebP cover variants, blog index, sitemap and RSS. Live desktop/mobile checks passed. Live library has 186 guides; sitemap has 190 URLs.",
+    "urls": [
+      "https://pentaai.site/blog/html-form-owner-external-controls/",
+      "https://pentaai.site/blog/html-checkbox-formdata-missing-values/",
+      "https://pentaai.site/blog/html-form-reset-default-values/",
+      "https://pentaai.site/blog/html-checkbox-indeterminate-select-all/",
+      "https://pentaai.site/blog/html-datalist-suggestions-vs-select/",
+      "https://pentaai.site/blog/html-email-multiple-validation/",
+      "https://pentaai.site/blog/css-flex-basis-vs-width/",
+      "https://pentaai.site/blog/css-align-items-vs-align-content-flex/",
+      "https://pentaai.site/blog/css-box-decoration-break-wrapped-labels/",
+      "https://pentaai.site/blog/css-outline-vs-border-layout/",
+      "https://pentaai.site/blog/css-table-layout-fixed-columns/",
+      "https://pentaai.site/blog/css-nth-child-vs-nth-of-type/",
+      "https://pentaai.site/blog/css-flow-root-float-containment/",
+      "https://pentaai.site/blog/html-ordered-list-start-reversed/",
+      "https://pentaai.site/blog/html-sup-sub-typographic-meaning/",
+      "https://pentaai.site/blog/css-background-attachment-local-scroll/",
+      "https://pentaai.site/blog/css-font-optical-sizing-comparison/",
+      "https://pentaai.site/blog/css-font-ligatures-debug/",
+      "https://pentaai.site/blog/css-text-indent-paragraphs/",
+      "https://pentaai.site/blog/css-multicol-reading-flow/"
+    ]
   }
 ]
