@@ -273,5 +273,33 @@
       "https://pentaai.site/blog/css-text-indent-paragraphs/",
       "https://pentaai.site/blog/css-multicol-reading-flow/"
     ]
+  },
+  {
+    "date": "2026-11-18",
+    "count": 20,
+    "commit": "3d87f464b58396fa804b762908f395b5864063f5",
+    "deployment": "GitHub Pages built; all 83 checked public URLs returned HTTP 200 and matched the build: twenty articles, sixty WebP cover variants, blog index, sitemap and RSS. Live desktop/mobile checks passed. Live library has 206 guides; sitemap has 210 URLs.",
+    "urls": [
+      "https://pentaai.site/blog/css-scope-component-boundaries/",
+      "https://pentaai.site/blog/css-native-nesting-ampersand/",
+      "https://pentaai.site/blog/html-requestsubmit-vs-submit/",
+      "https://pentaai.site/blog/html-submit-event-submitter/",
+      "https://pentaai.site/blog/html-number-step-mismatch/",
+      "https://pentaai.site/blog/html-pattern-whole-value/",
+      "https://pentaai.site/blog/html-password-autocomplete-purpose/",
+      "https://pentaai.site/blog/html-required-radio-checkbox-groups/",
+      "https://pentaai.site/blog/inspect-image-current-src-natural-size/",
+      "https://pentaai.site/blog/css-background-size-cover-contain/",
+      "https://pentaai.site/blog/css-vertical-writing-mode-labels/",
+      "https://pentaai.site/blog/css-text-transform-language/",
+      "https://pentaai.site/blog/css-color-scheme-native-controls/",
+      "https://pentaai.site/blog/audit-pointer-target-size/",
+      "https://pentaai.site/blog/html-tabindex-zero-negative/",
+      "https://pentaai.site/blog/html-focus-preventscroll/",
+      "https://pentaai.site/blog/element-scrollintoview-alignment/",
+      "https://pentaai.site/blog/resizeobserver-component-dimensions/",
+      "https://pentaai.site/blog/svg-transform-box-reference/",
+      "https://pentaai.site/blog/css-border-image-gradient-fallback/"
+    ]
   }
 ]
