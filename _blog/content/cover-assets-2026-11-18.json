@@ -1,0 +1,566 @@
+{
+  "version": 1,
+  "description": "Original explanatory illustrations matching Penta AI homepage feature panels. Values are examples; not product screenshots.",
+  "assets": [
+    {
+      "slug": "css-scope-component-boundaries",
+      "alt": "A review card scope contains a title and action, with an embedded preview marked as an excluded subtree; inheritance is shown as a separate consideration.",
+      "source": "/blog/covers/css-scope-component-boundaries.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/css-scope-component-boundaries.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 19822
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/css-scope-component-boundaries-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 8778
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/css-scope-component-boundaries-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 3514
+        }
+      ]
+    },
+    {
+      "slug": "css-native-nesting-ampersand",
+      "alt": "Two nested CSS relationships contrast a selected state on the same card with a title descendant inside the card.",
+      "source": "/blog/covers/css-native-nesting-ampersand.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/css-native-nesting-ampersand.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 18590
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/css-native-nesting-ampersand-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 8296
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/css-native-nesting-ampersand-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 3202
+        }
+      ]
+    },
+    {
+      "slug": "html-requestsubmit-vs-submit",
+      "alt": "A requestSubmit flow goes through validation and the submit event before transport; a direct submit path is distinguished as bypassing those steps.",
+      "source": "/blog/covers/html-requestsubmit-vs-submit.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/html-requestsubmit-vs-submit.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 20746
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/html-requestsubmit-vs-submit-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 9154
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/html-requestsubmit-vs-submit-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 3272
+        }
+      ]
+    },
+    {
+      "slug": "html-submit-event-submitter",
+      "alt": "Save and Preview submit buttons carry separate intent values, and an event inspector records which button initiated the form submission.",
+      "source": "/blog/covers/html-submit-event-submitter.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/html-submit-event-submitter.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 21426
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/html-submit-event-submitter-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 9380
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/html-submit-event-submitter-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 3350
+        }
+      ]
+    },
+    {
+      "slug": "html-number-step-mismatch",
+      "alt": "A number input allows half-unit increments from 0.5 to 4.5; the example 0.75 falls between valid steps despite being within the range.",
+      "source": "/blog/covers/html-number-step-mismatch.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/html-number-step-mismatch.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 19956
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/html-number-step-mismatch-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 9272
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/html-number-step-mismatch-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 3736
+        }
+      ]
+    },
+    {
+      "slug": "html-pattern-whole-value",
+      "alt": "The code AB0123 matches two uppercase letters and four digits; xAB0123y is rejected because the pattern checks the whole value.",
+      "source": "/blog/covers/html-pattern-whole-value.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/html-pattern-whole-value.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 19024
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/html-pattern-whole-value-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 8636
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/html-pattern-whole-value-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 3264
+        }
+      ]
+    },
+    {
+      "slug": "html-password-autocomplete-purpose",
+      "alt": "Current password, new password and confirmation fields are mapped to current-password, new-password and new-password autocomplete purposes.",
+      "source": "/blog/covers/html-password-autocomplete-purpose.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/html-password-autocomplete-purpose.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 26012
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/html-password-autocomplete-purpose-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 10996
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/html-password-autocomplete-purpose-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 4334
+        }
+      ]
+    },
+    {
+      "slug": "html-required-radio-checkbox-groups",
+      "alt": "A radio group requires one selection, while required on individual checkboxes applies separately to each checkbox; an at-least-one checkbox rule needs its own validation.",
+      "source": "/blog/covers/html-required-radio-checkbox-groups.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/html-required-radio-checkbox-groups.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 25254
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/html-required-radio-checkbox-groups-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 11386
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/html-required-radio-checkbox-groups-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 4494
+        }
+      ]
+    },
+    {
+      "slug": "inspect-image-current-src-natural-size",
+      "alt": "An image inspection card records the selected URL, intrinsic density-corrected size and rendered CSS box as three separate measurements.",
+      "source": "/blog/covers/inspect-image-current-src-natural-size.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/inspect-image-current-src-natural-size.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 26562
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/inspect-image-current-src-natural-size-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 11646
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/inspect-image-current-src-natural-size-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 4720
+        }
+      ]
+    },
+    {
+      "slug": "css-background-size-cover-contain",
+      "alt": "A decorative background comparison shows cover filling a box with a cropped subject and contain leaving intentional space around the complete subject.",
+      "source": "/blog/covers/css-background-size-cover-contain.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/css-background-size-cover-contain.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 16086
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/css-background-size-cover-contain-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 7558
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/css-background-size-cover-contain-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 3050
+        }
+      ]
+    },
+    {
+      "slug": "css-vertical-writing-mode-labels",
+      "alt": "A vertical text-flow diagram separates the inline direction from the progression of successive lines, reminding the reviewer that writing mode changes logical dimensions.",
+      "source": "/blog/covers/css-vertical-writing-mode-labels.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/css-vertical-writing-mode-labels.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 22774
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/css-vertical-writing-mode-labels-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 10374
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/css-vertical-writing-mode-labels-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 4074
+        }
+      ]
+    },
+    {
+      "slug": "css-text-transform-language",
+      "alt": "The source text Design review is styled as DESIGN REVIEW, with separate checks for language, copying and accessible naming.",
+      "source": "/blog/covers/css-text-transform-language.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/css-text-transform-language.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 20626
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/css-text-transform-language-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 9114
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/css-text-transform-language-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 3622
+        }
+      ]
+    },
+    {
+      "slug": "css-color-scheme-native-controls",
+      "alt": "Light and dark panels each pair a custom surface with a native field, showing that supported color scheme and authored theme colors should agree.",
+      "source": "/blog/covers/css-color-scheme-native-controls.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/css-color-scheme-native-controls.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 18988
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/css-color-scheme-native-controls-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 8534
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/css-color-scheme-native-controls-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 3288
+        }
+      ]
+    },
+    {
+      "slug": "audit-pointer-target-size",
+      "alt": "A small arrow icon sits within a larger button hit area, with dimension markers referring to the target boundary rather than the visible icon.",
+      "source": "/blog/covers/audit-pointer-target-size.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/audit-pointer-target-size.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 19448
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/audit-pointer-target-size-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 8740
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/audit-pointer-target-size-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 3314
+        }
+      ]
+    },
+    {
+      "slug": "html-tabindex-zero-negative",
+      "alt": "Two focus paths distinguish a tabindex zero element in sequential Tab order from a tabindex minus one destination reached through an explicit focus action.",
+      "source": "/blog/covers/html-tabindex-zero-negative.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/html-tabindex-zero-negative.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 22526
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/html-tabindex-zero-negative-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 10070
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/html-tabindex-zero-negative-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 3792
+        }
+      ]
+    },
+    {
+      "slug": "html-focus-preventscroll",
+      "alt": "A visible summary receives focus inside an unchanged viewport, illustrating preventScroll with a reminder to keep the focused target visible.",
+      "source": "/blog/covers/html-focus-preventscroll.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/html-focus-preventscroll.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 17876
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/html-focus-preventscroll-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 8308
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/html-focus-preventscroll-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 3376
+        }
+      ]
+    },
+    {
+      "slug": "element-scrollintoview-alignment",
+      "alt": "A scroll panel shows a selected row near its lower boundary and an arrow indicating the minimal movement used to reveal the row.",
+      "source": "/blog/covers/element-scrollintoview-alignment.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/element-scrollintoview-alignment.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 17396
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/element-scrollintoview-alignment-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 7448
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/element-scrollintoview-alignment-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 3146
+        }
+      ]
+    },
+    {
+      "slug": "resizeobserver-component-dimensions",
+      "alt": "A sidebar changes a preview panel’s available width while the outer viewport stays fixed, illustrating why component observation differs from window resize handling.",
+      "source": "/blog/covers/resizeobserver-component-dimensions.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/resizeobserver-component-dimensions.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 16452
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/resizeobserver-component-dimensions-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 7338
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/resizeobserver-component-dimensions-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 2788
+        }
+      ]
+    },
+    {
+      "slug": "svg-transform-box-reference",
+      "alt": "A small SVG rectangle sits away from the viewBox center, with separate markers for the artwork center and the coordinate region center.",
+      "source": "/blog/covers/svg-transform-box-reference.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/svg-transform-box-reference.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 14872
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/svg-transform-box-reference-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 6796
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/svg-transform-box-reference-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 2542
+        }
+      ]
+    },
+    {
+      "slug": "css-border-image-gradient-fallback",
+      "alt": "A panel with a blue-to-green decorative border is paired with a plain solid-border fallback, showing that the component remains visible without the image source.",
+      "source": "/blog/covers/css-border-image-gradient-fallback.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/css-border-image-gradient-fallback.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 19898
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/css-border-image-gradient-fallback-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 9074
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/css-border-image-gradient-fallback-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 3554
+        }
+      ]
+    }
+  ]
+}

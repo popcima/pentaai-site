@@ -5,7 +5,7 @@
     <link>https://pentaai.site/blog/</link>
     <description>Practical guides to website fonts, colors, CSS and design systems.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 17 Nov 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 00:00:00 +0000</lastBuildDate>
     <item>
       <title>How to Extract a Design System from an Existing Website</title>
       <link>https://pentaai.site/blog/extract-design-system-from-website/</link>
@@ -1493,6 +1493,166 @@
       <category>CSS</category>
       <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://pentaai.site/blog/css-multicol-reading-flow/</guid>
+    </item>
+    <item>
+      <title>Set Component Styling Boundaries with CSS @scope</title>
+      <link>https://pentaai.site/blog/css-scope-component-boundaries/</link>
+      <description>Use CSS scope roots and limits to target a component subtree. Inspect inherited values, fallback styles and competing rules before relying on isolation.</description>
+      <category>CSS</category>
+      <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/css-scope-component-boundaries/</guid>
+    </item>
+    <item>
+      <title>Read Native CSS Nesting Without Miscounting Specificity</title>
+      <link>https://pentaai.site/blog/css-native-nesting-ampersand/</link>
+      <description>Use the nesting selector to distinguish component states from descendants. Check selector-list specificity and browser-parsed CSS when refactoring styles.</description>
+      <category>CSS</category>
+      <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/css-native-nesting-ampersand/</guid>
+    </item>
+    <item>
+      <title>Submit a Form from JavaScript Without Skipping Validation</title>
+      <link>https://pentaai.site/blog/html-requestsubmit-vs-submit/</link>
+      <description>Compare requestSubmit with submit when JavaScript starts a form action. Preserve native validation, submit events and the intended submit button’s behavior.</description>
+      <category>Workflow</category>
+      <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/html-requestsubmit-vs-submit/</guid>
+    </item>
+    <item>
+      <title>Identify Which Button Submitted a Multi-Action Form</title>
+      <link>https://pentaai.site/blog/html-submit-event-submitter/</link>
+      <description>Use SubmitEvent.submitter for forms with multiple actions. Preserve button name and value data, handle missing submitters and test Enter-key submission.</description>
+      <category>Workflow</category>
+      <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/html-submit-event-submitter/</guid>
+    </item>
+    <item>
+      <title>Fix a Number Field That Rejects an In-Range Decimal</title>
+      <link>https://pentaai.site/blog/html-number-step-mismatch/</link>
+      <description>Debug stepMismatch separately from minimum and maximum errors. Choose a numeric step and base that match the permitted increments, then explain them clearly.</description>
+      <category>Accessibility</category>
+      <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/html-number-step-mismatch/</guid>
+    </item>
+    <item>
+      <title>Write HTML Patterns That Match the Whole Field Value</title>
+      <link>https://pentaai.site/blog/html-pattern-whole-value/</link>
+      <description>Use pattern for an explicit input format, with visible guidance and separate required handling. Test full-value matching, invalid patterns and server validation.</description>
+      <category>Accessibility</category>
+      <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/html-pattern-whole-value/</guid>
+    </item>
+    <item>
+      <title>Label Password Fields with the Correct Autocomplete Purpose</title>
+      <link>https://pentaai.site/blog/html-password-autocomplete-purpose/</link>
+      <description>Use current-password and new-password for their intended tasks. Keep labels, paste and password-manager behavior usable across sign-in and password changes.</description>
+      <category>Accessibility</category>
+      <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/html-password-autocomplete-purpose/</guid>
+    </item>
+    <item>
+      <title>Apply Required Rules Correctly to Radios and Checkboxes</title>
+      <link>https://pentaai.site/blog/html-required-radio-checkbox-groups/</link>
+      <description>Distinguish one required radio choice from individually required checkboxes. Test group validity and visible instructions before adding a minimum-selection rule.</description>
+      <category>Accessibility</category>
+      <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/html-required-radio-checkbox-groups/</guid>
+    </item>
+    <item>
+      <title>Inspect an Image’s Selected Source and Natural Size</title>
+      <link>https://pentaai.site/blog/inspect-image-current-src-natural-size/</link>
+      <description>Read currentSrc and naturalWidth alongside the rendered image box. Distinguish responsive source selection, loading success and density-corrected dimensions.</description>
+      <category>Workflow</category>
+      <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/inspect-image-current-src-natural-size/</guid>
+    </item>
+    <item>
+      <title>Fit a Decorative Background Without Accidental Tiling</title>
+      <link>https://pentaai.site/blog/css-background-size-cover-contain/</link>
+      <description>Compare cover and contain for CSS backgrounds, including positioning and repeat. Keep essential imagery in semantic markup and test different box shapes.</description>
+      <category>CSS</category>
+      <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/css-background-size-cover-contain/</guid>
+    </item>
+    <item>
+      <title>Lay Out Vertical Text with writing-mode and text-orientation</title>
+      <link>https://pentaai.site/blog/css-vertical-writing-mode-labels/</link>
+      <description>Use writing-mode for vertical text flow and text-orientation for glyph direction. Review logical sizing, language and reading order before rotating labels.</description>
+      <category>Typography</category>
+      <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/css-vertical-writing-mode-labels/</guid>
+    </item>
+    <item>
+      <title>Change Text Case Without Rewriting the Content</title>
+      <link>https://pentaai.site/blog/css-text-transform-language/</link>
+      <description>Inspect text-transform with language-aware casing and realistic labels. Distinguish uppercase styling from editorial title case, stored data and accessible names.</description>
+      <category>Typography</category>
+      <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/css-text-transform-language/</guid>
+    </item>
+    <item>
+      <title>Match Native Controls to a Theme with color-scheme</title>
+      <link>https://pentaai.site/blog/css-color-scheme-native-controls/</link>
+      <description>Use color-scheme to declare supported native UI appearances. Keep custom tokens, selected theme and browser-managed controls consistent across light and dark.</description>
+      <category>CSS</category>
+      <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/css-color-scheme-native-controls/</guid>
+    </item>
+    <item>
+      <title>Measure the Clickable Target, Not Just the Icon</title>
+      <link>https://pentaai.site/blog/audit-pointer-target-size/</link>
+      <description>Review pointer target dimensions and spacing using WCAG 2.2 guidance. Inspect the real hit area, neighboring controls and exceptions in the interface context.</description>
+      <category>Accessibility</category>
+      <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/audit-pointer-target-size/</guid>
+    </item>
+    <item>
+      <title>Choose tabindex Zero or Minus One for the Intended Focus Path</title>
+      <link>https://pentaai.site/blog/html-tabindex-zero-negative/</link>
+      <description>Distinguish sequential keyboard focus from programmatic focus. Use native controls first and avoid positive tabindex values that create a separate ordering system.</description>
+      <category>Accessibility</category>
+      <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/html-tabindex-zero-negative/</guid>
+    </item>
+    <item>
+      <title>Move Keyboard Focus Without an Unexpected Scroll Jump</title>
+      <link>https://pentaai.site/blog/html-focus-preventscroll/</link>
+      <description>Use focus with preventScroll when the destination is already visible. Verify activeElement, focus visibility and nested scrolling instead of suppressing movement blindly.</description>
+      <category>Accessibility</category>
+      <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/html-focus-preventscroll/</guid>
+    </item>
+    <item>
+      <title>Reveal an Element with Deliberate Scroll Alignment</title>
+      <link>https://pentaai.site/blog/element-scrollintoview-alignment/</link>
+      <description>Choose start, center or nearest alignment for scrollIntoView. Review nested scroll containers, sticky headers and motion without confusing scrolling with focus.</description>
+      <category>Workflow</category>
+      <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/element-scrollintoview-alignment/</guid>
+    </item>
+    <item>
+      <title>Observe Component Size Changes with ResizeObserver</title>
+      <link>https://pentaai.site/blog/resizeobserver-component-dimensions/</link>
+      <description>Measure a component when its own layout changes, not only when the window resizes. Choose a box, clean up observers and avoid resize feedback loops.</description>
+      <category>Workflow</category>
+      <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/resizeobserver-component-dimensions/</guid>
+    </item>
+    <item>
+      <title>Choose the Reference Box for an SVG Transform</title>
+      <link>https://pentaai.site/blog/svg-transform-box-reference/</link>
+      <description>Compare fill-box and view-box when an SVG shape rotates around the wrong center. Inspect transparent coordinate space, stroke width and transform origin together.</description>
+      <category>CSS</category>
+      <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/svg-transform-box-reference/</guid>
+    </item>
+    <item>
+      <title>Add a Gradient Border with an Explicit Fallback</title>
+      <link>https://pentaai.site/blog/css-border-image-gradient-fallback/</link>
+      <description>Use border-image with a gradient source and slice value. Keep a normal border fallback and check rounded corners, dimensions and forced-colors behavior.</description>
+      <category>CSS</category>
+      <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/css-border-image-gradient-fallback/</guid>
     </item>
   </channel>
 </rss>
