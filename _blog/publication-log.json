@@ -301,5 +301,33 @@
       "https://pentaai.site/blog/svg-transform-box-reference/",
       "https://pentaai.site/blog/css-border-image-gradient-fallback/"
     ]
+  },
+  {
+    "date": "2026-11-19",
+    "count": 20,
+    "commit": "f71d8aa804f038de97607426cb3e28bce3251c78",
+    "deployment": "GitHub Pages built; all 83 checked public URLs returned HTTP 200 and matched the build: twenty articles, sixty WebP cover variants, blog index, sitemap and RSS. Live desktop/mobile checks passed. Live library has 226 guides; sitemap has 230 URLs.",
+    "urls": [
+      "https://pentaai.site/blog/css-layer-vendor-overrides/",
+      "https://pentaai.site/blog/css-grid-implicit-row-sizing/",
+      "https://pentaai.site/blog/chrome-cache-stale-css-diagnosis/",
+      "https://pentaai.site/blog/chrome-network-request-initiator/",
+      "https://pentaai.site/blog/chrome-dom-breakpoint-class-change/",
+      "https://pentaai.site/blog/chrome-search-loaded-css-tokens/",
+      "https://pentaai.site/blog/css-negative-animation-delay/",
+      "https://pentaai.site/blog/css-steps-timing-discrete-motion/",
+      "https://pentaai.site/blog/svg-non-scaling-stroke/",
+      "https://pentaai.site/blog/svg-preserve-aspect-ratio-meet-slice/",
+      "https://pentaai.site/blog/aria-disabled-discoverable-actions/",
+      "https://pentaai.site/blog/aria-sort-table-header-state/",
+      "https://pentaai.site/blog/accessible-breadcrumb-trail/",
+      "https://pentaai.site/blog/css-overflow-anchor-scroll-stability/",
+      "https://pentaai.site/blog/css-image-rendering-pixel-art/",
+      "https://pentaai.site/blog/css-single-line-ellipsis/",
+      "https://pentaai.site/blog/css-background-position-percent-math/",
+      "https://pentaai.site/blog/css-font-display-loading-policy/",
+      "https://pentaai.site/blog/html-description-list-metadata/",
+      "https://pentaai.site/blog/html-figure-caption-context/"
+    ]
   }
 ]
