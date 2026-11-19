@@ -1,0 +1,566 @@
+{
+  "version": 1,
+  "description": "Original explanatory illustrations matching Penta AI homepage feature panels. Values are examples; not product screenshots.",
+  "assets": [
+    {
+      "slug": "css-layer-vendor-overrides",
+      "alt": "Three author layers are ordered vendor, components and overrides; opposing arrows distinguish normal precedence from reversed important precedence.",
+      "source": "/blog/covers/css-layer-vendor-overrides.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/css-layer-vendor-overrides.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 20096
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/css-layer-vendor-overrides-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 8818
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/css-layer-vendor-overrides-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 3478
+        }
+      ]
+    },
+    {
+      "slug": "css-grid-implicit-row-sizing",
+      "alt": "A two-column grid contains one explicitly sized first row and two additional rows sized through grid-auto-rows.",
+      "source": "/blog/covers/css-grid-implicit-row-sizing.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/css-grid-implicit-row-sizing.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 16696
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/css-grid-implicit-row-sizing-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 7364
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/css-grid-implicit-row-sizing-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 3128
+        }
+      ]
+    },
+    {
+      "slug": "chrome-cache-stale-css-diagnosis",
+      "alt": "A stylesheet diagnostic compares ordinary caching, a cache-disabled load and service-worker involvement as separate checks.",
+      "source": "/blog/covers/chrome-cache-stale-css-diagnosis.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/chrome-cache-stale-css-diagnosis.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 27584
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/chrome-cache-stale-css-diagnosis-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 11884
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/chrome-cache-stale-css-diagnosis-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 4690
+        }
+      ]
+    },
+    {
+      "slug": "chrome-network-request-initiator",
+      "alt": "An illustrative dependency chain connects a page to a stylesheet and then an image, with a reminder to verify the actual request initiator.",
+      "source": "/blog/covers/chrome-network-request-initiator.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/chrome-network-request-initiator.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 21994
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/chrome-network-request-initiator-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 9664
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/chrome-network-request-initiator-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 3848
+        }
+      ]
+    },
+    {
+      "slug": "chrome-dom-breakpoint-class-change",
+      "alt": "An element changes from class closed to class open, and an attribute breakpoint pauses the script so its call stack can be inspected.",
+      "source": "/blog/covers/chrome-dom-breakpoint-class-change.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/chrome-dom-breakpoint-class-change.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 23780
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/chrome-dom-breakpoint-class-change-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 10144
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/chrome-dom-breakpoint-class-change-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 3918
+        }
+      ]
+    },
+    {
+      "slug": "chrome-search-loaded-css-tokens",
+      "alt": "A search for the surface-card custom property produces source matches, followed by a separate check of the winning definition on the inspected component.",
+      "source": "/blog/covers/chrome-search-loaded-css-tokens.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/chrome-search-loaded-css-tokens.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 23418
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/chrome-search-loaded-css-tokens-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 10526
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/chrome-search-loaded-css-tokens-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 3998
+        }
+      ]
+    },
+    {
+      "slug": "css-negative-animation-delay",
+      "alt": "A four-second animation timeline starts at a one-second elapsed offset, marking 25 percent progress without changing the four-second duration.",
+      "source": "/blog/covers/css-negative-animation-delay.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/css-negative-animation-delay.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 17644
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/css-negative-animation-delay-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 7980
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/css-negative-animation-delay-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 3270
+        }
+      ]
+    },
+    {
+      "slug": "css-steps-timing-discrete-motion",
+      "alt": "A staircase timing diagram shows four discrete jumps across a timeline instead of continuous interpolation.",
+      "source": "/blog/covers/css-steps-timing-discrete-motion.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/css-steps-timing-discrete-motion.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 15350
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/css-steps-timing-discrete-motion-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 7340
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/css-steps-timing-discrete-motion-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 2930
+        }
+      ]
+    },
+    {
+      "slug": "svg-non-scaling-stroke",
+      "alt": "Two differently sized line drawings use the same stroke width, illustrating non-scaling-stroke while their geometry grows.",
+      "source": "/blog/covers/svg-non-scaling-stroke.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/svg-non-scaling-stroke.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 21674
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/svg-non-scaling-stroke-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 9086
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/svg-non-scaling-stroke-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 3608
+        }
+      ]
+    },
+    {
+      "slug": "svg-preserve-aspect-ratio-meet-slice",
+      "alt": "Two wide SVG viewports show a complete circle with meet and a larger cropped circle with slice, preserving the circle proportions in both.",
+      "source": "/blog/covers/svg-preserve-aspect-ratio-meet-slice.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/svg-preserve-aspect-ratio-meet-slice.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 16570
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/svg-preserve-aspect-ratio-meet-slice-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 7642
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/svg-preserve-aspect-ratio-meet-slice-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 3014
+        }
+      ]
+    },
+    {
+      "slug": "aria-disabled-discoverable-actions",
+      "alt": "An unavailable Export review button retains a focus outline and a visible explanation to add a review item first.",
+      "source": "/blog/covers/aria-disabled-discoverable-actions.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/aria-disabled-discoverable-actions.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 23010
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/aria-disabled-discoverable-actions-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 10108
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/aria-disabled-discoverable-actions-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 3580
+        }
+      ]
+    },
+    {
+      "slug": "aria-sort-table-header-state",
+      "alt": "A table header reports ascending sort order, with Alpha and Zulu rows kept together with their respective owners.",
+      "source": "/blog/covers/aria-sort-table-header-state.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/aria-sort-table-header-state.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 18740
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/aria-sort-table-header-state-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 7936
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/aria-sort-table-header-state-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 3140
+        }
+      ]
+    },
+    {
+      "slug": "accessible-breadcrumb-trail",
+      "alt": "A breadcrumb shows Home, Guides and the current Color review page in hierarchical order above a page heading.",
+      "source": "/blog/covers/accessible-breadcrumb-trail.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/accessible-breadcrumb-trail.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 22662
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/accessible-breadcrumb-trail-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 9950
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/accessible-breadcrumb-trail-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 3988
+        }
+      ]
+    },
+    {
+      "slug": "css-overflow-anchor-scroll-stability",
+      "alt": "A scrolling region contains a changing banner above a reading paragraph, with anchoring and explicit scrolling identified as separate possible causes of movement.",
+      "source": "/blog/covers/css-overflow-anchor-scroll-stability.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/css-overflow-anchor-scroll-stability.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 20592
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/css-overflow-anchor-scroll-stability-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 9592
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/css-overflow-anchor-scroll-stability-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 3830
+        }
+      ]
+    },
+    {
+      "slug": "css-image-rendering-pixel-art",
+      "alt": "A simple original pixel-art shape is enlarged on an explicit square grid, distinguishing intentional pixel graphics from ordinary photographic detail.",
+      "source": "/blog/covers/css-image-rendering-pixel-art.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/css-image-rendering-pixel-art.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 19126
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/css-image-rendering-pixel-art-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 8960
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/css-image-rendering-pixel-art-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 4248
+        }
+      ]
+    },
+    {
+      "slug": "css-single-line-ellipsis",
+      "alt": "A constrained filename row shows an ellipsis next to a separate Details action, illustrating that the complete value needs a usable recovery path.",
+      "source": "/blog/covers/css-single-line-ellipsis.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/css-single-line-ellipsis.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 25108
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/css-single-line-ellipsis-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 11384
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/css-single-line-ellipsis-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 4512
+        }
+      ]
+    },
+    {
+      "slug": "css-background-position-percent-math",
+      "alt": "A 100-pixel background image sits 50 pixels from the left of a 300-pixel positioning area, illustrating a 25 percent position based on remaining space.",
+      "source": "/blog/covers/css-background-position-percent-math.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/css-background-position-percent-math.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 14420
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/css-background-position-percent-math-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 6458
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/css-background-position-percent-math-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 2594
+        }
+      ]
+    },
+    {
+      "slug": "css-font-display-loading-policy",
+      "alt": "Three font-display policies are compared by their swap periods: swap allows a later replacement, fallback limits it and optional has no swap period.",
+      "source": "/blog/covers/css-font-display-loading-policy.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/css-font-display-loading-policy.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 25012
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/css-font-display-loading-policy-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 11030
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/css-font-display-loading-policy-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 4458
+        }
+      ]
+    },
+    {
+      "slug": "html-description-list-metadata",
+      "alt": "A description list groups Format with SVG, Dimensions with 1200 by 630 and Color role with Decorative illustration.",
+      "source": "/blog/covers/html-description-list-metadata.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/html-description-list-metadata.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 21430
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/html-description-list-metadata-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 9604
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/html-description-list-metadata-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 3634
+        }
+      ]
+    },
+    {
+      "slug": "html-figure-caption-context",
+      "alt": "An illustration compares a short and wrapped card label above a visible caption explaining that the card should grow with its content.",
+      "source": "/blog/covers/html-figure-caption-context.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/html-figure-caption-context.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 22800
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/html-figure-caption-context-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 10216
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/html-figure-caption-context-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 4058
+        }
+      ]
+    }
+  ]
+}

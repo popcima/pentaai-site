@@ -5,7 +5,7 @@
     <link>https://pentaai.site/blog/</link>
     <description>Practical guides to website fonts, colors, CSS and design systems.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 18 Nov 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 00:00:00 +0000</lastBuildDate>
     <item>
       <title>How to Extract a Design System from an Existing Website</title>
       <link>https://pentaai.site/blog/extract-design-system-from-website/</link>
@@ -1653,6 +1653,166 @@
       <category>CSS</category>
       <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://pentaai.site/blog/css-border-image-gradient-fallback/</guid>
+    </item>
+    <item>
+      <title>Put Vendor CSS in a Layer Before Writing Overrides</title>
+      <link>https://pentaai.site/blog/css-layer-vendor-overrides/</link>
+      <description>Control vendor styles with explicit cascade layers. Check unlayered rules and reversed important precedence before trying to win with stronger selectors.</description>
+      <category>CSS</category>
+      <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/css-layer-vendor-overrides/</guid>
+    </item>
+    <item>
+      <title>Size the Extra Rows Created by CSS Grid</title>
+      <link>https://pentaai.site/blog/css-grid-implicit-row-sizing/</link>
+      <description>Use grid-auto-rows for tracks created beyond the explicit grid. Test added items, long content and placement rules without forcing every row to a fixed height.</description>
+      <category>CSS</category>
+      <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/css-grid-implicit-row-sizing/</guid>
+    </item>
+    <item>
+      <title>Check Whether Stale CSS Comes from the Browser Cache</title>
+      <link>https://pentaai.site/blog/chrome-cache-stale-css-diagnosis/</link>
+      <description>Compare cached and uncached loads in Chrome without clearing unrelated site data. Inspect actual response content and service-worker involvement before changing CSS.</description>
+      <category>Workflow</category>
+      <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/chrome-cache-stale-css-diagnosis/</guid>
+    </item>
+    <item>
+      <title>Trace the Request That Loaded an Unexpected Asset</title>
+      <link>https://pentaai.site/blog/chrome-network-request-initiator/</link>
+      <description>Use Chrome’s Initiator information to find why an image, font or stylesheet loaded. Separate dependency evidence from assumptions about performance or ownership.</description>
+      <category>Workflow</category>
+      <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/chrome-network-request-initiator/</guid>
+    </item>
+    <item>
+      <title>Pause the Script That Changes an Element’s Class</title>
+      <link>https://pentaai.site/blog/chrome-dom-breakpoint-class-change/</link>
+      <description>Use a DOM attribute breakpoint to catch an unexpected class or inline-style change. Reproduce the smallest interaction and inspect the call stack that caused it.</description>
+      <category>Workflow</category>
+      <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/chrome-dom-breakpoint-class-change/</guid>
+    </item>
+    <item>
+      <title>Find a Design Token Across Loaded Resources in Chrome</title>
+      <link>https://pentaai.site/blog/chrome-search-loaded-css-tokens/</link>
+      <description>Search loaded resources for a custom property or class, then verify the winning declaration. Distinguish browser evidence from a complete repository search.</description>
+      <category>Workflow</category>
+      <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/chrome-search-loaded-css-tokens/</guid>
+    </item>
+    <item>
+      <title>Start a CSS Animation Partway Through Its Timeline</title>
+      <link>https://pentaai.site/blog/css-negative-animation-delay/</link>
+      <description>Use a negative animation delay to inspect an offset phase. Distinguish elapsed progress from faster playback and check iteration, fill and reduced-motion behavior.</description>
+      <category>CSS</category>
+      <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/css-negative-animation-delay/</guid>
+    </item>
+    <item>
+      <title>Use steps() for Discrete Animation States</title>
+      <link>https://pentaai.site/blog/css-steps-timing-discrete-motion/</link>
+      <description>Compare step timing with linear interpolation and inspect jump boundaries. Keep decorative steps separate from real progress and provide a static motion alternative.</description>
+      <category>CSS</category>
+      <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/css-steps-timing-discrete-motion/</guid>
+    </item>
+    <item>
+      <title>Keep an SVG Stroke from Thickening When the Shape Scales</title>
+      <link>https://pentaai.site/blog/svg-non-scaling-stroke/</link>
+      <description>Use non-scaling-stroke for SVG line work that needs a stable stroke treatment. Compare scaled geometry, clipping and small-size legibility before applying it broadly.</description>
+      <category>CSS</category>
+      <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/svg-non-scaling-stroke/</guid>
+    </item>
+    <item>
+      <title>Fit an SVG ViewBox with meet, slice or none</title>
+      <link>https://pentaai.site/blog/svg-preserve-aspect-ratio-meet-slice/</link>
+      <description>Compare SVG aspect-ratio alignment when the viewport shape differs from the viewBox. Check empty space, cropping and distortion as separate design decisions.</description>
+      <category>CSS</category>
+      <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/svg-preserve-aspect-ratio-meet-slice/</guid>
+    </item>
+    <item>
+      <title>Keep an Unavailable Action Discoverable with aria-disabled</title>
+      <link>https://pentaai.site/blog/aria-disabled-discoverable-actions/</link>
+      <description>Use aria-disabled when an unavailable action should remain in the focus path. Guard activation explicitly and explain the reason without relying on dimming alone.</description>
+      <category>Accessibility</category>
+      <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/aria-disabled-discoverable-actions/</guid>
+    </item>
+    <item>
+      <title>Keep a Sortable Table’s Order and aria-sort in Sync</title>
+      <link>https://pentaai.site/blog/aria-sort-table-header-state/</link>
+      <description>Put sort state on the active table header and sorting behavior on a native button. Reorder complete rows and verify the announced direction matches the data.</description>
+      <category>Accessibility</category>
+      <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/aria-sort-table-header-state/</guid>
+    </item>
+    <item>
+      <title>Build a Breadcrumb Trail That Explains Page Location</title>
+      <link>https://pentaai.site/blog/accessible-breadcrumb-trail/</link>
+      <description>Use a labeled navigation region and ordered links for page ancestry. Mark the current page, keep separators decorative and let long breadcrumb labels wrap.</description>
+      <category>Accessibility</category>
+      <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/accessible-breadcrumb-trail/</guid>
+    </item>
+    <item>
+      <title>Investigate Scroll Jumps Before Disabling Anchoring</title>
+      <link>https://pentaai.site/blog/css-overflow-anchor-scroll-stability/</link>
+      <description>Use overflow-anchor as a targeted diagnostic for scroll adjustments. Separate browser anchoring from layout shifts and script-driven scrolling before choosing a fix.</description>
+      <category>CSS</category>
+      <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/css-overflow-anchor-scroll-stability/</guid>
+    </item>
+    <item>
+      <title>Scale Pixel Art Without Treating Every Image as Pixelated</title>
+      <link>https://pentaai.site/blog/css-image-rendering-pixel-art/</link>
+      <description>Use image-rendering for intentional pixel graphics and compare integer scaling. Keep photographs, logos and text screenshots on an appropriate rendering path.</description>
+      <category>CSS</category>
+      <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/css-image-rendering-pixel-art/</guid>
+    </item>
+    <item>
+      <title>Make a Single-Line Ellipsis Work Without Losing the Full Value</title>
+      <link>https://pentaai.site/blog/css-single-line-ellipsis/</link>
+      <description>Combine text-overflow with an actual width constraint and overflow policy. Check flex minimum sizes and provide a reliable way to read the complete value.</description>
+      <category>CSS</category>
+      <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/css-single-line-ellipsis/</guid>
+    </item>
+    <item>
+      <title>Calculate Background Position from the Remaining Space</title>
+      <link>https://pentaai.site/blog/css-background-position-percent-math/</link>
+      <description>Understand percentage background positioning with a worked width example. Recalculate after cover scaling and distinguish alignment from a fixed pixel offset.</description>
+      <category>CSS</category>
+      <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/css-background-position-percent-math/</guid>
+    </item>
+    <item>
+      <title>Choose a Font Display Policy from the Loading Experience</title>
+      <link>https://pentaai.site/blog/css-font-display-loading-policy/</link>
+      <description>Compare swap, fallback and optional in a controlled font-loading review. Test readable fallback text and layout changes without promising exact timing across browsers.</description>
+      <category>Typography</category>
+      <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/css-font-display-loading-policy/</guid>
+    </item>
+    <item>
+      <title>Use a Description List for Named Metadata Values</title>
+      <link>https://pentaai.site/blog/html-description-list-metadata/</link>
+      <description>Represent label-and-value metadata with dl, dt and dd before styling it as a grid. Preserve grouping, wrapping and reading order across narrow layouts.</description>
+      <category>Accessibility</category>
+      <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/html-description-list-metadata/</guid>
+    </item>
+    <item>
+      <title>Give an Illustration Context with figure and figcaption</title>
+      <link>https://pentaai.site/blog/html-figure-caption-context/</link>
+      <description>Group an illustration with a meaningful caption while keeping image alternatives useful. Explain the takeaway in readable text without duplicating every sentence.</description>
+      <category>Accessibility</category>
+      <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/html-figure-caption-context/</guid>
     </item>
   </channel>
 </rss>
