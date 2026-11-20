@@ -5,7 +5,7 @@
     <link>https://pentaai.site/blog/</link>
     <description>Practical guides to website fonts, colors, CSS and design systems.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 19 Nov 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 00:00:00 +0000</lastBuildDate>
     <item>
       <title>How to Extract a Design System from an Existing Website</title>
       <link>https://pentaai.site/blog/extract-design-system-from-website/</link>
@@ -1813,6 +1813,166 @@
       <category>Accessibility</category>
       <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://pentaai.site/blog/html-figure-caption-context/</guid>
+    </item>
+    <item>
+      <title>Read Resolved CSS Without Mistaking It for Inline Styles</title>
+      <link>https://pentaai.site/blog/javascript-computed-style-vs-inline/</link>
+      <description>Compare element.style with getComputedStyle, capture stable inspection values, and trace the authored rule separately when documenting a website component.</description>
+      <category>CSS</category>
+      <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/javascript-computed-style-vs-inline/</guid>
+    </item>
+    <item>
+      <title>Keep Scripted Behavior in Sync with a Media Query</title>
+      <link>https://pentaai.site/blog/javascript-matchmedia-change-listener/</link>
+      <description>Read a media query at startup, listen for match changes, and remove listeners when a component is destroyed so scripted behavior stays synchronized.</description>
+      <category>CSS</category>
+      <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/javascript-matchmedia-change-listener/</guid>
+    </item>
+    <item>
+      <title>Set a Touch Gesture Boundary Without Disabling Page Zoom</title>
+      <link>https://pentaai.site/blog/css-touch-action-gesture-boundary/</link>
+      <description>Use touch-action deliberately for a custom drag surface, preserve browser panning and pinch zoom, and check cancellation on a real touch device.</description>
+      <category>CSS</category>
+      <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/css-touch-action-gesture-boundary/</guid>
+    </item>
+    <item>
+      <title>Review Scrollbar Width as a Usability Choice</title>
+      <link>https://pentaai.site/blog/css-scrollbar-width-usable-panels/</link>
+      <description>Compare native and thin scrollbars in a bounded panel, retain keyboard access, and distinguish scrollbar appearance from the space reserved for it.</description>
+      <category>CSS</category>
+      <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/css-scrollbar-width-usable-panels/</guid>
+    </item>
+    <item>
+      <title>Choose Gaps or Resizing for Repeated Background Tiles</title>
+      <link>https://pentaai.site/blog/css-background-repeat-space-round/</link>
+      <description>Compare background-repeat space and round using a fixed-size tile, then inspect narrow widths where tile count and spacing change.</description>
+      <category>CSS</category>
+      <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/css-background-repeat-space-round/</guid>
+    </item>
+    <item>
+      <title>Why a 50 Percent Border Radius Makes an Ellipse</title>
+      <link>https://pentaai.site/blog/css-percentage-radius-ellipse-pill/</link>
+      <description>Compare percentage radii with large fixed radii on rectangular badges, and preserve a true circle by controlling the rendered box dimensions.</description>
+      <category>CSS</category>
+      <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/css-percentage-radius-ellipse-pill/</guid>
+    </item>
+    <item>
+      <title>Trace Alternating Animations One Iteration at a Time</title>
+      <link>https://pentaai.site/blog/css-animation-direction-iteration-order/</link>
+      <description>Distinguish normal, reverse, alternate and alternate-reverse playback, then check iteration boundaries and the final state of a finite animation.</description>
+      <category>CSS</category>
+      <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/css-animation-direction-iteration-order/</guid>
+    </item>
+    <item>
+      <title>Give Hover Entry and Exit Different Transition Delays</title>
+      <link>https://pentaai.site/blog/css-transition-delay-enter-exit/</link>
+      <description>Place transition delays in the destination state, compare quick entry and exit, and avoid delaying the feedback that tells a user an action worked.</description>
+      <category>CSS</category>
+      <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/css-transition-delay-enter-exit/</guid>
+    </item>
+    <item>
+      <title>Account for SVG Line Caps When Aligning Icons</title>
+      <link>https://pentaai.site/blog/svg-stroke-linecap-visible-length/</link>
+      <description>Compare butt, round and square caps on identical SVG paths, then check how stroke width changes the visible endpoint and spacing around an icon.</description>
+      <category>Design systems</category>
+      <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/svg-stroke-linecap-visible-length/</guid>
+    </item>
+    <item>
+      <title>Restore Holes in a Compound SVG Path with the Right Fill Rule</title>
+      <link>https://pentaai.site/blog/svg-fill-rule-compound-path-holes/</link>
+      <description>Inspect compound paths with nonzero and evenodd, verify contour direction, and avoid painting a fake background-colored hole into a reusable icon.</description>
+      <category>Design systems</category>
+      <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/svg-fill-rule-compound-path-holes/</guid>
+    </item>
+    <item>
+      <title>Show a Calculated Result with HTML output</title>
+      <link>https://pentaai.site/blog/html-output-calculated-result/</link>
+      <description>Associate a calculated result with its inputs, handle empty numeric values, and keep displayed output separate from data submitted by the form.</description>
+      <category>Accessibility</category>
+      <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/html-output-calculated-result/</guid>
+    </item>
+    <item>
+      <title>Route Submit Buttons with Native Form Overrides</title>
+      <link>https://pentaai.site/blog/html-formaction-button-destinations/</link>
+      <description>Use formaction and formmethod for distinct native submission destinations, then verify validation, keyboard submission and any JavaScript interception.</description>
+      <category>Accessibility</category>
+      <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/html-formaction-button-destinations/</guid>
+    </item>
+    <item>
+      <title>Choose Spellchecking by the Kind of Text Being Edited</title>
+      <link>https://pentaai.site/blog/html-spellcheck-code-fields/</link>
+      <description>Keep spelling assistance for prose while disabling it for code-like identifiers, and verify the actual browser behavior without treating it as validation.</description>
+      <category>Accessibility</category>
+      <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/html-spellcheck-code-fields/</guid>
+    </item>
+    <item>
+      <title>Match the Mobile Enter Key Label to the Field’s Action</title>
+      <link>https://pentaai.site/blog/html-enterkeyhint-search-action/</link>
+      <description>Use enterkeyhint to request a useful virtual-keyboard action label, while keeping submission behavior and visible controls implemented separately.</description>
+      <category>Accessibility</category>
+      <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/html-enterkeyhint-search-action/</guid>
+    </item>
+    <item>
+      <title>Read Every Selected Value from a Multiple Select</title>
+      <link>https://pentaai.site/blog/html-select-multiple-formdata-values/</link>
+      <description>Use FormData.getAll for repeated field names, inspect empty selections, and keep the native multiple-select interaction understandable on different devices.</description>
+      <category>Accessibility</category>
+      <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/html-select-multiple-formdata-values/</guid>
+    </item>
+    <item>
+      <title>Align Wrapped List Items with Their Markers</title>
+      <link>https://pentaai.site/blog/css-list-style-position-wrapped-items/</link>
+      <description>Compare inside and outside list markers, preserve indentation at narrow widths, and diagnose an unexpected line break before a list item’s paragraph.</description>
+      <category>Typography</category>
+      <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/css-list-style-position-wrapped-items/</guid>
+    </item>
+    <item>
+      <title>Mark Up Inline Quotations Without Doubling the Quotes</title>
+      <link>https://pentaai.site/blog/html-q-inline-quotation-marks/</link>
+      <description>Use q for a genuine inline quotation, keep source attribution visible, and inspect generated quotation marks before adding punctuation by hand.</description>
+      <category>Typography</category>
+      <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/html-q-inline-quotation-marks/</guid>
+    </item>
+    <item>
+      <title>Use placeholder-shown Without Treating It as Validation</title>
+      <link>https://pentaai.site/blog/css-placeholder-shown-not-validity/</link>
+      <description>Style a field while its placeholder is visible, distinguish the pseudo-class from placeholder text styling, and test empty, invalid and autofilled states.</description>
+      <category>CSS</category>
+      <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/css-placeholder-shown-not-validity/</guid>
+    </item>
+    <item>
+      <title>Diagnose Gaps in Text Underlines Before Replacing Them</title>
+      <link>https://pentaai.site/blog/css-skip-ink-interrupted-underlines/</link>
+      <description>Check text-decoration-skip-ink when underlines break around letter descenders, compare the actual font, and keep links recognizable across wrapped lines.</description>
+      <category>Typography</category>
+      <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/css-skip-ink-interrupted-underlines/</guid>
+    </item>
+    <item>
+      <title>Choose a Condensed Font Face Instead of Squashing Text</title>
+      <link>https://pentaai.site/blog/css-font-width-condensed-face/</link>
+      <description>Inspect font width support and available faces, distinguish font selection from transform scaling, and verify layout with the actual loaded font.</description>
+      <category>Typography</category>
+      <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/css-font-width-condensed-face/</guid>
     </item>
   </channel>
 </rss>

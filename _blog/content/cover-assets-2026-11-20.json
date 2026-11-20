@@ -1,0 +1,566 @@
+{
+  "version": 1,
+  "description": "Original explanatory illustrations matching Penta AI homepage feature panels. Values are examples; not product screenshots.",
+  "assets": [
+    {
+      "slug": "javascript-computed-style-vs-inline",
+      "alt": "An inline color entry is empty while a resolved color entry is populated, with a reminder to snapshot inspection values.",
+      "source": "/blog/covers/javascript-computed-style-vs-inline.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/javascript-computed-style-vs-inline.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 19578
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/javascript-computed-style-vs-inline-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 8550
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/javascript-computed-style-vs-inline-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 3188
+        }
+      ]
+    },
+    {
+      "slug": "javascript-matchmedia-change-listener",
+      "alt": "A media-query workflow reads the initial match, listens for changes and removes the listener during teardown.",
+      "source": "/blog/covers/javascript-matchmedia-change-listener.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/javascript-matchmedia-change-listener.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 16666
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/javascript-matchmedia-change-listener-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 7634
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/javascript-matchmedia-change-listener-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 3146
+        }
+      ]
+    },
+    {
+      "slug": "css-touch-action-gesture-boundary",
+      "alt": "A horizontal custom drag surface preserves vertical browser panning and pinch zoom while providing alternate controls.",
+      "source": "/blog/covers/css-touch-action-gesture-boundary.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/css-touch-action-gesture-boundary.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 18370
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/css-touch-action-gesture-boundary-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 8616
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/css-touch-action-gesture-boundary-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 3256
+        }
+      ]
+    },
+    {
+      "slug": "css-scrollbar-width-usable-panels",
+      "alt": "A scrolling panel compares a broad default scrollbar with a thinner scrollbar, emphasizing reach and keyboard operation.",
+      "source": "/blog/covers/css-scrollbar-width-usable-panels.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/css-scrollbar-width-usable-panels.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 11252
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/css-scrollbar-width-usable-panels-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 5084
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/css-scrollbar-width-usable-panels-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 2258
+        }
+      ]
+    },
+    {
+      "slug": "css-background-repeat-space-round",
+      "alt": "Three fixed tiles use gaps under space, while round fills the strip with resized tiles and no gaps.",
+      "source": "/blog/covers/css-background-repeat-space-round.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/css-background-repeat-space-round.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 10862
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/css-background-repeat-space-round-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 4926
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/css-background-repeat-space-round-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 2266
+        }
+      ]
+    },
+    {
+      "slug": "css-percentage-radius-ellipse-pill",
+      "alt": "The same wide rectangle forms an ellipse at fifty percent radius and a capsule with large equal length radii.",
+      "source": "/blog/covers/css-percentage-radius-ellipse-pill.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/css-percentage-radius-ellipse-pill.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 14552
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/css-percentage-radius-ellipse-pill-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 6486
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/css-percentage-radius-ellipse-pill-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 2560
+        }
+      ]
+    },
+    {
+      "slug": "css-animation-direction-iteration-order",
+      "alt": "A finite alternating animation moves forward from zero to 120 pixels in the first two seconds and returns during the next two.",
+      "source": "/blog/covers/css-animation-direction-iteration-order.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/css-animation-direction-iteration-order.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 19926
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/css-animation-direction-iteration-order-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 8782
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/css-animation-direction-iteration-order-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 3460
+        }
+      ]
+    },
+    {
+      "slug": "css-transition-delay-enter-exit",
+      "alt": "Hover entry shows a 250 millisecond wait before a 180 millisecond color transition; exit begins without an added delay.",
+      "source": "/blog/covers/css-transition-delay-enter-exit.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/css-transition-delay-enter-exit.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 17970
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/css-transition-delay-enter-exit-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 8180
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/css-transition-delay-enter-exit-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 3184
+        }
+      ]
+    },
+    {
+      "slug": "svg-stroke-linecap-visible-length",
+      "alt": "Three identical line centerlines show butt, round and square caps extending to different painted boundaries.",
+      "source": "/blog/covers/svg-stroke-linecap-visible-length.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/svg-stroke-linecap-visible-length.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 11994
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/svg-stroke-linecap-visible-length-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 5654
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/svg-stroke-linecap-visible-length-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 2450
+        }
+      ]
+    },
+    {
+      "slug": "svg-fill-rule-compound-path-holes",
+      "alt": "Two compound square paths with matching contour directions fill completely under nonzero and reveal an inner hole under evenodd.",
+      "source": "/blog/covers/svg-fill-rule-compound-path-holes.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/svg-fill-rule-compound-path-holes.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 11340
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/svg-fill-rule-compound-path-holes-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 5432
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/svg-fill-rule-compound-path-holes-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 2426
+        }
+      ]
+    },
+    {
+      "slug": "html-output-calculated-result",
+      "alt": "A three-column input produces a 240 pixel calculated result at 80 pixels per column, with empty values handled explicitly.",
+      "source": "/blog/covers/html-output-calculated-result.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/html-output-calculated-result.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 20732
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/html-output-calculated-result-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 9440
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/html-output-calculated-result-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 3688
+        }
+      ]
+    },
+    {
+      "slug": "html-formaction-button-destinations",
+      "alt": "A form branches to save and preview POST destinations, with normal validation retained on both submit buttons.",
+      "source": "/blog/covers/html-formaction-button-destinations.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/html-formaction-button-destinations.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 16660
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/html-formaction-button-destinations-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 7460
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/html-formaction-button-destinations-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 3156
+        }
+      ]
+    },
+    {
+      "slug": "html-spellcheck-code-fields",
+      "alt": "A code-like token field requests spellcheck false while a prose notes field requests spellcheck true.",
+      "source": "/blog/covers/html-spellcheck-code-fields.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/html-spellcheck-code-fields.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 17650
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/html-spellcheck-code-fields-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 7642
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/html-spellcheck-code-fields-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 2950
+        }
+      ]
+    },
+    {
+      "slug": "html-enterkeyhint-search-action",
+      "alt": "A search input is paired with an illustrative mobile keyboard action labeled Search, with a reminder to keep a visible submit control.",
+      "source": "/blog/covers/html-enterkeyhint-search-action.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/html-enterkeyhint-search-action.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 16548
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/html-enterkeyhint-search-action-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 7400
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/html-enterkeyhint-search-action-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 3168
+        }
+      ]
+    },
+    {
+      "slug": "html-select-multiple-formdata-values",
+      "alt": "CSS and Typography are selected together and produce two values through FormData getAll rather than a single scalar.",
+      "source": "/blog/covers/html-select-multiple-formdata-values.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/html-select-multiple-formdata-values.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 19460
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/html-select-multiple-formdata-values-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 8626
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/html-select-multiple-formdata-values-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 3550
+        }
+      ]
+    },
+    {
+      "slug": "css-list-style-position-wrapped-items",
+      "alt": "Wrapped list text aligns after an outside marker, while inside placement reserves marker space only on the first text line.",
+      "source": "/blog/covers/css-list-style-position-wrapped-items.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/css-list-style-position-wrapped-items.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 12220
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/css-list-style-position-wrapped-items-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 5428
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/css-list-style-position-wrapped-items-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 2388
+        }
+      ]
+    },
+    {
+      "slug": "html-q-inline-quotation-marks",
+      "alt": "A fictional editing quote appears once with generated outer quotation marks, and source attribution remains separate visible content.",
+      "source": "/blog/covers/html-q-inline-quotation-marks.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/html-q-inline-quotation-marks.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 24222
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/html-q-inline-quotation-marks-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 11046
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/html-q-inline-quotation-marks-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 4152
+        }
+      ]
+    },
+    {
+      "slug": "css-placeholder-shown-not-validity",
+      "alt": "An empty email field shows its placeholder while an invalid typed value hides it, demonstrating that placeholder visibility is not validity.",
+      "source": "/blog/covers/css-placeholder-shown-not-validity.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/css-placeholder-shown-not-validity.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 16676
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/css-placeholder-shown-not-validity-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 7450
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/css-placeholder-shown-not-validity-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 2888
+        }
+      ]
+    },
+    {
+      "slug": "css-skip-ink-interrupted-underlines",
+      "alt": "Two simplified underline diagrams compare interruptions around glyph descenders with a continuous line crossing the same descenders.",
+      "source": "/blog/covers/css-skip-ink-interrupted-underlines.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/css-skip-ink-interrupted-underlines.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 13044
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/css-skip-ink-interrupted-underlines-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 5806
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/css-skip-ink-interrupted-underlines-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 2632
+        }
+      ]
+    },
+    {
+      "slug": "css-font-width-condensed-face",
+      "alt": "A font selection checklist checks available faces, exposed width range and the rendered font before judging condensed text.",
+      "source": "/blog/covers/css-font-width-condensed-face.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/css-font-width-condensed-face.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 26862
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/css-font-width-condensed-face-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 11422
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/css-font-width-condensed-face-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 4186
+        }
+      ]
+    }
+  ]
+}
