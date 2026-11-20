@@ -329,5 +329,33 @@
       "https://pentaai.site/blog/html-description-list-metadata/",
       "https://pentaai.site/blog/html-figure-caption-context/"
     ]
+  },
+  {
+    "date": "2026-11-20",
+    "count": 20,
+    "commit": "0fa99551a1bd96d59cd6236882a1ec45980a1c57",
+    "deployment": "GitHub Pages built; all 83 checked public URLs returned HTTP 200 and matched the build: twenty articles, sixty WebP cover variants, blog index, sitemap and RSS. Live desktop/mobile checks passed. Live library has 246 guides; sitemap has 250 URLs.",
+    "urls": [
+      "https://pentaai.site/blog/javascript-computed-style-vs-inline/",
+      "https://pentaai.site/blog/javascript-matchmedia-change-listener/",
+      "https://pentaai.site/blog/css-touch-action-gesture-boundary/",
+      "https://pentaai.site/blog/css-scrollbar-width-usable-panels/",
+      "https://pentaai.site/blog/css-background-repeat-space-round/",
+      "https://pentaai.site/blog/css-percentage-radius-ellipse-pill/",
+      "https://pentaai.site/blog/css-animation-direction-iteration-order/",
+      "https://pentaai.site/blog/css-transition-delay-enter-exit/",
+      "https://pentaai.site/blog/svg-stroke-linecap-visible-length/",
+      "https://pentaai.site/blog/svg-fill-rule-compound-path-holes/",
+      "https://pentaai.site/blog/html-output-calculated-result/",
+      "https://pentaai.site/blog/html-formaction-button-destinations/",
+      "https://pentaai.site/blog/html-spellcheck-code-fields/",
+      "https://pentaai.site/blog/html-enterkeyhint-search-action/",
+      "https://pentaai.site/blog/html-select-multiple-formdata-values/",
+      "https://pentaai.site/blog/css-list-style-position-wrapped-items/",
+      "https://pentaai.site/blog/html-q-inline-quotation-marks/",
+      "https://pentaai.site/blog/css-placeholder-shown-not-validity/",
+      "https://pentaai.site/blog/css-skip-ink-interrupted-underlines/",
+      "https://pentaai.site/blog/css-font-width-condensed-face/"
+    ]
   }
 ]
