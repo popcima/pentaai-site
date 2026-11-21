@@ -357,5 +357,33 @@
       "https://pentaai.site/blog/css-skip-ink-interrupted-underlines/",
       "https://pentaai.site/blog/css-font-width-condensed-face/"
     ]
+  },
+  {
+    "date": "2026-11-21",
+    "count": 20,
+    "commit": "94786c51a2bfabf09a06a7fe81d839179b8f0436",
+    "deployment": "GitHub Pages built; all 83 checked public URLs returned HTTP 200 and matched the build: twenty articles, sixty WebP cover variants, blog index, sitemap and RSS. Live desktop/mobile checks passed. Live library has 266 guides; sitemap has 270 URLs.",
+    "urls": [
+      "https://pentaai.site/blog/css-backdrop-filter-readable-panel/",
+      "https://pentaai.site/blog/css-background-blend-mode-layer-audit/",
+      "https://pentaai.site/blog/css-individual-transform-composition/",
+      "https://pentaai.site/blog/css-text-align-last-paragraph-ending/",
+      "https://pentaai.site/blog/css-tab-size-code-indentation/",
+      "https://pentaai.site/blog/html-abbr-visible-expansion/",
+      "https://pentaai.site/blog/html-mark-search-result-highlights/",
+      "https://pentaai.site/blog/html-ins-del-design-change-review/",
+      "https://pentaai.site/blog/svg-title-named-inline-graphic/",
+      "https://pentaai.site/blog/html-new-tab-link-clear-notice/",
+      "https://pentaai.site/blog/javascript-css-escape-selector-identifiers/",
+      "https://pentaai.site/blog/javascript-queryselectorall-static-membership/",
+      "https://pentaai.site/blog/javascript-mutationobserver-attribute-review/",
+      "https://pentaai.site/blog/javascript-input-change-live-preview/",
+      "https://pentaai.site/blog/javascript-delegated-button-closest/",
+      "https://pentaai.site/blog/html-radio-name-unintended-group/",
+      "https://pentaai.site/blog/html-disabled-fieldset-enable-control/",
+      "https://pentaai.site/blog/html-formnovalidate-draft-action/",
+      "https://pentaai.site/blog/css-grid-dense-placement-order/",
+      "https://pentaai.site/blog/css-flex-gap-margins-wrapped-tags/"
+    ]
   }
 ]
