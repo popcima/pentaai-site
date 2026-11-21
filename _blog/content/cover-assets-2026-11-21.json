@@ -1,0 +1,566 @@
+{
+  "version": 1,
+  "description": "Original explanatory illustrations matching Penta AI homepage feature panels. Values are examples; not product screenshots.",
+  "assets": [
+    {
+      "slug": "css-backdrop-filter-readable-panel",
+      "alt": "A translucent review panel keeps its label sharp over a softened decorative backdrop, alongside a reminder to retain a solid fallback.",
+      "source": "/blog/covers/css-backdrop-filter-readable-panel.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/css-backdrop-filter-readable-panel.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 20272
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/css-backdrop-filter-readable-panel-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 8914
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/css-backdrop-filter-readable-panel-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 3384
+        }
+      ]
+    },
+    {
+      "slug": "css-background-blend-mode-layer-audit",
+      "alt": "Two decorative background layers and a base color feed a blend operation while the text color remains a separate setting.",
+      "source": "/blog/covers/css-background-blend-mode-layer-audit.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/css-background-blend-mode-layer-audit.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 21052
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/css-background-blend-mode-layer-audit-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 9476
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/css-background-blend-mode-layer-audit-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 3698
+        }
+      ]
+    },
+    {
+      "slug": "css-individual-transform-composition",
+      "alt": "Separate translate, rotate and scale settings compose with the transform list, and transform none clears only the last list.",
+      "source": "/blog/covers/css-individual-transform-composition.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/css-individual-transform-composition.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 20448
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/css-individual-transform-composition-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 9344
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/css-individual-transform-composition-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 3752
+        }
+      ]
+    },
+    {
+      "slug": "css-text-align-last-paragraph-ending",
+      "alt": "A justified paragraph diagram has full middle lines and a shorter final line aligned to the start of the text block.",
+      "source": "/blog/covers/css-text-align-last-paragraph-ending.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/css-text-align-last-paragraph-ending.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 12528
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/css-text-align-last-paragraph-ending-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 5580
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/css-text-align-last-paragraph-ending-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 2384
+        }
+      ]
+    },
+    {
+      "slug": "css-tab-size-code-indentation",
+      "alt": "A tab character advances to a stop in a displayed code line, with a comparison between source tabs and ordinary spaces.",
+      "source": "/blog/covers/css-tab-size-code-indentation.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/css-tab-size-code-indentation.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 15858
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/css-tab-size-code-indentation-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 7220
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/css-tab-size-code-indentation-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 2922
+        }
+      ]
+    },
+    {
+      "slug": "html-abbr-visible-expansion",
+      "alt": "Document Object Model is written visibly beside the abbreviation DOM, so the meaning does not require hovering.",
+      "source": "/blog/covers/html-abbr-visible-expansion.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/html-abbr-visible-expansion.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 18412
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/html-abbr-visible-expansion-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 8264
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/html-abbr-visible-expansion-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 3380
+        }
+      ]
+    },
+    {
+      "slug": "html-mark-search-result-highlights",
+      "alt": "A result for spacing highlights the matching word inside a readable sentence while keeping the query context visible.",
+      "source": "/blog/covers/html-mark-search-result-highlights.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/html-mark-search-result-highlights.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 20630
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/html-mark-search-result-highlights-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 9396
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/html-mark-search-result-highlights-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 3776
+        }
+      ]
+    },
+    {
+      "slug": "html-ins-del-design-change-review",
+      "alt": "An illustrative copy revision replaces Continue with Export review, with an explicit change summary above the old and new labels.",
+      "source": "/blog/covers/html-ins-del-design-change-review.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/html-ins-del-design-change-review.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 22454
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/html-ins-del-design-change-review-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 9876
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/html-ins-del-design-change-review-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 3780
+        }
+      ]
+    },
+    {
+      "slug": "svg-title-named-inline-graphic",
+      "alt": "An inline graphic with two equal columns is connected to a title identifier that supplies its accessible name.",
+      "source": "/blog/covers/svg-title-named-inline-graphic.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/svg-title-named-inline-graphic.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 19248
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/svg-title-named-inline-graphic-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 8468
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/svg-title-named-inline-graphic-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 3426
+        }
+      ]
+    },
+    {
+      "slug": "html-new-tab-link-clear-notice",
+      "alt": "A CSS reference link visibly states that it opens in a new tab, while target and opener settings are documented beneath it.",
+      "source": "/blog/covers/html-new-tab-link-clear-notice.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/html-new-tab-link-clear-notice.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 23822
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/html-new-tab-link-clear-notice-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 10592
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/html-new-tab-link-clear-notice-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 4144
+        }
+      ]
+    },
+    {
+      "slug": "javascript-css-escape-selector-identifiers",
+      "alt": "An ID containing a colon is passed through CSS escape before being used in a selector, while direct ID lookup accepts the original string.",
+      "source": "/blog/covers/javascript-css-escape-selector-identifiers.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/javascript-css-escape-selector-identifiers.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 20690
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/javascript-css-escape-selector-identifiers-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 9398
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/javascript-css-escape-selector-identifiers-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 3580
+        }
+      ]
+    },
+    {
+      "slug": "javascript-queryselectorall-static-membership",
+      "alt": "A saved query contains one card while a new query after insertion contains two, illustrating static collection membership.",
+      "source": "/blog/covers/javascript-queryselectorall-static-membership.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/javascript-queryselectorall-static-membership.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 19750
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/javascript-queryselectorall-static-membership-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 8524
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/javascript-queryselectorall-static-membership-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 3404
+        }
+      ]
+    },
+    {
+      "slug": "javascript-mutationobserver-attribute-review",
+      "alt": "A scoped observer watches class and aria-expanded on a single panel and distinguishes a recorded old value from a later current value.",
+      "source": "/blog/covers/javascript-mutationobserver-attribute-review.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/javascript-mutationobserver-attribute-review.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 22820
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/javascript-mutationobserver-attribute-review-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 10172
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/javascript-mutationobserver-attribute-review-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 3834
+        }
+      ]
+    },
+    {
+      "slug": "javascript-input-change-live-preview",
+      "alt": "A caption field and its text preview show the same words, with input events updating the preview during editing.",
+      "source": "/blog/covers/javascript-input-change-live-preview.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/javascript-input-change-live-preview.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 18572
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/javascript-input-change-live-preview-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 7990
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/javascript-input-change-live-preview-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 2992
+        }
+      ]
+    },
+    {
+      "slug": "javascript-delegated-button-closest",
+      "alt": "A click on a nested button label is resolved to its owning button and checked against the component container.",
+      "source": "/blog/covers/javascript-delegated-button-closest.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/javascript-delegated-button-closest.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 22328
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/javascript-delegated-button-closest-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 9294
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/javascript-delegated-button-closest-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 3746
+        }
+      ]
+    },
+    {
+      "slug": "html-radio-name-unintended-group",
+      "alt": "Theme and layout radio choices use separate names so a selected light theme and compact layout can remain chosen together.",
+      "source": "/blog/covers/html-radio-name-unintended-group.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/html-radio-name-unintended-group.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 21376
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/html-radio-name-unintended-group-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 9796
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/html-radio-name-unintended-group-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 4020
+        }
+      ]
+    },
+    {
+      "slug": "html-disabled-fieldset-enable-control",
+      "alt": "An enable checkbox in the first legend remains usable while a prefix field inside the disabled settings group is unavailable.",
+      "source": "/blog/covers/html-disabled-fieldset-enable-control.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/html-disabled-fieldset-enable-control.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 20424
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/html-disabled-fieldset-enable-control-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 8444
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/html-disabled-fieldset-enable-control-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 3316
+        }
+      ]
+    },
+    {
+      "slug": "html-formnovalidate-draft-action",
+      "alt": "An empty required title blocks the Complete action while a deliberate Save draft action skips the browser validation gate.",
+      "source": "/blog/covers/html-formnovalidate-draft-action.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/html-formnovalidate-draft-action.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 22138
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/html-formnovalidate-draft-action-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 10074
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/html-formnovalidate-draft-action-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 3704
+        }
+      ]
+    },
+    {
+      "slug": "css-grid-dense-placement-order",
+      "alt": "A dense three-column grid puts later item C in the first-row hole beside A, while B remains on the second row and DOM order stays A B C.",
+      "source": "/blog/covers/css-grid-dense-placement-order.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/css-grid-dense-placement-order.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 15088
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/css-grid-dense-placement-order-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 7074
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/css-grid-dense-placement-order-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 2728
+        }
+      ]
+    },
+    {
+      "slug": "css-flex-gap-margins-wrapped-tags",
+      "alt": "A wrapping tag row separates outer padding, horizontal gaps and line gaps, with a partial final row aligned to the start.",
+      "source": "/blog/covers/css-flex-gap-margins-wrapped-tags.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/css-flex-gap-margins-wrapped-tags.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 17948
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/css-flex-gap-margins-wrapped-tags-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 7942
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/css-flex-gap-margins-wrapped-tags-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 3340
+        }
+      ]
+    }
+  ]
+}
