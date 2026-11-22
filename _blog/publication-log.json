@@ -385,5 +385,33 @@
       "https://pentaai.site/blog/css-grid-dense-placement-order/",
       "https://pentaai.site/blog/css-flex-gap-margins-wrapped-tags/"
     ]
+  },
+  {
+    "date": "2026-11-22",
+    "count": 20,
+    "commit": "a909f856229c2894376926143785bb7590a07861",
+    "deployment": "GitHub Pages built; all 83 checked public URLs returned HTTP 200 and matched the build: twenty articles, sixty WebP cover variants, blog index, sitemap and RSS. Live desktop/mobile checks passed. Live library has 286 guides; sitemap has 290 URLs.",
+    "urls": [
+      "https://pentaai.site/blog/css-percentage-height-parent-sizing/",
+      "https://pentaai.site/blog/css-grid-zero-minimum-track/",
+      "https://pentaai.site/blog/css-align-self-item-override/",
+      "https://pentaai.site/blog/css-shorthand-reset-audit/",
+      "https://pentaai.site/blog/html-details-name-exclusive-group/",
+      "https://pentaai.site/blog/html-autofocus-context-review/",
+      "https://pentaai.site/blog/css-text-decoration-descendant-propagation/",
+      "https://pentaai.site/blog/css-slashed-zero-identifier-legibility/",
+      "https://pentaai.site/blog/css-text-shadow-glyph-review/",
+      "https://pentaai.site/blog/css-gradient-text-solid-fallback/",
+      "https://pentaai.site/blog/css-conic-gradient-chart-text-alternative/",
+      "https://pentaai.site/blog/javascript-dataset-string-state/",
+      "https://pentaai.site/blog/html-dir-auto-user-content/",
+      "https://pentaai.site/blog/html-contenteditable-plaintext-editor/",
+      "https://pentaai.site/blog/javascript-document-fonts-ready-measurement/",
+      "https://pentaai.site/blog/javascript-image-decode-preview-swap/",
+      "https://pentaai.site/blog/javascript-animation-frame-elapsed-time/",
+      "https://pentaai.site/blog/javascript-intersection-observer-thresholds/",
+      "https://pentaai.site/blog/javascript-getanimations-component-audit/",
+      "https://pentaai.site/blog/css-scroll-padding-container-clearance/"
+    ]
   }
 ]
