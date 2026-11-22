@@ -1,0 +1,566 @@
+{
+  "version": 1,
+  "description": "Original explanatory illustrations matching Penta AI homepage feature panels. Values are examples; not product screenshots.",
+  "assets": [
+    {
+      "slug": "css-percentage-height-parent-sizing",
+      "alt": "A child at fifty percent of an explicit 240 pixel parent resolves to 120 pixels, while a content-sized parent needs a different sizing analysis.",
+      "source": "/blog/covers/css-percentage-height-parent-sizing.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/css-percentage-height-parent-sizing.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 20408
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/css-percentage-height-parent-sizing-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 8568
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/css-percentage-height-parent-sizing-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 3238
+        }
+      ]
+    },
+    {
+      "slug": "css-grid-zero-minimum-track",
+      "alt": "A fixed sidebar sits beside a flexible track with a zero minimum, while the code inside has its own local scrolling policy.",
+      "source": "/blog/covers/css-grid-zero-minimum-track.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/css-grid-zero-minimum-track.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 17222
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/css-grid-zero-minimum-track-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 7776
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/css-grid-zero-minimum-track-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 3020
+        }
+      ]
+    },
+    {
+      "slug": "css-align-self-item-override",
+      "alt": "A tall flex row contains centered neighboring items and one status item aligned to the cross-start edge.",
+      "source": "/blog/covers/css-align-self-item-override.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/css-align-self-item-override.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 16896
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/css-align-self-item-override-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 7546
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/css-align-self-item-override-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 2858
+        }
+      ]
+    },
+    {
+      "slug": "css-shorthand-reset-audit",
+      "alt": "A background shorthand clears the image layer, while a background-color-only variant preserves the image and changes just the base color.",
+      "source": "/blog/covers/css-shorthand-reset-audit.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/css-shorthand-reset-audit.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 18878
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/css-shorthand-reset-audit-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 8090
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/css-shorthand-reset-audit-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 3336
+        }
+      ]
+    },
+    {
+      "slug": "html-details-name-exclusive-group",
+      "alt": "Two native disclosures share a group name; the image export section is open and the token export section is closed.",
+      "source": "/blog/covers/html-details-name-exclusive-group.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/html-details-name-exclusive-group.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 18018
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/html-details-name-exclusive-group-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 7920
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/html-details-name-exclusive-group-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 3278
+        }
+      ]
+    },
+    {
+      "slug": "html-autofocus-context-review",
+      "alt": "An explicit Open search action leads to a dialog field with a visible focus outline, distinguishing chosen entry from page-load focus movement.",
+      "source": "/blog/covers/html-autofocus-context-review.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/html-autofocus-context-review.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 17212
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/html-autofocus-context-review-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 7572
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/html-autofocus-context-review-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 3250
+        }
+      ]
+    },
+    {
+      "slug": "css-text-decoration-descendant-propagation",
+      "alt": "A line drawn by an ancestor continues through a child word even though the child has text-decoration none.",
+      "source": "/blog/covers/css-text-decoration-descendant-propagation.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/css-text-decoration-descendant-propagation.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 21266
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/css-text-decoration-descendant-propagation-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 9048
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/css-text-decoration-descendant-propagation-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 3232
+        }
+      ]
+    },
+    {
+      "slug": "css-slashed-zero-identifier-legibility",
+      "alt": "Schematic glyphs distinguish a slashed digit zero from a letter O, with a reminder that the real font must support the alternate.",
+      "source": "/blog/covers/css-slashed-zero-identifier-legibility.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/css-slashed-zero-identifier-legibility.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 20130
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/css-slashed-zero-identifier-legibility-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 9418
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/css-slashed-zero-identifier-legibility-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 3900
+        }
+      ]
+    },
+    {
+      "slug": "css-text-shadow-glyph-review",
+      "alt": "A text shadow specimen places white lettering over a dark stable surface and identifies offset, blur and alpha as separate review controls.",
+      "source": "/blog/covers/css-text-shadow-glyph-review.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/css-text-shadow-glyph-review.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 21494
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/css-text-shadow-glyph-review-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 9592
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/css-text-shadow-glyph-review-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 3742
+        }
+      ]
+    },
+    {
+      "slug": "css-gradient-text-solid-fallback",
+      "alt": "A plain solid heading and a gradient-enhanced heading share the same readable words, with a separate forced-colors and print fallback.",
+      "source": "/blog/covers/css-gradient-text-solid-fallback.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/css-gradient-text-solid-fallback.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 22226
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/css-gradient-text-solid-fallback-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 9952
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/css-gradient-text-solid-fallback-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 3818
+        }
+      ]
+    },
+    {
+      "slug": "css-conic-gradient-chart-text-alternative",
+      "alt": "An explicitly illustrative allocation chart shows Layout 50 percent, Typography 30 percent and Color 20 percent beside the corresponding segments.",
+      "source": "/blog/covers/css-conic-gradient-chart-text-alternative.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/css-conic-gradient-chart-text-alternative.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 21142
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/css-conic-gradient-chart-text-alternative-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 9756
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/css-conic-gradient-chart-text-alternative-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 3962
+        }
+      ]
+    },
+    {
+      "slug": "javascript-dataset-string-state",
+      "alt": "The data-expanded attribute contains the string false, and an explicit comparison with true produces the Boolean false.",
+      "source": "/blog/covers/javascript-dataset-string-state.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/javascript-dataset-string-state.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 22612
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/javascript-dataset-string-state-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 9978
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/javascript-dataset-string-state-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 3556
+        }
+      ]
+    },
+    {
+      "slug": "html-dir-auto-user-content",
+      "alt": "Two text-direction diagrams begin at opposite edges, with a note that automatic direction follows strong text characters rather than identifying a language.",
+      "source": "/blog/covers/html-dir-auto-user-content.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/html-dir-auto-user-content.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 16066
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/html-dir-auto-user-content-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 6726
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/html-dir-auto-user-content-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 2732
+        }
+      ]
+    },
+    {
+      "slug": "html-contenteditable-plaintext-editor",
+      "alt": "A labeled plain-text notes editor has a visible focus boundary and a reminder that saving, validation and form submission need deliberate implementation.",
+      "source": "/blog/covers/html-contenteditable-plaintext-editor.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/html-contenteditable-plaintext-editor.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 21610
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/html-contenteditable-plaintext-editor-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 9286
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/html-contenteditable-plaintext-editor-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 3596
+        }
+      ]
+    },
+    {
+      "slug": "javascript-document-fonts-ready-measurement",
+      "alt": "A measurement workflow prepares the specimen, waits for document fonts readiness and then measures the box while separately verifying the rendered font.",
+      "source": "/blog/covers/javascript-document-fonts-ready-measurement.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/javascript-document-fonts-ready-measurement.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 23672
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/javascript-document-fonts-ready-measurement-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 10432
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/javascript-document-fonts-ready-measurement-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 4280
+        }
+      ]
+    },
+    {
+      "slug": "javascript-image-decode-preview-swap",
+      "alt": "An existing preview stays visible while a replacement decodes, and a version check allows only the latest selection to replace it.",
+      "source": "/blog/covers/javascript-image-decode-preview-swap.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/javascript-image-decode-preview-swap.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 20930
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/javascript-image-decode-preview-swap-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 9420
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/javascript-image-decode-preview-swap-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 3652
+        }
+      ]
+    },
+    {
+      "slug": "javascript-animation-frame-elapsed-time",
+      "alt": "An 800 millisecond timeline maps elapsed progress from zero to 120 pixels, independent of an assumed number of animation frames.",
+      "source": "/blog/covers/javascript-animation-frame-elapsed-time.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/javascript-animation-frame-elapsed-time.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 18720
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/javascript-animation-frame-elapsed-time-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 7958
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/javascript-animation-frame-elapsed-time-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 2910
+        }
+      ]
+    },
+    {
+      "slug": "javascript-intersection-observer-thresholds",
+      "alt": "A target crosses a viewport boundary with half its area inside, illustrating geometric intersection rather than proof that a reader saw the content.",
+      "source": "/blog/covers/javascript-intersection-observer-thresholds.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/javascript-intersection-observer-thresholds.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 16664
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/javascript-intersection-observer-thresholds-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 8818
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/javascript-intersection-observer-thresholds-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 3570
+        }
+      ]
+    },
+    {
+      "slug": "javascript-getanimations-component-audit",
+      "alt": "A component-scoped animation inventory lists state, current time and duration, with a distinction between pausing and canceling effects.",
+      "source": "/blog/covers/javascript-getanimations-component-audit.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/javascript-getanimations-component-audit.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 22210
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/javascript-getanimations-component-audit-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 10018
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/javascript-getanimations-component-audit-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 3868
+        }
+      ]
+    },
+    {
+      "slug": "css-scroll-padding-container-clearance",
+      "alt": "A scrolling panel reserves a top region for a 40 pixel toolbar plus 16 pixels of clearance before the targeted heading.",
+      "source": "/blog/covers/css-scroll-padding-container-clearance.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/css-scroll-padding-container-clearance.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 20222
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/css-scroll-padding-container-clearance-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 8768
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/css-scroll-padding-container-clearance-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 3388
+        }
+      ]
+    }
+  ]
+}

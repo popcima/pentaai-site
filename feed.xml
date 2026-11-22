@@ -5,7 +5,7 @@
     <link>https://pentaai.site/blog/</link>
     <description>Practical guides to website fonts, colors, CSS and design systems.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 21 Nov 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 00:00:00 +0000</lastBuildDate>
     <item>
       <title>How to Extract a Design System from an Existing Website</title>
       <link>https://pentaai.site/blog/extract-design-system-from-website/</link>
@@ -2133,6 +2133,166 @@
       <category>CSS</category>
       <pubDate>Sat, 21 Nov 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://pentaai.site/blog/css-flex-gap-margins-wrapped-tags/</guid>
+    </item>
+    <item>
+      <title>Find the Missing Reference Behind a Percentage Height</title>
+      <link>https://pentaai.site/blog/css-percentage-height-parent-sizing/</link>
+      <description>Trace the containing block behind height percentages, compare an explicit parent height with content-driven sizing, and avoid clipping text to force a fit.</description>
+      <category>CSS</category>
+      <pubDate>Sun, 22 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/css-percentage-height-parent-sizing/</guid>
+    </item>
+    <item>
+      <title>Shrink a Grid Track Without Hiding Its Overflowing Content</title>
+      <link>https://pentaai.site/blog/css-grid-zero-minimum-track/</link>
+      <description>Compare 1fr with minmax(0, 1fr), separate track sizing from content overflow, and choose wrapping or local scrolling for the item inside the track.</description>
+      <category>CSS</category>
+      <pubDate>Sun, 22 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/css-grid-zero-minimum-track/</guid>
+    </item>
+    <item>
+      <title>Align One Flex Item Without Changing the Whole Row</title>
+      <link>https://pentaai.site/blog/css-align-self-item-override/</link>
+      <description>Use align-self for a single cross-axis exception, inspect auto margins and explicit sizes, and recheck the axis when flex-direction changes.</description>
+      <category>CSS</category>
+      <pubDate>Sun, 22 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/css-align-self-item-override/</guid>
+    </item>
+    <item>
+      <title>Audit Shorthand Resets Before Increasing CSS Specificity</title>
+      <link>https://pentaai.site/blog/css-shorthand-reset-audit/</link>
+      <description>Inspect the longhands written by a shorthand, identify omitted values that reset earlier styling, and make component variants change only their intended properties.</description>
+      <category>CSS</category>
+      <pubDate>Sun, 22 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/css-shorthand-reset-audit/</guid>
+    </item>
+    <item>
+      <title>Group Native Disclosures So Only One Opens at a Time</title>
+      <link>https://pentaai.site/blog/html-details-name-exclusive-group/</link>
+      <description>Use the details name attribute for exclusive disclosure groups, keep group names scoped to the intended set, and test whether exclusivity helps readers compare content.</description>
+      <category>Accessibility</category>
+      <pubDate>Sun, 22 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/html-details-name-exclusive-group/</guid>
+    </item>
+    <item>
+      <title>Review Autofocus Before Moving a Reader Past Page Context</title>
+      <link>https://pentaai.site/blog/html-autofocus-context-review/</link>
+      <description>Check when autofocus is appropriate, compare page entry with a deliberately opened dialog, and verify keyboard, scrolling and mobile-keyboard behavior.</description>
+      <category>Accessibility</category>
+      <pubDate>Sun, 22 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/html-autofocus-context-review/</guid>
+    </item>
+    <item>
+      <title>Remove an Underline at Its Source Instead of Fighting a Child</title>
+      <link>https://pentaai.site/blog/css-text-decoration-descendant-propagation/</link>
+      <description>Trace text-decoration drawn by an ancestor, understand why a child’s none declaration cannot erase it, and preserve a clear link affordance when changing markup.</description>
+      <category>Typography</category>
+      <pubDate>Sun, 22 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/css-text-decoration-descendant-propagation/</guid>
+    </item>
+    <item>
+      <title>Distinguish Zero from Letter O with a Supported Font Feature</title>
+      <link>https://pentaai.site/blog/css-slashed-zero-identifier-legibility/</link>
+      <description>Use slashed-zero for identifiers when the font supports it, compare real glyphs and fallback behavior, and preserve the original characters when copying.</description>
+      <category>Typography</category>
+      <pubDate>Sun, 22 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/css-slashed-zero-identifier-legibility/</guid>
+    </item>
+    <item>
+      <title>Review Text Shadows at the Actual Reading Size</title>
+      <link>https://pentaai.site/blog/css-text-shadow-glyph-review/</link>
+      <description>Separate glyph shadows from box shadows, inspect offsets and blur one value at a time, and avoid relying on a glow to make a variable background readable.</description>
+      <category>Typography</category>
+      <pubDate>Sun, 22 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/css-text-shadow-glyph-review/</guid>
+    </item>
+    <item>
+      <title>Keep Gradient Text Readable When Its Effect Is Unavailable</title>
+      <link>https://pentaai.site/blog/css-gradient-text-solid-fallback/</link>
+      <description>Apply background-clip text as an enhancement, retain a solid color path, and check forced colors, printing and contrast across the full gradient.</description>
+      <category>Typography</category>
+      <pubDate>Sun, 22 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/css-gradient-text-solid-fallback/</guid>
+    </item>
+    <item>
+      <title>Pair a Conic Gradient Chart with Its Actual Values</title>
+      <link>https://pentaai.site/blog/css-conic-gradient-chart-text-alternative/</link>
+      <description>Use conic-gradient for an illustrative proportion graphic, calculate stops from the data, and keep labels and values available outside the CSS background.</description>
+      <category>Accessibility</category>
+      <pubDate>Sun, 22 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/css-conic-gradient-chart-text-alternative/</guid>
+    </item>
+    <item>
+      <title>Read Data Attributes as Strings When Inspecting State</title>
+      <link>https://pentaai.site/blog/javascript-dataset-string-state/</link>
+      <description>Parse data attribute values explicitly, understand dash-to-camelCase names, and avoid treating the string false as a Boolean false in component logic.</description>
+      <category>CSS</category>
+      <pubDate>Sun, 22 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/javascript-dataset-string-state/</guid>
+    </item>
+    <item>
+      <title>Let Unknown User Text Choose Its Base Direction</title>
+      <link>https://pentaai.site/blog/html-dir-auto-user-content/</link>
+      <description>Use dir auto for text whose direction is not known in advance, inspect punctuation and leading characters, and keep language identification separate from direction.</description>
+      <category>Accessibility</category>
+      <pubDate>Sun, 22 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/html-dir-auto-user-content/</guid>
+    </item>
+    <item>
+      <title>Choose Plain-Text Editing Deliberately with contenteditable</title>
+      <link>https://pentaai.site/blog/html-contenteditable-plaintext-editor/</link>
+      <description>Use plaintext-only for a custom editable surface, keep its accessible name and focus visible, and account for submission and paste behavior beyond the attribute.</description>
+      <category>Accessibility</category>
+      <pubDate>Sun, 22 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/html-contenteditable-plaintext-editor/</guid>
+    </item>
+    <item>
+      <title>Wait for Font Loading Before Measuring a Text Specimen</title>
+      <link>https://pentaai.site/blog/javascript-document-fonts-ready-measurement/</link>
+      <description>Use document.fonts.ready before a controlled measurement, verify the actual rendered face, and avoid treating one resolved promise as permanent page stability.</description>
+      <category>Typography</category>
+      <pubDate>Sun, 22 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/javascript-document-fonts-ready-measurement/</guid>
+    </item>
+    <item>
+      <title>Decode a Replacement Image Before Swapping the Preview</title>
+      <link>https://pentaai.site/blog/javascript-image-decode-preview-swap/</link>
+      <description>Keep the previous preview while a new image decodes, handle failed requests, and guard against an older selection replacing a newer one.</description>
+      <category>Design systems</category>
+      <pubDate>Sun, 22 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/javascript-image-decode-preview-swap/</guid>
+    </item>
+    <item>
+      <title>Base a Scripted Animation on Elapsed Time, Not Frame Count</title>
+      <link>https://pentaai.site/blog/javascript-animation-frame-elapsed-time/</link>
+      <description>Use the requestAnimationFrame timestamp for consistent duration, stop the loop at completion, and provide a reduced-motion path and cleanup function.</description>
+      <category>CSS</category>
+      <pubDate>Sun, 22 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/javascript-animation-frame-elapsed-time/</guid>
+    </item>
+    <item>
+      <title>Interpret Intersection Ratios Without Calling Them Visibility Proof</title>
+      <link>https://pentaai.site/blog/javascript-intersection-observer-thresholds/</link>
+      <description>Use IntersectionObserver thresholds for geometric intersection checks, inspect the chosen root, and distinguish partial overlap from actual readable visibility.</description>
+      <category>CSS</category>
+      <pubDate>Sun, 22 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/javascript-intersection-observer-thresholds/</guid>
+    </item>
+    <item>
+      <title>List a Component’s Animations Before Pausing Them</title>
+      <link>https://pentaai.site/blog/javascript-getanimations-component-audit/</link>
+      <description>Inspect getAnimations with a deliberate subtree scope, identify current play states and timing, and avoid assuming the returned list covers every moving image or script.</description>
+      <category>CSS</category>
+      <pubDate>Sun, 22 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/javascript-getanimations-component-audit/</guid>
+    </item>
+    <item>
+      <title>Reserve Scroll-Target Clearance on the Scrolling Container</title>
+      <link>https://pentaai.site/blog/css-scroll-padding-container-clearance/</link>
+      <description>Use scroll-padding-top for a shared scrollport inset, distinguish it from target scroll margins and ordinary padding, and check sticky toolbars at different sizes.</description>
+      <category>CSS</category>
+      <pubDate>Sun, 22 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/css-scroll-padding-container-clearance/</guid>
     </item>
   </channel>
 </rss>
