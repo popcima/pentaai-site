@@ -413,5 +413,33 @@
       "https://pentaai.site/blog/javascript-getanimations-component-audit/",
       "https://pentaai.site/blog/css-scroll-padding-container-clearance/"
     ]
+  },
+  {
+    "date": "2026-11-23",
+    "count": 20,
+    "commit": "a8e4a82d23d3a51f0712453a316f42af47f5db11",
+    "deployment": "GitHub Pages built; all 83 checked public URLs returned HTTP 200 and matched the build: twenty articles, sixty WebP cover variants, blog index, sitemap and RSS. Live desktop/mobile checks passed. Live library has 306 guides; sitemap has 310 URLs.",
+    "urls": [
+      "https://pentaai.site/blog/css-grid-negative-line-explicit-end/",
+      "https://pentaai.site/blog/css-percentage-gap-definite-size/",
+      "https://pentaai.site/blog/css-object-position-percentage-offset/",
+      "https://pentaai.site/blog/css-fraction-glyphs-font-support/",
+      "https://pentaai.site/blog/css-gradient-interpolation-color-space/",
+      "https://pentaai.site/blog/css-empty-whitespace-state/",
+      "https://pentaai.site/blog/css-child-combinator-nested-components/",
+      "https://pentaai.site/blog/css-zoom-layout-vs-transform/",
+      "https://pentaai.site/blog/html-template-clone-unique-controls/",
+      "https://pentaai.site/blog/javascript-textcontent-innertext-inspection/",
+      "https://pentaai.site/blog/javascript-clientrects-wrapped-inline/",
+      "https://pentaai.site/blog/javascript-elementfrompoint-hit-test/",
+      "https://pentaai.site/blog/javascript-abortcontroller-listener-cleanup/",
+      "https://pentaai.site/blog/html-wbr-optional-break-points/",
+      "https://pentaai.site/blog/svg-symbol-use-reusable-icons/",
+      "https://pentaai.site/blog/svg-pathlength-normalized-dashes/",
+      "https://pentaai.site/blog/html-translate-protected-names/",
+      "https://pentaai.site/blog/html-table-caption-context/",
+      "https://pentaai.site/blog/css-cursor-affordance-fallback/",
+      "https://pentaai.site/blog/html-slot-fallback-assigned-content/"
+    ]
   }
 ]
