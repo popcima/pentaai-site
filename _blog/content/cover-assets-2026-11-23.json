@@ -1,0 +1,566 @@
+{
+  "version": 1,
+  "description": "Original explanatory illustrations matching Penta AI homepage feature panels. Values are examples; not product screenshots.",
+  "assets": [
+    {
+      "slug": "css-grid-negative-line-explicit-end",
+      "alt": "Three blue explicit grid columns end at line minus one, while a fourth green implicit column lies beyond the heading span.",
+      "source": "/blog/covers/css-grid-negative-line-explicit-end.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/css-grid-negative-line-explicit-end.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 14398
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/css-grid-negative-line-explicit-end-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 6950
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/css-grid-negative-line-explicit-end-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 2888
+        }
+      ]
+    },
+    {
+      "slug": "css-percentage-gap-definite-size",
+      "alt": "A 400 pixel content box contains two 180 pixel tracks separated by a 40 pixel gap, illustrating a ten percent column gap.",
+      "source": "/blog/covers/css-percentage-gap-definite-size.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/css-percentage-gap-definite-size.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 16982
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/css-percentage-gap-definite-size-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 7694
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/css-percentage-gap-definite-size-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 3024
+        }
+      ]
+    },
+    {
+      "slug": "css-object-position-percentage-offset",
+      "alt": "A square viewport clips a wide illustrative image with a fifty pixel left offset; the arithmetic uses negative remaining space times twenty-five percent.",
+      "source": "/blog/covers/css-object-position-percentage-offset.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/css-object-position-percentage-offset.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 20064
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/css-object-position-percentage-offset-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 9012
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/css-object-position-percentage-offset-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 3564
+        }
+      ]
+    },
+    {
+      "slug": "css-fraction-glyphs-font-support",
+      "alt": "A source fraction 3 slash 8 is paired with a schematic stacked fraction; the diagram reminds readers that actual glyph support belongs to the font.",
+      "source": "/blog/covers/css-fraction-glyphs-font-support.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/css-fraction-glyphs-font-support.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 19244
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/css-fraction-glyphs-font-support-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 8670
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/css-fraction-glyphs-font-support-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 3510
+        }
+      ]
+    },
+    {
+      "slug": "css-gradient-interpolation-color-space",
+      "alt": "Two gradient configuration cards share the same endpoint colors but identify sRGB and Oklab as different interpolation spaces; no measured midpoint is asserted.",
+      "source": "/blog/covers/css-gradient-interpolation-color-space.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/css-gradient-interpolation-color-space.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 15158
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/css-gradient-interpolation-color-space-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 7186
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/css-gradient-interpolation-color-space-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 3308
+        }
+      ]
+    },
+    {
+      "slug": "css-empty-whitespace-state",
+      "alt": "Three containers compare no child content, a whitespace text node and a comment; the bare and comment-only containers match the empty selector.",
+      "source": "/blog/covers/css-empty-whitespace-state.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/css-empty-whitespace-state.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 23096
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/css-empty-whitespace-state-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 10168
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/css-empty-whitespace-state-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 4038
+        }
+      ]
+    },
+    {
+      "slug": "css-child-combinator-nested-components",
+      "alt": "A direct label and a nested label occupy different levels in a component tree, with only the direct label matching the child combinator.",
+      "source": "/blog/covers/css-child-combinator-nested-components.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/css-child-combinator-nested-components.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 18046
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/css-child-combinator-nested-components-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 8014
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/css-child-combinator-nested-components-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 3282
+        }
+      ]
+    },
+    {
+      "slug": "css-zoom-layout-vs-transform",
+      "alt": "A zoomed box reserves additional space before its following content, while a transformed box visually overlaps the unchanged layout position of its following content.",
+      "source": "/blog/covers/css-zoom-layout-vs-transform.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/css-zoom-layout-vs-transform.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 17912
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/css-zoom-layout-vs-transform-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 8154
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/css-zoom-layout-vs-transform-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 3180
+        }
+      ]
+    },
+    {
+      "slug": "html-template-clone-unique-controls",
+      "alt": "A reusable template creates two review fields with different input IDs and matching label references.",
+      "source": "/blog/covers/html-template-clone-unique-controls.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/html-template-clone-unique-controls.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 25864
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/html-template-clone-unique-controls-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 11404
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/html-template-clone-unique-controls-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 4424
+        }
+      ]
+    },
+    {
+      "slug": "javascript-textcontent-innertext-inspection",
+      "alt": "A DOM text inspection includes a hidden note, while a rendered-text inspection omits it and preserves a visible line break.",
+      "source": "/blog/covers/javascript-textcontent-innertext-inspection.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/javascript-textcontent-innertext-inspection.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 24354
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/javascript-textcontent-innertext-inspection-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 10580
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/javascript-textcontent-innertext-inspection-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 4260
+        }
+      ]
+    },
+    {
+      "slug": "javascript-clientrects-wrapped-inline",
+      "alt": "Three inline fragment rectangles sit inside one enclosing rectangle, showing empty space included by the union of the fragments.",
+      "source": "/blog/covers/javascript-clientrects-wrapped-inline.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/javascript-clientrects-wrapped-inline.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 12364
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/javascript-clientrects-wrapped-inline-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 5766
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/javascript-clientrects-wrapped-inline-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 2570
+        }
+      ]
+    },
+    {
+      "slug": "javascript-elementfrompoint-hit-test",
+      "alt": "A hit-test point falls on a translucent overlay covering part of a button, illustrating how visible content and pointer interception can differ.",
+      "source": "/blog/covers/javascript-elementfrompoint-hit-test.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/javascript-elementfrompoint-hit-test.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 16146
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/javascript-elementfrompoint-hit-test-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 7392
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/javascript-elementfrompoint-hit-test-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 3024
+        }
+      ]
+    },
+    {
+      "slug": "javascript-abortcontroller-listener-cleanup",
+      "alt": "An event-listener lifecycle moves from mount to interaction to abort, with a new controller required for the next component instance.",
+      "source": "/blog/covers/javascript-abortcontroller-listener-cleanup.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/javascript-abortcontroller-listener-cleanup.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 19858
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/javascript-abortcontroller-listener-cleanup-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 8820
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/javascript-abortcontroller-listener-cleanup-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 3396
+        }
+      ]
+    },
+    {
+      "slug": "html-wbr-optional-break-points",
+      "alt": "A long asset label has optional break positions between component, Preview, Desktop and a file suffix, without adding filename characters.",
+      "source": "/blog/covers/html-wbr-optional-break-points.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/html-wbr-optional-break-points.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 23726
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/html-wbr-optional-break-points-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 9996
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/html-wbr-optional-break-points-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 3654
+        }
+      ]
+    },
+    {
+      "slug": "svg-symbol-use-reusable-icons",
+      "alt": "One checkmark symbol definition supplies two rendered icon instances while the surrounding controls keep their own visible labels.",
+      "source": "/blog/covers/svg-symbol-use-reusable-icons.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/svg-symbol-use-reusable-icons.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 19808
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/svg-symbol-use-reusable-icons-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 8932
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/svg-symbol-use-reusable-icons-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 3638
+        }
+      ]
+    },
+    {
+      "slug": "svg-pathlength-normalized-dashes",
+      "alt": "An illustrative ring draws sixty of one hundred normalized units with butt caps; the diagram distinguishes normalized dash values from actual task progress.",
+      "source": "/blog/covers/svg-pathlength-normalized-dashes.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/svg-pathlength-normalized-dashes.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 22264
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/svg-pathlength-normalized-dashes-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 10044
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/svg-pathlength-normalized-dashes-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 3820
+        }
+      ]
+    },
+    {
+      "slug": "html-translate-protected-names",
+      "alt": "Penta AI and a code token are marked as stable text within otherwise translatable instructions, with language metadata treated separately.",
+      "source": "/blog/covers/html-translate-protected-names.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/html-translate-protected-names.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 20066
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/html-translate-protected-names-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 8820
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/html-translate-protected-names-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 3524
+        }
+      ]
+    },
+    {
+      "slug": "html-table-caption-context",
+      "alt": "A table caption identifies an illustrative landing-page inventory, followed by clear Component and Count column headers and two example rows.",
+      "source": "/blog/covers/html-table-caption-context.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/html-table-caption-context.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 22310
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/html-table-caption-context-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 9768
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/html-table-caption-context-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 3758
+        }
+      ]
+    },
+    {
+      "slug": "css-cursor-affordance-fallback",
+      "alt": "A cursor image uses an explicit hotspot and falls back to a crosshair, while the diagram states that cursor styling does not implement the action.",
+      "source": "/blog/covers/css-cursor-affordance-fallback.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/css-cursor-affordance-fallback.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 16306
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/css-cursor-affordance-fallback-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 7374
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/css-cursor-affordance-fallback-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 3010
+        }
+      ]
+    },
+    {
+      "slug": "html-slot-fallback-assigned-content",
+      "alt": "An unassigned slot displays its fallback, while an assigned whitespace text node suppresses the fallback despite looking blank.",
+      "source": "/blog/covers/html-slot-fallback-assigned-content.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/html-slot-fallback-assigned-content.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 21920
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/html-slot-fallback-assigned-content-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 9198
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/html-slot-fallback-assigned-content-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 3516
+        }
+      ]
+    }
+  ]
+}

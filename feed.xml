@@ -5,7 +5,7 @@
     <link>https://pentaai.site/blog/</link>
     <description>Practical guides to website fonts, colors, CSS and design systems.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 22 Nov 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 00:00:00 +0000</lastBuildDate>
     <item>
       <title>How to Extract a Design System from an Existing Website</title>
       <link>https://pentaai.site/blog/extract-design-system-from-website/</link>
@@ -2293,6 +2293,166 @@
       <category>CSS</category>
       <pubDate>Sun, 22 Nov 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://pentaai.site/blog/css-scroll-padding-container-clearance/</guid>
+    </item>
+    <item>
+      <title>Find the Explicit Grid Edge Behind a Negative Line Number</title>
+      <link>https://pentaai.site/blog/css-grid-negative-line-explicit-end/</link>
+      <description>Trace grid-column: 1 / -1 to the explicit grid, compare implicit columns, and inspect the overlay before changing a full-width item’s placement.</description>
+      <category>CSS</category>
+      <pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/css-grid-negative-line-explicit-end/</guid>
+    </item>
+    <item>
+      <title>Resolve Percentage Gaps Against the Right Container Size</title>
+      <link>https://pentaai.site/blog/css-percentage-gap-definite-size/</link>
+      <description>Measure percentage gaps against a definite content box, then test automatic sizing and compare grid and flex behavior before choosing a spacing token.</description>
+      <category>CSS</category>
+      <pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/css-percentage-gap-definite-size/</guid>
+    </item>
+    <item>
+      <title>Calculate an Image Crop Offset from object-position</title>
+      <link>https://pentaai.site/blog/css-object-position-percentage-offset/</link>
+      <description>Work through object-position percentage math using a known image and box, identify the axis that can move, and verify the crop at responsive sizes.</description>
+      <category>CSS</category>
+      <pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/css-object-position-percentage-offset/</guid>
+    </item>
+    <item>
+      <title>Request Fraction Glyphs Without Changing the Source Text</title>
+      <link>https://pentaai.site/blog/css-fraction-glyphs-font-support/</link>
+      <description>Compare diagonal and stacked fraction features in the actual font, limit styling to the intended values, and preserve the original text for copying.</description>
+      <category>Typography</category>
+      <pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/css-fraction-glyphs-font-support/</guid>
+    </item>
+    <item>
+      <title>Compare Gradient Midpoints with an Explicit Color Space</title>
+      <link>https://pentaai.site/blog/css-gradient-interpolation-color-space/</link>
+      <description>Compare sRGB and Oklab gradients with identical stops, preserve a fallback, and record the interpolation space when handing off a color treatment.</description>
+      <category>Color</category>
+      <pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/css-gradient-interpolation-color-space/</guid>
+    </item>
+    <item>
+      <title>Debug an Empty-State Selector That Whitespace Prevents</title>
+      <link>https://pentaai.site/blog/css-empty-whitespace-state/</link>
+      <description>Inspect text nodes when :empty fails, compare comments and hidden children, and use explicit state when visual emptiness differs from DOM structure.</description>
+      <category>CSS</category>
+      <pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/css-empty-whitespace-state/</guid>
+    </item>
+    <item>
+      <title>Limit a Component Rule to Its Direct Children</title>
+      <link>https://pentaai.site/blog/css-child-combinator-nested-components/</link>
+      <description>Use the child combinator to stop a rule reaching nested content, distinguish matching from inheritance, and document the markup contract before adding wrappers.</description>
+      <category>CSS</category>
+      <pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/css-child-combinator-nested-components/</guid>
+    </item>
+    <item>
+      <title>Compare CSS Zoom with Transform Scaling in Layout</title>
+      <link>https://pentaai.site/blog/css-zoom-layout-vs-transform/</link>
+      <description>Compare CSS zoom and transform scale using fixed-size specimens, inspect neighboring layout, and keep component magnification separate from browser zoom testing.</description>
+      <category>CSS</category>
+      <pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/css-zoom-layout-vs-transform/</guid>
+    </item>
+    <item>
+      <title>Clone Template Controls Without Duplicating Their IDs</title>
+      <link>https://pentaai.site/blog/html-template-clone-unique-controls/</link>
+      <description>Instantiate an HTML template with unique control IDs, preserve label associations, and distinguish cloning content from moving the reusable fragment.</description>
+      <category>CSS</category>
+      <pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/html-template-clone-unique-controls/</guid>
+    </item>
+    <item>
+      <title>Choose DOM Text or Rendered Text for an Inspection</title>
+      <link>https://pentaai.site/blog/javascript-textcontent-innertext-inspection/</link>
+      <description>Compare textContent and innerText with hidden content and line breaks, avoid treating either as an accessible name, and write plain text without parsing markup.</description>
+      <category>CSS</category>
+      <pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/javascript-textcontent-innertext-inspection/</guid>
+    </item>
+    <item>
+      <title>Measure the Separate Fragments of a Wrapped Inline Element</title>
+      <link>https://pentaai.site/blog/javascript-clientrects-wrapped-inline/</link>
+      <description>Use getClientRects for a wrapped inline label, compare the union box, and avoid mistaking border-box fragments for exact glyph or line measurements.</description>
+      <category>CSS</category>
+      <pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/javascript-clientrects-wrapped-inline/</guid>
+    </item>
+    <item>
+      <title>Find Which Element Wins a Pointer Hit Test</title>
+      <link>https://pentaai.site/blog/javascript-elementfrompoint-hit-test/</link>
+      <description>Probe viewport coordinates with elementFromPoint, inspect overlay interception, and separate pointer hit testing from keyboard focus and accessibility.</description>
+      <category>CSS</category>
+      <pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/javascript-elementfrompoint-hit-test/</guid>
+    </item>
+    <item>
+      <title>Remove a Component’s Event Listeners with One Abort Signal</title>
+      <link>https://pentaai.site/blog/javascript-abortcontroller-listener-cleanup/</link>
+      <description>Group temporary event listeners under an AbortController, return a cleanup function, and prevent repeated mounting from multiplying interface responses.</description>
+      <category>CSS</category>
+      <pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/javascript-abortcontroller-listener-cleanup/</guid>
+    </item>
+    <item>
+      <title>Add Optional Break Points to a Long Label with wbr</title>
+      <link>https://pentaai.site/blog/html-wbr-optional-break-points/</link>
+      <description>Use wbr for chosen line-break opportunities, distinguish it from br and soft hyphens, and preserve the actual label text when readers copy it.</description>
+      <category>Typography</category>
+      <pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/html-wbr-optional-break-points/</guid>
+    </item>
+    <item>
+      <title>Reuse SVG Geometry with symbol and use</title>
+      <link>https://pentaai.site/blog/svg-symbol-use-reusable-icons/</link>
+      <description>Define an SVG symbol once, instantiate it with use, preserve viewBox and currentColor behavior, and give each surrounding control a clear name.</description>
+      <category>CSS</category>
+      <pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/svg-symbol-use-reusable-icons/</guid>
+    </item>
+    <item>
+      <title>Normalize SVG Stroke Dashes with pathLength</title>
+      <link>https://pentaai.site/blog/svg-pathlength-normalized-dashes/</link>
+      <description>Use pathLength to express dash distances on a known scale, avoid percentage-unit surprises, and separate illustrative stroke geometry from progress semantics.</description>
+      <category>CSS</category>
+      <pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/svg-pathlength-normalized-dashes/</guid>
+    </item>
+    <item>
+      <title>Mark Product Names for Translation Without Freezing the Sentence</title>
+      <link>https://pentaai.site/blog/html-translate-protected-names/</link>
+      <description>Use translate=no on stable names or identifiers, preserve translatable surrounding copy, and distinguish localization guidance from language metadata.</description>
+      <category>Typography</category>
+      <pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/html-translate-protected-names/</guid>
+    </item>
+    <item>
+      <title>Give a Data Table Its Own Caption and Scope</title>
+      <link>https://pentaai.site/blog/html-table-caption-context/</link>
+      <description>Use a table caption to identify the dataset and its scope, keep header relationships intact, and verify the table’s accessible name after styling changes.</description>
+      <category>Accessibility</category>
+      <pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/html-table-caption-context/</guid>
+    </item>
+    <item>
+      <title>Choose Cursor Feedback That Matches the Real Interaction</title>
+      <link>https://pentaai.site/blog/css-cursor-affordance-fallback/</link>
+      <description>Use cursor keywords and custom-image fallbacks deliberately, inspect inherited cursor rules, and keep unavailable or draggable behavior in the interaction code.</description>
+      <category>CSS</category>
+      <pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/css-cursor-affordance-fallback/</guid>
+    </item>
+    <item>
+      <title>Find Why a Web Component’s Slot Fallback Disappeared</title>
+      <link>https://pentaai.site/blog/html-slot-fallback-assigned-content/</link>
+      <description>Inspect assigned slot nodes when fallback content vanishes, distinguish named and default slots, and review whitespace without deleting meaningful user text.</description>
+      <category>CSS</category>
+      <pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/html-slot-fallback-assigned-content/</guid>
     </item>
   </channel>
 </rss>
