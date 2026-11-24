@@ -441,5 +441,33 @@
       "https://pentaai.site/blog/css-cursor-affordance-fallback/",
       "https://pentaai.site/blog/html-slot-fallback-assigned-content/"
     ]
+  },
+  {
+    "date": "2026-11-24",
+    "count": 20,
+    "commit": "49a53741691d6870f13e38322e86eeb315148030",
+    "deployment": "GitHub Pages built; all 83 checked public URLs returned HTTP 200 and matched the build: twenty articles, sixty WebP cover variants, blog index, sitemap and RSS. Live desktop/mobile checks passed. Live library has 326 guides; sitemap has 330 URLs.",
+    "urls": [
+      "https://pentaai.site/blog/javascript-default-action-event-propagation/",
+      "https://pentaai.site/blog/javascript-currenttarget-after-await/",
+      "https://pentaai.site/blog/javascript-composedpath-shadow-events/",
+      "https://pentaai.site/blog/javascript-pointer-capture-drag-lifecycle/",
+      "https://pentaai.site/blog/javascript-composition-aware-text-preview/",
+      "https://pentaai.site/blog/html-invalid-event-capture-diagnostics/",
+      "https://pentaai.site/blog/javascript-textarea-setrangetext-insertion/",
+      "https://pentaai.site/blog/css-prefers-contrast-deliberate-adjustments/",
+      "https://pentaai.site/blog/css-light-dark-active-color-scheme/",
+      "https://pentaai.site/blog/css-relative-color-alpha-token/",
+      "https://pentaai.site/blog/css-repeating-gradient-period/",
+      "https://pentaai.site/blog/css-elliptical-radius-slash-syntax/",
+      "https://pentaai.site/blog/css-perspective-shared-scene/",
+      "https://pentaai.site/blog/svg-paint-order-fill-stroke/",
+      "https://pentaai.site/blog/svg-mask-alpha-luminance/",
+      "https://pentaai.site/blog/svg-textlength-label-fitting/",
+      "https://pentaai.site/blog/canvas-cross-origin-image-export/",
+      "https://pentaai.site/blog/html-textarea-hard-wrap-submission/",
+      "https://pentaai.site/blog/javascript-transitionend-filter-cancellation/",
+      "https://pentaai.site/blog/javascript-setproperty-token-preview/"
+    ]
   }
 ]
