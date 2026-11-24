@@ -5,7 +5,7 @@
     <link>https://pentaai.site/blog/</link>
     <description>Practical guides to website fonts, colors, CSS and design systems.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 23 Nov 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 00:00:00 +0000</lastBuildDate>
     <item>
       <title>How to Extract a Design System from an Existing Website</title>
       <link>https://pentaai.site/blog/extract-design-system-from-website/</link>
@@ -2453,6 +2453,166 @@
       <category>CSS</category>
       <pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://pentaai.site/blog/html-slot-fallback-assigned-content/</guid>
+    </item>
+    <item>
+      <title>Separate a Canceled Default Action from Event Propagation</title>
+      <link>https://pentaai.site/blog/javascript-default-action-event-propagation/</link>
+      <description>Compare preventDefault and stopPropagation with a local link, inspect defaultPrevented, and avoid hiding unrelated listeners while fixing one interaction.</description>
+      <category>CSS</category>
+      <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/javascript-default-action-event-propagation/</guid>
+    </item>
+    <item>
+      <title>Save the Listener Element Before an Asynchronous Callback</title>
+      <link>https://pentaai.site/blog/javascript-currenttarget-after-await/</link>
+      <description>Capture event.currentTarget while the handler runs, distinguish it from the originating target, and check element ownership before updating after async work.</description>
+      <category>CSS</category>
+      <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/javascript-currenttarget-after-await/</guid>
+    </item>
+    <item>
+      <title>Trace a Click Across an Open Shadow Root</title>
+      <link>https://pentaai.site/blog/javascript-composedpath-shadow-events/</link>
+      <description>Use composedPath to inspect event retargeting across an open shadow root, recognize closed-root limits, and prefer public component events for integrations.</description>
+      <category>CSS</category>
+      <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/javascript-composedpath-shadow-events/</guid>
+    </item>
+    <item>
+      <title>Keep a Pointer Gesture Attached to Its Capture Element</title>
+      <link>https://pentaai.site/blog/javascript-pointer-capture-drag-lifecycle/</link>
+      <description>Use pointer capture during a bounded gesture, clear state on cancellation or capture loss, and keep keyboard alternatives and scrolling policy explicit.</description>
+      <category>CSS</category>
+      <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/javascript-pointer-capture-drag-lifecycle/</guid>
+    </item>
+    <item>
+      <title>Wait for Text Composition Before Committing a Preview</title>
+      <link>https://pentaai.site/blog/javascript-composition-aware-text-preview/</link>
+      <description>Respect input-method composition when updating a committed preview, deduplicate final updates, and test actual IME sequences instead of ordinary typing alone.</description>
+      <category>Typography</category>
+      <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/javascript-composition-aware-text-preview/</guid>
+    </item>
+    <item>
+      <title>Observe Invalid Form Controls from a Capture Listener</title>
+      <link>https://pentaai.site/blog/html-invalid-event-capture-diagnostics/</link>
+      <description>Catch invalid events at a form with capture enabled, distinguish validation checks from submission, and preserve useful native feedback while diagnosing errors.</description>
+      <category>Accessibility</category>
+      <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/html-invalid-event-capture-diagnostics/</guid>
+    </item>
+    <item>
+      <title>Insert a Token into a Textarea Without Losing the Selection</title>
+      <link>https://pentaai.site/blog/javascript-textarea-setrangetext-insertion/</link>
+      <description>Use setRangeText to replace a selected range, place the caret deliberately, and synchronize the preview explicitly after a programmatic text edit.</description>
+      <category>Typography</category>
+      <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/javascript-textarea-setrangetext-insertion/</guid>
+    </item>
+    <item>
+      <title>Respond to a Contrast Preference with Specific UI Changes</title>
+      <link>https://pentaai.site/blog/css-prefers-contrast-deliberate-adjustments/</link>
+      <description>Use prefers-contrast for deliberate border and text adjustments, test the ordinary state too, and keep this preference separate from forced-colors behavior.</description>
+      <category>Accessibility</category>
+      <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/css-prefers-contrast-deliberate-adjustments/</guid>
+    </item>
+    <item>
+      <title>Choose Paired Colors with light-dark and the Active Scheme</title>
+      <link>https://pentaai.site/blog/css-light-dark-active-color-scheme/</link>
+      <description>Use light-dark with an explicit color-scheme policy, compare inherited and forced component schemes, and keep fallback colors readable without the function.</description>
+      <category>Color</category>
+      <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/css-light-dark-active-color-scheme/</guid>
+    </item>
+    <item>
+      <title>Derive an Alpha Color Without Fading the Whole Component</title>
+      <link>https://pentaai.site/blog/css-relative-color-alpha-token/</link>
+      <description>Use relative RGB color syntax to preserve source channels while setting alpha, provide a fallback, and review the result over each real surface.</description>
+      <category>Color</category>
+      <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/css-relative-color-alpha-token/</guid>
+    </item>
+    <item>
+      <title>Calculate the Repeat Period of a CSS Stripe Pattern</title>
+      <link>https://pentaai.site/blog/css-repeating-gradient-period/</link>
+      <description>Read the first and last gradient stops to calculate the repeat period, compare hard transitions, and keep decorative stripes separate from meaningful status.</description>
+      <category>Color</category>
+      <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/css-repeating-gradient-period/</guid>
+    </item>
+    <item>
+      <title>Read Horizontal and Vertical Corner Radii Around the Slash</title>
+      <link>https://pentaai.site/blog/css-elliptical-radius-slash-syntax/</link>
+      <description>Decode border-radius slash syntax, compare elliptical and circular corners, and inspect browser scaling when large radii compete for limited box space.</description>
+      <category>CSS</category>
+      <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/css-elliptical-radius-slash-syntax/</guid>
+    </item>
+    <item>
+      <title>Give Rotated Elements a Shared Perspective Scene</title>
+      <link>https://pentaai.site/blog/css-perspective-shared-scene/</link>
+      <description>Apply perspective to a parent scene, compare viewing distances, and distinguish a shared projection from an individual perspective transform.</description>
+      <category>CSS</category>
+      <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/css-perspective-shared-scene/</guid>
+    </item>
+    <item>
+      <title>Paint a Stroke Behind an SVG Fill Without Duplicating Geometry</title>
+      <link>https://pentaai.site/blog/svg-paint-order-fill-stroke/</link>
+      <description>Use paint-order to put an outline behind the fill, compare unchanged stroke geometry, and inspect small labels without confusing paint order with stacking order.</description>
+      <category>CSS</category>
+      <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/svg-paint-order-fill-stroke/</guid>
+    </item>
+    <item>
+      <title>Choose Alpha or Luminance for an SVG Mask</title>
+      <link>https://pentaai.site/blog/svg-mask-alpha-luminance/</link>
+      <description>Compare opaque black masks under alpha and luminance modes, inspect mask-type on the definition, and distinguish transparency from brightness.</description>
+      <category>CSS</category>
+      <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/svg-mask-alpha-luminance/</guid>
+    </item>
+    <item>
+      <title>Fit an SVG Label with an Explicit Text-Length Policy</title>
+      <link>https://pentaai.site/blog/svg-textlength-label-fitting/</link>
+      <description>Compare SVG textLength spacing with spacingAndGlyphs, inspect the actual font, and preserve readable labels instead of compressing unknown text blindly.</description>
+      <category>Typography</category>
+      <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/svg-textlength-label-fitting/</guid>
+    </item>
+    <item>
+      <title>Diagnose a Canvas Export Blocked by an Image’s Origin</title>
+      <link>https://pentaai.site/blog/canvas-cross-origin-image-export/</link>
+      <description>Check cross-origin image request mode and server permission before canvas export, distinguish decode failures from tainted pixels, and preserve a clear failure state.</description>
+      <category>CSS</category>
+      <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/canvas-cross-origin-image-export/</guid>
+    </item>
+    <item>
+      <title>Distinguish Textarea Display Wrapping from Submitted Line Breaks</title>
+      <link>https://pentaai.site/blog/html-textarea-hard-wrap-submission/</link>
+      <description>Compare soft and hard textarea wrapping with a controlled form submission, preserve intentional newlines, and avoid inferring the submitted value from a screenshot.</description>
+      <category>Typography</category>
+      <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/html-textarea-hard-wrap-submission/</guid>
+    </item>
+    <item>
+      <title>Treat Transition Completion as an Event, Not a Guaranteed Timer</title>
+      <link>https://pentaai.site/blog/javascript-transitionend-filter-cancellation/</link>
+      <description>Filter transitionend by target and property, account for cancellation and zero-duration states, and keep essential UI behavior independent of decoration.</description>
+      <category>CSS</category>
+      <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/javascript-transitionend-filter-cancellation/</guid>
+    </item>
+    <item>
+      <title>Preview a CSS Token and Restore Its Previous Inline State</title>
+      <link>https://pentaai.site/blog/javascript-setproperty-token-preview/</link>
+      <description>Use style.setProperty for a temporary custom-property override, preserve its priority, and remove the inline declaration when the original value came from the cascade.</description>
+      <category>Design systems</category>
+      <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://pentaai.site/blog/javascript-setproperty-token-preview/</guid>
     </item>
   </channel>
 </rss>

@@ -1,0 +1,566 @@
+{
+  "version": 1,
+  "description": "Original explanatory illustrations matching Penta AI homepage feature panels. Values are examples; not product screenshots.",
+  "assets": [
+    {
+      "slug": "javascript-default-action-event-propagation",
+      "alt": "Two independent event outcomes compare canceling a default action with stopping propagation to a parent listener.",
+      "source": "/blog/covers/javascript-default-action-event-propagation.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/javascript-default-action-event-propagation.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 29534
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/javascript-default-action-event-propagation-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 12924
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/javascript-default-action-event-propagation-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 4756
+        }
+      ]
+    },
+    {
+      "slug": "javascript-currenttarget-after-await",
+      "alt": "A button reference captured inside a listener remains available after a timer yield, while currentTarget is null once event dispatch has finished.",
+      "source": "/blog/covers/javascript-currenttarget-after-await.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/javascript-currenttarget-after-await.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 23042
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/javascript-currenttarget-after-await-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 10236
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/javascript-currenttarget-after-await-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 4012
+        }
+      ]
+    },
+    {
+      "slug": "javascript-composedpath-shadow-events",
+      "alt": "An open shadow root contains an internal button while the outer listener sees the host target and can inspect the exposed event path.",
+      "source": "/blog/covers/javascript-composedpath-shadow-events.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/javascript-composedpath-shadow-events.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 19120
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/javascript-composedpath-shadow-events-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 8518
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/javascript-composedpath-shadow-events-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 3240
+        }
+      ]
+    },
+    {
+      "slug": "javascript-pointer-capture-drag-lifecycle",
+      "alt": "A pointer travels beyond a capture element’s boundary while its gesture remains associated with that element, followed by cleanup on release or cancellation.",
+      "source": "/blog/covers/javascript-pointer-capture-drag-lifecycle.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/javascript-pointer-capture-drag-lifecycle.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 21234
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/javascript-pointer-capture-drag-lifecycle-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 9572
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/javascript-pointer-capture-drag-lifecycle-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 3738
+        }
+      ]
+    },
+    {
+      "slug": "javascript-composition-aware-text-preview",
+      "alt": "Intermediate input composition waits before updating a committed preview; the final value is rendered through one deduplicated function.",
+      "source": "/blog/covers/javascript-composition-aware-text-preview.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/javascript-composition-aware-text-preview.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 22676
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/javascript-composition-aware-text-preview-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 9990
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/javascript-composition-aware-text-preview-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 3688
+        }
+      ]
+    },
+    {
+      "slug": "html-invalid-event-capture-diagnostics",
+      "alt": "A form capture listener observes an invalid required input while native validation feedback remains enabled.",
+      "source": "/blog/covers/html-invalid-event-capture-diagnostics.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/html-invalid-event-capture-diagnostics.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 20490
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/html-invalid-event-capture-diagnostics-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 9134
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/html-invalid-event-capture-diagnostics-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 3540
+        }
+      ]
+    },
+    {
+      "slug": "javascript-textarea-setrangetext-insertion",
+      "alt": "A selected word in review notes is replaced by the literal surface-panel token, with the caret positioned immediately after the inserted text.",
+      "source": "/blog/covers/javascript-textarea-setrangetext-insertion.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/javascript-textarea-setrangetext-insertion.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 19624
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/javascript-textarea-setrangetext-insertion-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 8900
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/javascript-textarea-setrangetext-insertion-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 3408
+        }
+      ]
+    },
+    {
+      "slug": "css-prefers-contrast-deliberate-adjustments",
+      "alt": "Two note surfaces keep equal border thickness while the higher-contrast preference strengthens text and boundary colors.",
+      "source": "/blog/covers/css-prefers-contrast-deliberate-adjustments.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/css-prefers-contrast-deliberate-adjustments.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 18290
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/css-prefers-contrast-deliberate-adjustments-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 8198
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/css-prefers-contrast-deliberate-adjustments-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 3046
+        }
+      ]
+    },
+    {
+      "slug": "css-light-dark-active-color-scheme",
+      "alt": "A paired light and dark surface selects coordinated foreground and background colors according to its active color scheme.",
+      "source": "/blog/covers/css-light-dark-active-color-scheme.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/css-light-dark-active-color-scheme.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 18208
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/css-light-dark-active-color-scheme-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 7968
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/css-light-dark-active-color-scheme-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 2956
+        }
+      ]
+    },
+    {
+      "slug": "css-relative-color-alpha-token",
+      "alt": "A brand color supplies red, green and blue channels to a derived color with fifteen percent alpha while the text remains opaque.",
+      "source": "/blog/covers/css-relative-color-alpha-token.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/css-relative-color-alpha-token.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 19326
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/css-relative-color-alpha-token-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 8854
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/css-relative-color-alpha-token-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 3366
+        }
+      ]
+    },
+    {
+      "slug": "css-repeating-gradient-period",
+      "alt": "Alternating eight-pixel color intervals form a sixteen-pixel repeating gradient period, shown as a decorative vertical stripe field.",
+      "source": "/blog/covers/css-repeating-gradient-period.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/css-repeating-gradient-period.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 16596
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/css-repeating-gradient-period-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 8496
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/css-repeating-gradient-period-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 3302
+        }
+      ]
+    },
+    {
+      "slug": "css-elliptical-radius-slash-syntax",
+      "alt": "A circular forty-pixel corner is compared with an elliptical corner whose horizontal and vertical radii are sixty and twenty pixels.",
+      "source": "/blog/covers/css-elliptical-radius-slash-syntax.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/css-elliptical-radius-slash-syntax.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 18376
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/css-elliptical-radius-slash-syntax-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 7904
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/css-elliptical-radius-slash-syntax-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 3222
+        }
+      ]
+    },
+    {
+      "slug": "css-perspective-shared-scene",
+      "alt": "A schematic shared scene contains two tilted planes and marks a common projection origin; viewing distance belongs to the parent scene.",
+      "source": "/blog/covers/css-perspective-shared-scene.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/css-perspective-shared-scene.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 14690
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/css-perspective-shared-scene-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 6624
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/css-perspective-shared-scene-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 2684
+        }
+      ]
+    },
+    {
+      "slug": "svg-paint-order-fill-stroke",
+      "alt": "Two equal circles compare the normal fill-then-stroke order with stroke-first painting, where the fill covers the stroke’s inner portion.",
+      "source": "/blog/covers/svg-paint-order-fill-stroke.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/svg-paint-order-fill-stroke.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 23698
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/svg-paint-order-fill-stroke-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 11134
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/svg-paint-order-fill-stroke-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 4800
+        }
+      ]
+    },
+    {
+      "slug": "svg-mask-alpha-luminance",
+      "alt": "Opaque black mask content reveals a blue shape under alpha mode but hides it under luminance mode.",
+      "source": "/blog/covers/svg-mask-alpha-luminance.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/svg-mask-alpha-luminance.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 16444
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/svg-mask-alpha-luminance-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 7358
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/svg-mask-alpha-luminance-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 2884
+        }
+      ]
+    },
+    {
+      "slug": "svg-textlength-label-fitting",
+      "alt": "An SVG label-fitting diagram distinguishes adjusting character spacing from adjusting both spacing and glyph widths, with the same requested text length.",
+      "source": "/blog/covers/svg-textlength-label-fitting.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/svg-textlength-label-fitting.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 19360
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/svg-textlength-label-fitting-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 8810
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/svg-textlength-label-fitting-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 3454
+        }
+      ]
+    },
+    {
+      "slug": "canvas-cross-origin-image-export",
+      "alt": "A canvas-export flow requires the image request’s CORS mode and an allowing response from the foreign server; displaying an image alone is not export permission.",
+      "source": "/blog/covers/canvas-cross-origin-image-export.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/canvas-cross-origin-image-export.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 23680
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/canvas-cross-origin-image-export-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 10570
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/canvas-cross-origin-image-export-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 3910
+        }
+      ]
+    },
+    {
+      "slug": "html-textarea-hard-wrap-submission",
+      "alt": "Two visually wrapped notes differ in serialization policy: soft preserves authored breaks while hard can add submission breaks at wrapping boundaries.",
+      "source": "/blog/covers/html-textarea-hard-wrap-submission.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/html-textarea-hard-wrap-submission.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 20550
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/html-textarea-hard-wrap-submission-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 8676
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/html-textarea-hard-wrap-submission-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 3232
+        }
+      ]
+    },
+    {
+      "slug": "javascript-transitionend-filter-cancellation",
+      "alt": "Transition lifecycle outcomes include completion, cancellation and no transition, so logical interface state cannot rely only on a completion event.",
+      "source": "/blog/covers/javascript-transitionend-filter-cancellation.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/javascript-transitionend-filter-cancellation.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 23548
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/javascript-transitionend-filter-cancellation-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 10434
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/javascript-transitionend-filter-cancellation-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 4000
+        }
+      ]
+    },
+    {
+      "slug": "javascript-setproperty-token-preview",
+      "alt": "A temporary inline token preview is removed on restoration so the component follows its inherited theme value again.",
+      "source": "/blog/covers/javascript-setproperty-token-preview.svg",
+      "variants": [
+        {
+          "field": "cover",
+          "path": "/blog/covers/javascript-setproperty-token-preview.webp",
+          "width": 1200,
+          "height": 630,
+          "bytes": 21870
+        },
+        {
+          "field": "coverSmall",
+          "path": "/blog/covers/javascript-setproperty-token-preview-640.webp",
+          "width": 640,
+          "height": 336,
+          "bytes": 9538
+        },
+        {
+          "field": "coverThumbnail",
+          "path": "/blog/covers/javascript-setproperty-token-preview-320.webp",
+          "width": 320,
+          "height": 168,
+          "bytes": 3526
+        }
+      ]
+    }
+  ]
+}
